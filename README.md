@@ -1,4 +1,4 @@
-predict-nfl-champions
+Predict NFL Champions
 =====================
 
 Team Members - Chetain Naik, Sindhuri Mamidi, Beijie Li, Ankit Arun
