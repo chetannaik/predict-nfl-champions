@@ -10,6 +10,7 @@ It is a Data Science (CSE- 591) project in which we need to create models to pre
 * [NFL Baseline](http://nbviewer.ipython.org/github/chetannaik/predict-nfl-champions/blob/master/NFL%20Baseline.ipynb)
 * [NFL Linear Regression](http://nbviewer.ipython.org/github/chetannaik/predict-nfl-champions/blob/master/NFL%20Linear%20Regression%20Model.ipynb)
 * [NFL PageRank](http://nbviewer.ipython.org/github/chetannaik/predict-nfl-champions/blob/master/NFL%20PageRank.ipynb)
+
 ##### College Football
 * [CFB Baseline](http://nbviewer.ipython.org/github/chetannaik/predict-nfl-champions/blob/master/College%20Football%20Baseline.ipynb)
 * [CFB Linear Regression](http://nbviewer.ipython.org/github/chetannaik/predict-nfl-champions/blob/master/College%20Football%20Linear%20Regression%20Model%20.ipynb)
