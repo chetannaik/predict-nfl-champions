@@ -1,0 +1,771 @@
+Date,Visitor,Visitor Score,Home Team,Home Score,Line
+08/28/2008,UTEP,17,Buffalo,42,3.0
+08/28/2008,Vanderbilt,34,Miami-Ohio,13,3.5
+08/28/2008,No Carolina State,0,South Carolina,34,14.0
+08/28/2008,Wake Forest,41,Baylor,13,-12.0
+08/28/2008,Oregon State,28,Stanford,36,-2.5
+08/28/2008,Troy,31,Middle Tennessee,17,-6.0
+08/28/2008,Hofstra,3,Connecticut,35, 
+08/28/2008,Eastern Illinois,12,Central Michigan,31, 
+08/28/2008,Indiana State,0,Eastern Michigan,52, 
+08/28/2008,Northeastern,14,Ball State,48, 
+08/28/2008,Charleston Southern,7,Miami-Florida,52, 
+08/28/2008,Eastern Kentucky,7,Cincinnati,40, 
+08/28/2008,Jacksonville St,14,Georgia Tech,41, 
+08/28/2008,South Dakota State,17,Iowa State,44, 
+08/29/2008,Temple,35,Army,7,-7.0
+08/29/2008,S-M-U,27,Rice,56,3.0
+08/30/2008,Utah,25,Michigan,23,3.0
+08/30/2008,Syracuse,10,Northwestern,30,12.0
+08/30/2008,Memphis,24,Mississippi,41,7.5
+08/30/2008,Ohio,20,Wyoming,21,13.5
+08/30/2008,Akron,17,Wisconsin,38,26.5
+08/30/2008,Western Michigan,24,Nebraska,47,14.0
+08/30/2008,Washington,10,Oregon,44,13.5
+08/30/2008,Tulsa,45,U-A-B,22,-13.5
+08/30/2008,Texas Christian,26,New Mexico,3,-6.5
+08/30/2008,Mississippi State,14,Louisiana Tech,22,-7.5
+08/30/2008,Boston College,21,Kent State,0,-10.0
+08/30/2008,Oklahoma State,39,Washington State,13,-7.0
+08/30/2008,Northern Illinois,27,Minnesota,31,8.0
+08/30/2008,Bowling Green,27,Pittsburgh,17,13.5
+08/30/2008,Hawaii,10,Florida,56,34.5
+08/30/2008,Virginia Tech,22,East Carolina,27,-9.0
+08/30/2008,Illinois,42,Missouri,52,9.0
+08/30/2008,Michigan State,31,California,38,5.0
+08/30/2008,Southern Cal,52,Virginia,7,-19.5
+08/30/2008,Alabama,34,Clemson,10,4.5
+08/30/2008,Idaho,0,Arizona,70,27.0
+08/30/2008,Utah State,17,Nevada-Las Vegas,27,12.5
+08/30/2008,Western Kentucky,13,Indiana,31,19.0
+08/30/2008,UL-Monroe,0,Auburn,34,26.0
+08/30/2008,UL-Lafayette,21,Southern Miss,51,10.0
+08/30/2008,Florida Atlantic,10,Texas,52,24.0
+08/30/2008,Florida Intl,10,Kansas,40,36.0
+08/30/2008,Arkansas State,18,Texas A+M,14,18.5
+08/30/2008,North Texas,6,Kansas State,45,27.0
+08/30/2008,Coastal Carolina,10,Penn State,66, 
+08/30/2008,Chattanooga,2,Oklahoma,57, 
+08/30/2008,Georgia Southern,21,Georgia,45, 
+08/30/2008,Maine,3,Iowa,46, 
+08/30/2008,Tennessee-Martin,7,South Florida,56, 
+08/30/2008,Villanova,21,West Virginia,48, 
+08/30/2008,Western Illinois,24,Arkansas,28, 
+08/30/2008,Youngstown State,0,Ohio State,43, 
+08/30/2008,Southern Utah,7,Air Force,41, 
+08/30/2008,Towson,13,Navy,41, 
+08/30/2008,UC-Davis,10,San Jose State,13, 
+08/30/2008,Illinois State,10,Marshall,35, 
+08/30/2008,Appalachian State,13,Louisiana State,41, 
+08/30/2008,Delaware,7,Maryland,14, 
+08/30/2008,McNeese State,27,North Carolina,35, 
+08/30/2008,Northern Iowa,17,Brigham Young,41, 
+08/30/2008,So Carolina State,0,U-C-F,17, 
+08/30/2008,Eastern Washington,24,Texas Tech,49, 
+08/30/2008,James Madison,7,Duke,31, 
+08/30/2008,Southern Univ,3,Houston,55, 
+08/30/2008,Idaho State,7,Boise State,49, 
+08/30/2008,Grambling,13,Nevada-Reno,49, 
+08/30/2008,Cal-San Luis Obispo,29,San Diego State,27, 
+08/30/2008,Northern Arizona,13,Arizona State,30, 
+08/31/2008,Kentucky,27,Louisville,2,3.5
+08/31/2008,Colorado,38,Colorado State,17,-11.5
+09/01/2008,Fresno State,24,Rutgers,7,3.0
+09/01/2008,Tennessee,24,U.C.L.A.,27,-7.5
+09/04/2008,South Carolina,17,Vanderbilt,24,-9.5
+09/05/2008,Navy,23,Ball State,35,7.0
+09/06/2008,Eastern Michigan,10,Michigan State,42,21.0
+09/06/2008,Akron,42,Syracuse,28,4.5
+09/06/2008,Miami-Ohio,6,Michigan,16,14.5
+09/06/2008,Northwestern,24,Duke,20,-6.5
+09/06/2008,Georgia Tech,19,Boston College,16,6.5
+09/06/2008,West Virginia,3,East Carolina,24,-7.5
+09/06/2008,Minnesota,42,Bowling Green,17,5.0
+09/06/2008,Southern Miss,13,Auburn,27,19.5
+09/06/2008,Tulane,6,Alabama,20,29.5
+09/06/2008,San Jose State,12,Nebraska,35,26.5
+09/06/2008,Utah State,24,Oregon,66,36.0
+09/06/2008,Cincinnati,26,Oklahoma,52,22.5
+09/06/2008,Ohio,14,Ohio State,26,34.5
+09/06/2008,Marshall,14,Wisconsin,51,21.0
+09/06/2008,Miami-Florida,3,Florida,26,23.0
+09/06/2008,Texas Tech,35,Nevada-Reno,19,-10.0
+09/06/2008,Central Michigan,17,Georgia,56,24.0
+09/06/2008,Oregon State,14,Penn State,45,15.0
+09/06/2008,Air Force,23,Wyoming,3,3.0
+09/06/2008,Brigham Young,28,Washington,27,-8.0
+09/06/2008,San Diego State,13,Notre Dame,21,21.5
+09/06/2008,Texas A+M,28,New Mexico,22,-2.0
+09/06/2008,Buffalo,16,Pittsburgh,27,13.5
+09/06/2008,Houston,37,Oklahoma State,56,15.5
+09/06/2008,Kent State,28,Iowa State,48,8.0
+09/06/2008,Mississippi,28,Wake Forest,30,7.0
+09/06/2008,California,66,Washington State,3,-13.5
+09/06/2008,Northern Illinois,26,Western Michigan,29,6.0
+09/06/2008,South Florida,31,U-C-F,24,-13.5
+09/06/2008,Connecticut,12,Temple,9,-6.5
+09/06/2008,Louisiana Tech,0,Kansas,29,22.0
+09/06/2008,Rice,42,Memphis,35,3.0
+09/06/2008,Nevada-Las Vegas,21,Utah,42,21.5
+09/06/2008,Toledo,16,Arizona,41,23.5
+09/06/2008,Stanford,17,Arizona State,41,14.5
+09/06/2008,Texas,42,UTEP,13,-26.5
+09/06/2008,Florida Intl,0,Iowa,42,27.0
+09/06/2008,UL-Monroe,27,Arkansas,28,14.0
+09/06/2008,Tulsa,56,North Texas,26,-22.0
+09/06/2008,U-A-B,34,Florida Atlantic,49,14.0
+09/06/2008,Maryland,14,Middle Tennessee,24,-12.5
+09/06/2008,Northern Colorado,10,Purdue,42, 
+09/06/2008,Furman,7,Virginia Tech,24, 
+09/06/2008,S E Louisiana,10,Mississippi State,34, 
+09/06/2008,Western Carolina,0,Florida State,69, 
+09/06/2008,The Citadel,17,Clemson,45, 
+09/06/2008,Eastern Washington,24,Colorado,31, 
+09/06/2008,Norfolk State,3,Kentucky,38, 
+09/06/2008,Sacramento State,20,Colorado State,23, 
+09/06/2008,Tennessee Tech,10,Louisville,51, 
+09/06/2008,Richmond,0,Virginia,16, 
+09/06/2008,Idaho State,27,Idaho,42, 
+09/06/2008,Western Kentucky,37,Eastern Kentucky,13, 
+09/06/2008,Stephen F Austin,7,Texas Christian,67, 
+09/06/2008,Murray State,3,Indiana,45, 
+09/06/2008,New Hampshire,28,Army,10, 
+09/06/2008,Northwestern St(LA),6,Baylor,51, 
+09/06/2008,Texas Southern,10,Arkansas State,83, 
+09/06/2008,Montana State,10,Kansas State,69, 
+09/06/2008,Eastern Illinois,21,Illinois,47, 
+09/06/2008,S E Missouri St,3,Missouri,52, 
+09/06/2008,Texas State,36,S-M-U,47, 
+09/06/2008,William + Mary,24,No Carolina State,34, 
+09/06/2008,Weber State,17,Hawaii,36, 
+09/11/2008,North Carolina,44,Rutgers,12,6.0
+09/12/2008,Kansas,34,South Florida,37,4.5
+09/12/2008,Washington State,17,Baylor,45,6.5
+09/12/2008,Alabama A+M,15,UL-Monroe,37, 
+09/13/2008,Navy,31,Duke,41,2.0
+09/13/2008,Rice,21,Vanderbilt,38,8.5
+09/13/2008,Auburn,3,Mississippi State,2,-10.0
+09/13/2008,Ball State,41,Akron,24,-7.0
+09/13/2008,Toledo,41,Eastern Michigan,17,2.0
+09/13/2008,Nevada-Reno,17,Missouri,69,26.5
+09/13/2008,S-M-U,7,Texas Tech,43,36.0
+09/13/2008,New Mexico State,7,Nebraska,38,25.5
+09/13/2008,U.C.L.A.,0,Brigham Young,59,7.5
+09/13/2008,Oregon,32,Purdue,26,-8.0
+09/13/2008,Georgia,14,South Carolina,7,-7.5
+09/13/2008,Air Force,31,Houston,28,4.0
+09/13/2008,Hawaii,7,Oregon State,45,13.0
+09/13/2008,Wisconsin,13,Fresno State,10,-2.0
+09/13/2008,Penn State,55,Syracuse,13,-28.0
+09/13/2008,Michigan,17,Notre Dame,35,-2.0
+09/13/2008,Iowa State,5,Iowa,17,13.5
+09/13/2008,Georgia Tech,17,Virginia Tech,20,6.5
+09/13/2008,No Carolina State,9,Clemson,27,18.5
+09/13/2008,Western Michigan,51,Idaho,28,-8.0
+09/13/2008,Central Michigan,31,Ohio,28,-3.0
+09/13/2008,California,27,Maryland,35,-14.5
+09/13/2008,Stanford,14,Texas Christian,31,14.0
+09/13/2008,Temple,28,Buffalo,30,6.5
+09/13/2008,U-A-B,3,Tennessee,35,30.5
+09/13/2008,East Carolina,28,Tulane,24,-13.0
+09/13/2008,Memphis,16,Marshall,17,4.0
+09/13/2008,Virginia,10,Connecticut,45,11.0
+09/13/2008,Oklahoma,55,Washington,14,-21.0
+09/13/2008,Ohio State,3,Southern Cal,35,11.5
+09/13/2008,Arizona,28,New Mexico,36,-10.5
+09/13/2008,Bowling Green,7,Boise State,20,16.5
+09/13/2008,Utah,58,Utah State,10,-24.0
+09/13/2008,San Diego State,10,San Jose State,35,6.0
+09/13/2008,Nevada-Las Vegas,23,Arizona State,20,23.5
+09/13/2008,Florida Atlantic,0,Michigan State,17,17.0
+09/13/2008,Western Kentucky,7,Alabama,41,28.0
+09/13/2008,Southern Miss,27,Arkansas State,24,2.5
+09/13/2008,Middle Tennessee,14,Kentucky,20,17.5
+09/13/2008,UL-Lafayette,17,Illinois,20,25.5
+09/13/2008,North Texas,3,Louisiana State,41,41.5
+09/13/2008,Charleston Southern,27,Miami-Ohio,38, 
+09/13/2008,North Dakota St,13,Wyoming,16, 
+09/13/2008,Samford,10,Mississippi,34, 
+09/13/2008,Chattanooga,7,Florida State,46, 
+09/13/2008,Alcorn State,0,Troy,65, 
+09/13/2008,Southern Illinois,7,Northwestern,33, 
+09/13/2008,Missouri State,13,Oklahoma State,57, 
+09/13/2008,Delaware State,3,Kent State,24, 
+09/13/2008,Montana State,23,Minnesota,35, 
+09/17/2008,Kansas State,29,Louisville,38,-6.0
+09/18/2008,West Virginia,14,Colorado,17,-3.0
+09/19/2008,Baylor,28,Connecticut,31,13.0
+09/20/2008,Temple,3,Penn State,45,28.5
+09/20/2008,U-C-F,7,Boston College,34,10.0
+09/20/2008,Ohio,8,Northwestern,16,10.5
+09/20/2008,Miami-Ohio,20,Cincinnati,45,12.0
+09/20/2008,Vanderbilt,23,Mississippi,17,7.0
+09/20/2008,Mississippi State,7,Georgia Tech,38,7.0
+09/20/2008,Wyoming,0,Brigham Young,44,29.0
+09/20/2008,Louisiana State,26,Auburn,21,-2.5
+09/20/2008,Alabama,49,Arkansas,14,-9.5
+09/20/2008,Marshall,34,Southern Miss,27,7.5
+09/20/2008,Houston,25,Colorado State,28,-6.0
+09/20/2008,Rutgers,21,Navy,23,-6.5
+09/20/2008,Virginia Tech,20,North Carolina,17,4.0
+09/20/2008,Iowa,20,Pittsburgh,21,2.0
+09/20/2008,Wake Forest,12,Florida State,3,4.0
+09/20/2008,Notre Dame,7,Michigan State,23,9.0
+09/20/2008,Boise State,37,Oregon,32,10.0
+09/20/2008,Utah,30,Air Force,23,-9.5
+09/20/2008,New Mexico,14,Tulsa,56,11.0
+09/20/2008,Ball State,42,Indiana,20,2.0
+09/20/2008,Central Michigan,25,Purdue,32,10.0
+09/20/2008,Akron,22,Army,3,-10.0
+09/20/2008,Eastern Michigan,24,Maryland,51,21.5
+09/20/2008,Miami-Florida,41,Texas A+M,23,-2.5
+09/20/2008,East Carolina,24,No Carolina State,30,-7.0
+09/20/2008,Buffalo,21,Missouri,42,32.5
+09/20/2008,Fresno State,55,Toledo,54,-6.0
+09/20/2008,Rice,10,Texas,32,28.5
+09/20/2008,Idaho,17,Utah State,42,3.5
+09/20/2008,Texas Christian,48,S-M-U,7,-24.5
+09/20/2008,Florida,30,Tennessee,6,-7.0
+09/20/2008,Georgia,27,Arizona State,10,-7.5
+09/20/2008,Iowa State,31,Nevada-Las Vegas,34,1.5
+09/20/2008,San Jose State,10,Stanford,23,7.0
+09/20/2008,New Mexico State,34,UTEP,33,7.5
+09/20/2008,Arizona,31,U.C.L.A.,10,-3.5
+09/20/2008,Troy,10,Ohio State,28,21.0
+09/20/2008,Middle Tennessee,14,Arkansas State,31,6.5
+09/20/2008,UL-Monroe,10,Tulane,24,5.0
+09/20/2008,Florida Atlantic,3,Minnesota,37,6.5
+09/20/2008,South Florida,17,Florida Intl,9,-29.5
+09/20/2008,Kent State,27,UL-Lafayette,44,2.0
+09/20/2008,So Carolina State,0,Clemson,54, 
+09/20/2008,Northeastern,21,Syracuse,30, 
+09/20/2008,Wofford,13,South Carolina,23, 
+09/20/2008,Alabama State,10,U-A-B,45, 
+09/20/2008,Portland State,9,Washington State,48, 
+09/20/2008,Murray State,9,Western Kentucky,50, 
+09/20/2008,Indiana State,3,Northern Illinois,48, 
+09/20/2008,Massachusetts,14,Texas Tech,56, 
+09/20/2008,S E Louisiana,26,Louisiana Tech,41, 
+09/20/2008,Sam Houston State,14,Kansas,38, 
+09/20/2008,Tennessee Tech,7,Western Michigan,41, 
+09/20/2008,Nicholls State,10,Memphis,31, 
+09/25/2008,S-M-U,27,Tulane,34,17.5
+09/25/2008,Southern Cal,21,Oregon State,27,-24.5
+09/26/2008,Connecticut,26,Louisville,21,3.5
+09/27/2008,Navy,24,Wake Forest,17,15.5
+09/27/2008,Western Michigan,7,Temple,3,-5.0
+09/27/2008,Marshall,3,West Virginia,27,15.5
+09/27/2008,Pittsburgh,34,Syracuse,24,-14.0
+09/27/2008,Michigan State,42,Indiana,29,-8.0
+09/27/2008,Northwestern,22,Iowa,17,-8.5
+09/27/2008,Virginia,3,Duke,31,7.5
+09/27/2008,North Carolina,28,Miami-Florida,24,7.5
+09/27/2008,Mississippi,31,Florida,30,23.5
+09/27/2008,Mississippi State,24,Louisiana State,34,24.0
+09/27/2008,Northern Illinois,37,Eastern Michigan,0,-5.5
+09/27/2008,Buffalo,25,Central Michigan,27,7.0
+09/27/2008,Cincinnati,17,Akron,15,-11.0
+09/27/2008,Houston,41,East Carolina,24,10.5
+09/27/2008,Purdue,21,Notre Dame,38,1.5
+09/27/2008,Minnesota,21,Ohio State,34,20.5
+09/27/2008,Virginia Tech,35,Nebraska,30,7.0
+09/27/2008,Stanford,35,Washington,28,3.5
+09/27/2008,Colorado State,7,California,42,27.5
+09/27/2008,Alabama,41,Georgia,30,6.5
+09/27/2008,Tennessee,12,Auburn,14,6.5
+09/27/2008,Wisconsin,25,Michigan,27,-5.0
+09/27/2008,Maryland,20,Clemson,17,11.0
+09/27/2008,Fresno State,36,U.C.L.A.,31,-7.0
+09/27/2008,Bowling Green,45,Wyoming,16,-3.0
+09/27/2008,Oregon,63,Washington State,14,-21.5
+09/27/2008,Texas Christian,10,Oklahoma,35,18.5
+09/27/2008,U-A-B,13,South Carolina,26,25.5
+09/27/2008,Army,17,Texas A+M,21,27.0
+09/27/2008,Kent State,20,Ball State,41,21.0
+09/27/2008,South Florida,41,No Carolina State,10,-10.5
+09/27/2008,Colorado,21,Florida State,39,6.0
+09/27/2008,U-C-F,13,UTEP,58,-4.0
+09/27/2008,Illinois,24,Penn State,38,15.0
+09/27/2008,New Mexico,35,New Mexico State,24,-3.0
+09/27/2008,Idaho,17,San Diego State,45,12.5
+09/27/2008,Nevada-Reno,49,Nevada-Las Vegas,27,3.5
+09/27/2008,San Jose State,20,Hawaii,17,3.0
+09/27/2008,Western Kentucky,3,Kentucky,41,19.0
+09/27/2008,Arkansas State,17,Memphis,29,-2.0
+09/27/2008,Troy,24,Oklahoma State,55,17.5
+09/27/2008,Florida Intl,35,Toledo,16,18.0
+09/27/2008,UL-Lafayette,37,Kansas State,45,21.5
+09/27/2008,North Texas,20,Rice,77,15.5
+09/27/2008,Arkansas,10,Texas,52,27.5
+09/27/2008,Rhode Island,0,Boston College,42, 
+09/27/2008,Virginia Military,31,Ohio,51, 
+09/27/2008,Morgan State,0,Rutgers,38, 
+09/27/2008,Central Arkansas,34,Tulsa,62, 
+09/27/2008,Weber State,21,Utah,37, 
+09/30/2008,Florida Atlantic,13,Middle Tennessee,14,2.5
+10/01/2008,Louisiana Tech,3,Boise State,38,24.0
+10/02/2008,Pittsburgh,26,South Florida,21,13.5
+10/02/2008,Memphis,33,U-A-B,30,-3.0
+10/02/2008,Oregon State,28,Utah,31,12.0
+10/03/2008,Cincinnati,33,Marshall,10,-3.5
+10/03/2008,Brigham Young,34,Utah State,14,-28.5
+10/04/2008,Boston College,38,No Carolina State,31,-7.5
+10/04/2008,Rutgers,17,West Virginia,24,14.0
+10/04/2008,Penn State,20,Purdue,6,-14.0
+10/04/2008,Iowa,13,Michigan State,16,6.5
+10/04/2008,Indiana,7,Minnesota,16,6.5
+10/04/2008,Maryland,0,Virginia,31,-13.5
+10/04/2008,Connecticut,12,North Carolina,38,7.5
+10/04/2008,South Carolina,31,Mississippi,24,1.5
+10/04/2008,Texas Tech,58,Kansas State,28,-7.0
+10/04/2008,Kansas,35,Iowa State,33,-11.0
+10/04/2008,Duke,0,Georgia Tech,27,13.0
+10/04/2008,Auburn,13,Vanderbilt,14,-4.0
+10/04/2008,Nevada-Las Vegas,28,Colorado State,41,1.5
+10/04/2008,Ohio,20,Western Michigan,41,8.5
+10/04/2008,Stanford,21,Notre Dame,28,6.5
+10/04/2008,Army,44,Tulane,13,20.0
+10/04/2008,Temple,28,Miami-Ohio,10,7.0
+10/04/2008,Illinois,45,Michigan,20,2.5
+10/04/2008,Missouri,52,Nebraska,17,-10.0
+10/04/2008,Texas,38,Colorado,14,-12.5
+10/04/2008,Florida State,41,Miami-Florida,39,1.5
+10/04/2008,Arizona State,14,California,24,8.5
+10/04/2008,Florida,38,Arkansas,7,-27.0
+10/04/2008,Kentucky,14,Alabama,17,15.5
+10/04/2008,S-M-U,17,U-C-F,31,13.0
+10/04/2008,Eastern Michigan,24,Bowling Green,21,20.5
+10/04/2008,Navy,33,Air Force,27,4.0
+10/04/2008,Nevada-Reno,49,Idaho,14,-24.0
+10/04/2008,San Diego State,7,Texas Christian,41,24.5
+10/04/2008,Washington State,3,U.C.L.A.,28,17.0
+10/04/2008,Washington,14,Arizona,48,24.0
+10/04/2008,Northern Illinois,9,Tennessee,13,16.5
+10/04/2008,Ball State,31,Toledo,0,-7.0
+10/04/2008,Akron,30,Kent State,27,-3.0
+10/04/2008,UTEP,40,Southern Miss,37,7.5
+10/04/2008,Oklahoma,49,Baylor,17,-24.0
+10/04/2008,Texas A+M,28,Oklahoma State,56,26.0
+10/04/2008,Ohio State,20,Wisconsin,17,-1.5
+10/04/2008,Rice,28,Tulsa,63,16.5
+10/04/2008,Oregon,10,Southern Cal,44,15.5
+10/04/2008,Wyoming,0,New Mexico,24,11.0
+10/04/2008,Hawaii,32,Fresno State,29,21.0
+10/04/2008,Western Kentucky,13,Virginia Tech,27,28.0
+10/04/2008,UL-Lafayette,44,UL-Monroe,35,-2.5
+10/04/2008,Florida Intl,42,North Texas,10,-6.0
+10/04/2008,Alcorn State,10,New Mexico State,45, 
+10/07/2008,Troy,30,Florida Atlantic,17,-4.5
+10/09/2008,Clemson,7,Wake Forest,12,-1.5
+10/09/2008,U-A-B,20,Houston,45,18.0
+10/10/2008,Louisville,35,Memphis,28,-6.5
+10/11/2008,East Carolina,20,Virginia,35,-6.5
+10/11/2008,Syracuse,6,West Virginia,17,24.0
+10/11/2008,Iowa,45,Indiana,9,-5.0
+10/11/2008,Minnesota,27,Illinois,20,12.0
+10/11/2008,Michigan State,37,Northwestern,20,-1.5
+10/11/2008,Texas,45,Oklahoma,35,6.5
+10/11/2008,Eastern Michigan,13,Army,17,1.0
+10/11/2008,Iowa State,10,Baylor,38,4.5
+10/11/2008,South Carolina,24,Kentucky,17,-3.0
+10/11/2008,Western Michigan,34,Buffalo,28,1.0
+10/11/2008,Vanderbilt,14,Mississippi State,17,-2.0
+10/11/2008,Utah,40,Wyoming,7,-23.5
+10/11/2008,Kansas State,44,Texas A+M,30,-3.5
+10/11/2008,Temple,14,Central Michigan,24,7.5
+10/11/2008,Purdue,3,Ohio State,16,18.5
+10/11/2008,Texas Christian,13,Colorado State,7,-15.0
+10/11/2008,Oklahoma State,28,Missouri,23,14.0
+10/11/2008,Tennessee,14,Georgia,26,12.5
+10/11/2008,Arizona State,0,Southern Cal,28,28.0
+10/11/2008,U.C.L.A.,24,Oregon,31,19.5
+10/11/2008,Toledo,13,Michigan,10,16.5
+10/11/2008,Notre Dame,24,North Carolina,29,8.5
+10/11/2008,Arkansas,25,Auburn,22,17.0
+10/11/2008,New Mexico State,48,Nevada-Reno,45,19.5
+10/11/2008,Miami-Ohio,13,Northern Illinois,17,11.0
+10/11/2008,New Mexico,3,Brigham Young,21,23.5
+10/11/2008,Washington State,13,Oregon State,66,30.0
+10/11/2008,Arizona,23,Stanford,24,-7.0
+10/11/2008,Bowling Green,37,Akron,33,-1.0
+10/11/2008,Ohio,26,Kent State,19,-1.0
+10/11/2008,Rutgers,10,Cincinnati,13,7.0
+10/11/2008,Nebraska,31,Texas Tech,37,20.5
+10/11/2008,Colorado,14,Kansas,30,14.0
+10/11/2008,Penn State,48,Wisconsin,7,-6.0
+10/11/2008,U-C-F,14,Miami-Florida,20,17.0
+10/11/2008,Louisiana State,21,Florida,51,6.0
+10/11/2008,Utah State,7,San Jose State,30,13.5
+10/11/2008,Tulsa,37,S-M-U,31,-24.5
+10/11/2008,Boise State,24,Southern Miss,7,-10.5
+10/11/2008,Tulane,21,UTEP,24,4.0
+10/11/2008,Air Force,35,San Diego State,10,-10.5
+10/11/2008,Idaho,32,Fresno State,45,34.5
+10/11/2008,Louisiana Tech,14,Hawaii,24,7.5
+10/11/2008,Ball State,24,Western Kentucky,7,-16.5
+10/11/2008,UL-Monroe,29,Arkansas State,37,14.5
+10/11/2008,Middle Tennessee,21,Florida Intl,31,2.0
+10/11/2008,UL-Lafayette,59,North Texas,30,-21.5
+10/11/2008,Gardner-Webb,7,Georgia Tech,10, 
+10/16/2008,Florida State,26,No Carolina State,17,-11.5
+10/16/2008,Brigham Young,7,Texas Christian,32,1.5
+10/17/2008,Hawaii,7,Boise State,27,23.5
+10/18/2008,Connecticut,10,Rutgers,12,3.0
+10/18/2008,Wake Forest,0,Maryland,26,-1.0
+10/18/2008,Georgia Tech,21,Clemson,17,-2.5
+10/18/2008,Memphis,10,East Carolina,30,8.5
+10/18/2008,Miami-Florida,49,Duke,31,-3.0
+10/18/2008,Virginia Tech,23,Boston College,28,3.0
+10/18/2008,Syracuse,13,South Florida,45,24.0
+10/18/2008,Wisconsin,16,Iowa,38,5.0
+10/18/2008,Purdue,26,Northwestern,48,4.0
+10/18/2008,Kansas,31,Oklahoma,45,19.5
+10/18/2008,Miami-Ohio,27,Bowling Green,20,9.5
+10/18/2008,Western Michigan,28,Central Michigan,38,-2.0
+10/18/2008,Nebraska,35,Iowa State,7,-7.5
+10/18/2008,Mississippi State,3,Tennessee,34,9.0
+10/18/2008,Mississippi,20,Alabama,24,11.5
+10/18/2008,Vanderbilt,14,Georgia,24,16.5
+10/18/2008,Akron,42,Eastern Michigan,35,-4.5
+10/18/2008,Colorado State,16,Utah,49,21.0
+10/18/2008,Texas Tech,43,Texas A+M,25,-21.0
+10/18/2008,Southern Miss,40,Rice,45,1.5
+10/18/2008,Southern Cal,69,Washington State,0,-43.0
+10/18/2008,Pittsburgh,42,Navy,21,-3.0
+10/18/2008,Ohio State,45,Michigan State,7,-3.0
+10/18/2008,Missouri,31,Texas,56,4.5
+10/18/2008,North Carolina,13,Virginia,16,-4.0
+10/18/2008,Toledo,7,Northern Illinois,38,8.5
+10/18/2008,Utah State,17,Nevada-Reno,44,23.5
+10/18/2008,Marshall,21,U-A-B,23,-2.5
+10/18/2008,Michigan,17,Penn State,46,24.5
+10/18/2008,San Diego State,7,New Mexico,70,17.0
+10/18/2008,Oregon State,34,Washington,13,-16.0
+10/18/2008,Arkansas,20,Kentucky,21,7.0
+10/18/2008,California,27,Arizona,42,-3.0
+10/18/2008,Idaho,14,Louisiana Tech,46,20.0
+10/18/2008,Kansas State,13,Colorado,14,3.0
+10/18/2008,Baylor,6,Oklahoma State,34,17.0
+10/18/2008,Army,24,Buffalo,27,11.0
+10/18/2008,Louisiana State,24,South Carolina,17,-2.0
+10/18/2008,UTEP,35,Tulsa,77,20.5
+10/18/2008,San Jose State,31,New Mexico State,14,-1.0
+10/18/2008,Houston,44,S-M-U,38,-15.0
+10/18/2008,Indiana,13,Illinois,55,17.5
+10/18/2008,Air Force,29,Nevada-Las Vegas,28,-4.0
+10/18/2008,Stanford,20,U.C.L.A.,23,-2.5
+10/18/2008,Florida Atlantic,24,Western Kentucky,20,-3.0
+10/18/2008,Middle Tennessee,23,Louisville,42,14.5
+10/18/2008,North Texas,23,UL-Monroe,35,16.0
+10/18/2008,Arkansas State,23,UL-Lafayette,28,3.0
+10/18/2008,Florida Intl,23,Troy,33,12.0
+10/21/2008,Ohio,10,Temple,14,4.0
+10/23/2008,Auburn,17,West Virginia,34,3.5
+10/23/2008,New Mexico,10,Air Force,23,5.0
+10/24/2008,Boise State,33,San Jose State,16,-7.0
+10/25/2008,Louisiana Tech,7,Army,14,1.0
+10/25/2008,No Carolina State,24,Maryland,27,12.0
+10/25/2008,Wake Forest,10,Miami-Florida,16,2.5
+10/25/2008,Northwestern,19,Indiana,21,-7.5
+10/25/2008,Minnesota,17,Purdue,6,-1.0
+10/25/2008,Boston College,24,North Carolina,45,3.0
+10/25/2008,Cincinnati,16,Connecticut,40,-3.0
+10/25/2008,Illinois,17,Wisconsin,27,-2.5
+10/25/2008,Rutgers,54,Pittsburgh,34,9.5
+10/25/2008,Texas A+M,49,Iowa State,35,3.0
+10/25/2008,Kentucky,5,Florida,63,25.0
+10/25/2008,Mississippi,23,Arkansas,21,-6.5
+10/25/2008,Eastern Michigan,16,Ball State,38,27.0
+10/25/2008,Nevada-Las Vegas,35,Brigham Young,42,23.5
+10/25/2008,Duke,10,Vanderbilt,7,10.0
+10/25/2008,Rice,42,Tulane,17,2.0
+10/25/2008,Fresno State,30,Utah State,28,-15.0
+10/25/2008,S-M-U,7,Navy,34,14.0
+10/25/2008,Alabama,29,Tennessee,9,-5.5
+10/25/2008,Oregon,54,Arizona State,20,-3.0
+10/25/2008,U.C.L.A.,20,California,41,19.0
+10/25/2008,Kent State,54,Miami-Ohio,21,4.0
+10/25/2008,Virginia,24,Georgia Tech,17,14.5
+10/25/2008,Oklahoma State,24,Texas,28,11.5
+10/25/2008,Georgia,52,Louisiana State,38,-1.0
+10/25/2008,Oklahoma,58,Kansas State,35,-18.5
+10/25/2008,Michigan State,35,Michigan,21,-3.5
+10/25/2008,Virginia Tech,20,Florida State,30,6.5
+10/25/2008,Bowling Green,13,Northern Illinois,16,7.0
+10/25/2008,New Mexico State,14,Idaho,20,-12.0
+10/25/2008,Wyoming,7,Texas Christian,54,32.5
+10/25/2008,Central Michigan,24,Toledo,23,-3.5
+10/25/2008,South Florida,20,Louisville,24,-5.5
+10/25/2008,Baylor,20,Nebraska,32,14.0
+10/25/2008,Texas Tech,63,Kansas,21,-2.0
+10/25/2008,Colorado,0,Missouri,58,24.0
+10/25/2008,Penn State,13,Ohio State,6,-2.0
+10/25/2008,Southern Miss,30,Memphis,36,-3.5
+10/25/2008,Notre Dame,33,Washington,7,-9.5
+10/25/2008,Colorado State,38,San Diego State,34,-7.5
+10/25/2008,Southern Cal,17,Arizona,10,-14.5
+10/25/2008,Nevada-Reno,31,Hawaii,38,-3.5
+10/25/2008,Middle Tennessee,22,Mississippi State,31,13.0
+10/25/2008,Florida Atlantic,29,UL-Monroe,28,-2.5
+10/25/2008,Troy,45,North Texas,17,-24.0
+10/26/2008,U-C-F,19,Tulsa,49,23.5
+10/28/2008,Buffalo,32,Ohio,19,2.5
+10/28/2008,Houston,23,Marshall,37,-7.5
+10/30/2008,South Florida,10,Cincinnati,24,-2.0
+11/01/2008,Kent State,30,Bowling Green,45,6.0
+11/01/2008,Central Michigan,37,Indiana,34,1.5
+11/01/2008,Air Force,16,Army,7,-7.0
+11/01/2008,Louisville,21,Syracuse,28,-12.0
+11/01/2008,Miami-Florida,24,Virginia,17,1.0
+11/01/2008,West Virginia,35,Connecticut,13,-3.0
+11/01/2008,Iowa,24,Illinois,27,2.5
+11/01/2008,Northwestern,24,Minnesota,17,7.5
+11/01/2008,Duke,30,Wake Forest,33,7.5
+11/01/2008,Iowa State,17,Oklahoma State,59,29.5
+11/01/2008,Missouri,31,Baylor,28,-21.5
+11/01/2008,Auburn,7,Mississippi,17,6.5
+11/01/2008,San Diego State,10,Wyoming,35,5.5
+11/01/2008,Eastern Michigan,10,Western Michigan,31,18.5
+11/01/2008,Tulsa,23,Arkansas,30,-7.0
+11/01/2008,Colorado,17,Texas A+M,24,4.0
+11/01/2008,Pittsburgh,36,Notre Dame,33,5.0
+11/01/2008,Fresno State,35,Louisiana Tech,38,-5.0
+11/01/2008,Hawaii,14,Utah State,30,-6.0
+11/01/2008,Tennessee,6,South Carolina,27,5.5
+11/01/2008,Florida,49,Georgia,10,-7.5
+11/01/2008,Washington,0,Southern Cal,56,46.0
+11/01/2008,Nebraska,28,Oklahoma,62,21.0
+11/01/2008,Oregon,16,California,26,2.5
+11/01/2008,Temple,27,Navy,33,8.0
+11/01/2008,Kansas State,21,Kansas,52,7.5
+11/01/2008,Texas,33,Texas Tech,39,-3.5
+11/01/2008,Michigan,42,Purdue,48,2.5
+11/01/2008,Wisconsin,24,Michigan State,25,5.5
+11/01/2008,Clemson,27,Boston College,21,3.0
+11/01/2008,San Jose State,30,Idaho,24,-16.5
+11/01/2008,Brigham Young,45,Colorado State,42,-14.5
+11/01/2008,Washington State,0,Stanford,58,30.0
+11/01/2008,Boise State,49,New Mexico State,0,-21.5
+11/01/2008,Kentucky,14,Mississippi State,13,2.5
+11/01/2008,Florida State,28,Georgia Tech,31,2.0
+11/01/2008,Tulane,10,Louisiana State,35,28.5
+11/01/2008,Texas Christian,44,Nevada-Las Vegas,14,-15.0
+11/01/2008,U-A-B,14,Southern Miss,70,8.5
+11/01/2008,Rice,49,UTEP,44,-2.5
+11/01/2008,Utah,13,New Mexico,10,-7.0
+11/01/2008,Arizona State,25,Oregon State,27,15.5
+11/01/2008,North Texas,51,Western Kentucky,40,18.5
+11/01/2008,Arkansas State,0,Alabama,35,24.0
+11/01/2008,Florida Intl,20,UL-Lafayette,49,10.5
+11/01/2008,Troy,30,UL-Monroe,31,-10.0
+11/02/2008,East Carolina,13,U-C-F,10,-5.0
+11/04/2008,Miami-Ohio,17,Buffalo,37,8.0
+11/05/2008,Northern Illinois,14,Ball State,45,8.0
+11/05/2008,Toledo,30,Akron,47,6.5
+11/06/2008,Maryland,13,Virginia Tech,23,3.0
+11/06/2008,Texas Christian,10,Utah,13,-2.0
+11/07/2008,Nevada-Reno,41,Fresno State,28,-2.5
+11/08/2008,Syracuse,17,Rutgers,35,14.0
+11/08/2008,Wisconsin,55,Indiana,20,-10.0
+11/08/2008,Ohio State,45,Northwestern,10,-12.5
+11/08/2008,Purdue,7,Michigan State,21,10.0
+11/08/2008,Georgia Tech,7,North Carolina,28,4.5
+11/08/2008,Illinois,17,Western Michigan,23,-7.0
+11/08/2008,Virginia,17,Wake Forest,28,3.5
+11/08/2008,No Carolina State,27,Duke,17,3.5
+11/08/2008,Oklahoma State,20,Texas Tech,56,3.5
+11/08/2008,Florida,42,Vanderbilt,14,-24.0
+11/08/2008,Arkansas,21,South Carolina,34,13.0
+11/08/2008,Georgia,42,Kentucky,38,-13.5
+11/08/2008,Bowling Green,28,Ohio,3,-2.5
+11/08/2008,San Diego State,12,Brigham Young,41,36.0
+11/08/2008,Utah State,14,Boise State,49,35.0
+11/08/2008,Oklahoma,66,Texas A+M,28,-27.5
+11/08/2008,Army,31,Rice,38,9.5
+11/08/2008,Iowa State,24,Colorado,28,10.5
+11/08/2008,Memphis,31,S-M-U,26,1.5
+11/08/2008,Kansas State,24,Missouri,41,27.0
+11/08/2008,Clemson,27,Florida State,41,3.5
+11/08/2008,Marshall,16,East Carolina,19,8.0
+11/08/2008,Kansas,35,Nebraska,45,1.5
+11/08/2008,Penn State,23,Iowa,24,-8.0
+11/08/2008,Notre Dame,0,Boston College,17,3.5
+11/08/2008,Wyoming,13,Tennessee,7,27.0
+11/08/2008,Alabama,27,Louisiana State,21,-3.5
+11/08/2008,Stanford,28,Oregon,35,14.0
+11/08/2008,Arizona State,39,Washington,19,-14.0
+11/08/2008,Hawaii,42,New Mexico State,30,-3.5
+11/08/2008,Tulane,14,Houston,42,16.5
+11/08/2008,Colorado State,17,Air Force,38,10.0
+11/08/2008,Oregon State,34,U.C.L.A.,6,-7.5
+11/08/2008,Arizona,59,Washington State,28,-41.0
+11/08/2008,Southern Miss,17,U-C-F,6,-3.0
+11/08/2008,Baylor,21,Texas,45,26.0
+11/08/2008,Cincinnati,26,West Virginia,23,6.5
+11/08/2008,Louisville,7,Pittsburgh,41,6.5
+11/08/2008,Michigan,29,Minnesota,6,7.5
+11/08/2008,California,3,Southern Cal,17,22.5
+11/08/2008,Louisiana Tech,21,San Jose State,0,7.0
+11/08/2008,New Mexico,20,Nevada-Las Vegas,27,-5.5
+11/08/2008,Western Kentucky,7,Troy,17,17.0
+11/08/2008,North Texas,13,Florida Atlantic,46,22.5
+11/08/2008,UTEP,37,UL-Lafayette,24,10.0
+11/08/2008,Arkansas State,21,Florida Intl,22,-2.5
+11/08/2008,UL-Monroe,21,Middle Tennessee,24,4.5
+11/08/2008,Tennessee-Martin,20,Auburn,37, 
+11/11/2008,Ball State,31,Miami-Ohio,16,-17.5
+11/12/2008,Temple,38,Kent State,41,-1.0
+11/12/2008,Central Michigan,33,Northern Illinois,30,4.0
+11/13/2008,Buffalo,43,Akron,40,2.5
+11/13/2008,Virginia Tech,14,Miami-Florida,16,4.0
+11/13/2008,Wyoming,14,Nevada-Las Vegas,22,6.0
+11/14/2008,Cincinnati,28,Louisville,20,-4.0
+11/15/2008,Indiana,7,Penn State,34,35.5
+11/15/2008,Purdue,17,Iowa,22,17.0
+11/15/2008,Northwestern,21,Michigan,14,3.5
+11/15/2008,Minnesota,32,Wisconsin,35,14.0
+11/15/2008,Wake Forest,17,No Carolina State,21,-3.5
+11/15/2008,Duke,7,Clemson,31,10.0
+11/15/2008,North Carolina,15,Maryland,17,-3.0
+11/15/2008,Notre Dame,27,Navy,21,-4.5
+11/15/2008,Connecticut,39,Syracuse,14,-9.0
+11/15/2008,Mississippi State,7,Alabama,32,22.0
+11/15/2008,Vanderbilt,31,Kentucky,24,3.5
+11/15/2008,Texas A+M,21,Baylor,41,8.0
+11/15/2008,New Mexico,6,Colorado State,20,-3.0
+11/15/2008,Toledo,17,Western Michigan,27,14.5
+11/15/2008,Utah State,38,Louisiana Tech,45,15.0
+11/15/2008,East Carolina,3,Southern Miss,21,3.0
+11/15/2008,U-A-B,41,Tulane,24,4.0
+11/15/2008,Texas,35,Kansas,7,-14.0
+11/15/2008,Missouri,52,Iowa State,20,-26.5
+11/15/2008,California,21,Oregon State,34,3.5
+11/15/2008,Arizona,45,Oregon,55,6.0
+11/15/2008,U.C.L.A.,27,Washington,7,-7.0
+11/15/2008,Georgia,17,Auburn,13,-9.0
+11/15/2008,Brigham Young,38,Air Force,24,-3.5
+11/15/2008,South Carolina,6,Florida,56,21.0
+11/15/2008,San Jose State,17,Nevada-Reno,41,14.5
+11/15/2008,U-C-F,30,Marshall,14,7.0
+11/15/2008,Boise State,45,Idaho,10,-36.5
+11/15/2008,Tulsa,30,Houston,70,-4.0
+11/15/2008,New Mexico State,17,Fresno State,24,17.0
+11/15/2008,Southern Cal,45,Stanford,23,-24.0
+11/15/2008,Nebraska,56,Kansas State,28,-6.0
+11/15/2008,Oklahoma State,30,Colorado,17,-18.0
+11/15/2008,Rutgers,49,South Florida,16,8.0
+11/15/2008,Boston College,27,Florida State,17,6.0
+11/15/2008,Ohio State,30,Illinois,20,-8.5
+11/15/2008,Utah,63,San Diego State,14,-30.0
+11/15/2008,S-M-U,10,UTEP,36,14.0
+11/15/2008,Washington State,0,Arizona State,31,35.5
+11/15/2008,Middle Tennessee,21,Western Kentucky,10,-1.0
+11/15/2008,UL-Lafayette,29,Florida Atlantic,40,1.0
+11/15/2008,UL-Monroe,0,Mississippi,59,24.0
+11/15/2008,Troy,31,Louisiana State,40,16.5
+11/18/2008,Northern Illinois,42,Kent State,14,-3.0
+11/19/2008,Ball State,31,Central Michigan,24,-6.0
+11/20/2008,Miami-Florida,23,Georgia Tech,41,3.0
+11/21/2008,Miami-Ohio,14,Toledo,42,3.5
+11/21/2008,Buffalo,40,Bowling Green,34,4.5
+11/21/2008,Fresno State,24,San Jose State,10,-3.0
+11/22/2008,Eastern Michigan,52,Temple,55,12.0
+11/22/2008,Army,3,Rutgers,30,17.5
+11/22/2008,Illinois,10,Northwestern,27,-3.0
+11/22/2008,Pittsburgh,21,Cincinnati,28,6.0
+11/22/2008,Boston College,24,Wake Forest,21,-2.5
+11/22/2008,Indiana,10,Purdue,62,11.5
+11/22/2008,Michigan,7,Ohio State,42,20.5
+11/22/2008,Duke,3,Virginia Tech,14,15.0
+11/22/2008,Florida State,37,Maryland,3,-1.5
+11/22/2008,No Carolina State,41,North Carolina,10,11.0
+11/22/2008,Iowa State,30,Kansas State,38,10.5
+11/22/2008,Tennessee,20,Vanderbilt,10,3.0
+11/22/2008,Arkansas,28,Mississippi State,31,-2.5
+11/22/2008,Akron,42,Ohio,49,-2.0
+11/22/2008,Colorado State,31,Wyoming,20,1.0
+11/22/2008,Marshall,10,Rice,35,8.5
+11/22/2008,Syracuse,24,Notre Dame,23,19.5
+11/22/2008,Washington,13,Washington State,16,-7.0
+11/22/2008,Tulane,7,Tulsa,56,28.5
+11/22/2008,Texas Tech,21,Oklahoma,65,7.0
+11/22/2008,Michigan State,18,Penn State,49,16.0
+11/22/2008,Clemson,13,Virginia,3,-2.5
+11/22/2008,Air Force,10,Texas Christian,44,20.0
+11/22/2008,Stanford,16,California,37,8.0
+11/22/2008,Louisiana Tech,35,New Mexico State,31,-7.0
+11/22/2008,Boise State,41,Nevada-Reno,34,-7.0
+11/22/2008,East Carolina,17,U-A-B,13,-6.5
+11/22/2008,UTEP,37,Houston,42,17.0
+11/22/2008,Brigham Young,24,Utah,48,7.0
+11/22/2008,Iowa,55,Minnesota,0,-6.0
+11/22/2008,Oregon State,19,Arizona,17,2.5
+11/22/2008,West Virginia,35,Louisville,21,-7.5
+11/22/2008,U-C-F,28,Memphis,21,6.0
+11/22/2008,Nevada-Las Vegas,21,San Diego State,42,-10.0
+11/22/2008,Mississippi,31,Louisiana State,13,3.0
+11/22/2008,Idaho,17,Hawaii,49,23.5
+11/22/2008,Florida Atlantic,14,Arkansas State,28,3.5
+11/22/2008,UL-Monroe,31,Florida Intl,27,7.0
+11/22/2008,North Texas,13,Middle Tennessee,52,18.5
+11/22/2008,UL-Lafayette,3,Troy,48,10.0
+11/22/2008,Cal-San Luis Obispo,35,Wisconsin,36, 
+11/22/2008,The Citadel,19,Florida,70, 
+11/23/2008,Connecticut,13,South Florida,17,2.5
+11/25/2008,Western Michigan,22,Ball State,45,10.0
+11/25/2008,Navy,16,Northern Illinois,0,3.0
+11/27/2008,Texas A+M,9,Texas,49,35.5
+11/28/2008,West Virginia,15,Pittsburgh,19,-3.0
+11/28/2008,Ohio,41,Miami-Ohio,26,-2.5
+11/28/2008,Mississippi State,0,Mississippi,45,18.0
+11/28/2008,Akron,6,Temple,27,3.0
+11/28/2008,UTEP,21,East Carolina,53,6.5
+11/28/2008,Central Michigan,52,Eastern Michigan,56,-11.0
+11/28/2008,Kent State,24,Buffalo,21,9.5
+11/28/2008,Louisiana State,30,Arkansas,31,-7.0
+11/28/2008,Bowling Green,38,Toledo,10,-2.5
+11/28/2008,Colorado,31,Nebraska,40,19.0
+11/28/2008,Fresno State,10,Boise State,61,21.5
+11/28/2008,U.C.L.A.,9,Arizona State,34,9.5
+11/29/2008,Miami-Florida,28,No Carolina State,38,-2.0
+11/29/2008,Vanderbilt,10,Wake Forest,23,4.5
+11/29/2008,Maryland,21,Boston College,28,6.5
+11/29/2008,Virginia,14,Virginia Tech,17,7.5
+11/29/2008,North Carolina,28,Duke,20,-7.0
+11/29/2008,Syracuse,10,Cincinnati,30,20.5
+11/29/2008,Baylor,28,Texas Tech,35,22.5
+11/29/2008,Tulane,6,Memphis,45,14.0
+11/29/2008,Nevada-Reno,35,Louisiana Tech,31,-5.0
+11/29/2008,Houston,42,Rice,56,-3.0
+11/29/2008,New Mexico State,2,Utah State,47,5.5
+11/29/2008,Southern Miss,28,S-M-U,12,-14.0
+11/29/2008,Kansas,40,Missouri,37,16.5
+11/29/2008,Oklahoma,61,Oklahoma State,41,-10.5
+11/29/2008,Georgia Tech,45,Georgia,42,7.5
+11/29/2008,Tulsa,38,Marshall,35,-16.0
+11/29/2008,Auburn,0,Alabama,36,14.5
+11/29/2008,Florida,45,Florida State,15,-17.0
+11/29/2008,Kentucky,10,Tennessee,28,4.0
+11/29/2008,U-A-B,15,U-C-F,0,9.5
+11/29/2008,Oregon,65,Oregon State,38,3.0
+11/29/2008,South Carolina,14,Clemson,31,-1.0
+11/29/2008,Notre Dame,3,Southern Cal,38,33.5
+11/29/2008,Washington State,10,Hawaii,24,27.5
+11/29/2008,Arkansas State,33,North Texas,28,-20.5
+11/29/2008,Florida Intl,50,Florida Atlantic,57,5.5
+12/03/2008,Middle Tennessee,28,UL-Lafayette,42,5.0
+12/04/2008,Louisville,14,Rutgers,63,12.0
+12/05/2008,Buffalo,42,Ball State,24,15.5
+12/06/2008,Navy,34,Army,0,-10.5
+12/06/2008,Pittsburgh,34,Connecticut,10,1.5
+12/06/2008,South Florida,7,West Virginia,13,7.0
+12/06/2008,Washington,7,California,48,35.5
+12/06/2008,Southern Cal,28,U.C.L.A.,7,-32.5
+12/06/2008,Arizona State,10,Arizona,31,11.0
+12/06/2008,Cincinnati,29,Hawaii,24,-7.5
+12/06/2008,Arkansas State,9,Troy,35,11.5
+12/06/2008,Western Kentucky,3,Florida Intl,27,6.5
+12/06/2008,East Carolina,27,Tulsa,24,12.5
+12/06/2008,Boston College,12,Virginia Tech,30,-1.0
+12/06/2008,Alabama,20,Florida,31,10.0
+12/06/2008,Missouri,21,Oklahoma,62,17.0

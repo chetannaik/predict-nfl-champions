@@ -1,0 +1,691 @@
+Date,Visitor,Visitor Score,Home Team,Home Score,Line
+09/01/2005,Buffalo,0,Connecticut,38,18.5
+09/01/2005,Oregon,38,Houston,24,-10.0
+09/01/2005,Eastern Michigan,26,Cincinnati,28,12.5
+09/01/2005,Vanderbilt,24,Wake Forest,20,10.5
+09/01/2005,U-C-F,15,South Carolina,24,18.5
+09/01/2005,Temple,16,Arizona State,63,26.0
+09/01/2005,Idaho,26,Washington State,38,29.5
+09/01/2005,Minnesota,41,Tulsa,10,-14.0
+09/01/2005,Western Illinois,14,Toledo,62, 
+09/01/2005,William + Mary,24,Marshall,36, 
+09/01/2005,Northwestern St(LA),27,UL-Monroe,23, 
+09/02/2005,Indiana,20,Central Michigan,13,-10.5
+09/02/2005,Arizona,24,Utah,27,9.5
+09/03/2005,Bowling Green,42,Wisconsin,56,5.0
+09/03/2005,Ohio,14,Northwestern,38,14.5
+09/03/2005,Western Michigan,19,Virginia,31,32.5
+09/03/2005,Ball State,0,Iowa,56,38.5
+09/03/2005,Kent State,14,Michigan State,49,18.5
+09/03/2005,Miami-Ohio,14,Ohio State,34,17.0
+09/03/2005,Northern Illinois,17,Michigan,33,18.0
+09/03/2005,South Florida,13,Penn State,23,24.5
+09/03/2005,Duke,21,East Carolina,24,-1.5
+09/03/2005,U-A-B,10,Tennessee,17,24.0
+09/03/2005,Rutgers,30,Illinois,33,1.5
+09/03/2005,Colorado State,28,Colorado,31,8.0
+09/03/2005,Notre Dame,42,Pittsburgh,21,4.5
+09/03/2005,Boise State,13,Georgia,48,6.5
+09/03/2005,Navy,20,Maryland,23,7.5
+09/03/2005,Wyoming,14,Florida,32,22.5
+09/03/2005,Air Force,20,Washington,17,1.5
+09/03/2005,Texas Christian,17,Oklahoma,10,27.0
+09/03/2005,Georgia Tech,23,Auburn,14,6.5
+09/03/2005,Boston College,20,Brigham Young,3,-5.0
+09/03/2005,Texas A+M,24,Clemson,25,0.0
+09/03/2005,Baylor,28,S-M-U,23,-4.5
+09/03/2005,U.C.L.A.,44,San Diego State,21,-8.5
+09/03/2005,Southern Cal,63,Hawaii,17,-31.0
+09/03/2005,Arkansas State,17,Missouri,44,25.5
+09/03/2005,Middle Tennessee,7,Alabama,26,22.5
+09/03/2005,Florida Atlantic,19,Kansas,30,19.5
+09/03/2005,UL-Lafayette,3,Texas,60,38.5
+09/03/2005,Florida Intl,21,Kansas State,35,34.5
+09/03/2005,UTEP,34,New Mexico State,17,-11.0
+09/03/2005,Murray State,6,Mississippi State,38, 
+09/03/2005,Sacramento State,3,California,41, 
+09/03/2005,Eastern Washington,24,San Jose State,35, 
+09/03/2005,Portland State,14,Oregon State,41, 
+09/03/2005,Cal-San Luis Obispo,10,Troy,27, 
+09/03/2005,Illinois State,21,Iowa State,32, 
+09/03/2005,Maine,7,Nebraska,25, 
+09/03/2005,Missouri State,17,Arkansas,49, 
+09/03/2005,Montana State,10,Oklahoma State,15, 
+09/04/2005,West Virginia,15,Syracuse,7,1.5
+09/04/2005,Louisville,31,Kentucky,24,-22.0
+09/04/2005,Virginia Tech,20,No Carolina State,16,-5.5
+09/05/2005,Nevada-Las Vegas,22,New Mexico,24,14.5
+09/05/2005,Mississippi,10,Memphis,6,1.5
+09/05/2005,Miami-Florida,7,Florida State,10,-2.5
+09/08/2005,Oklahoma State,23,Florida Atlantic,3,-16.5
+09/09/2005,Pittsburgh,10,Ohio,16,-14.0
+09/09/2005,Washington State,55,Nevada-Reno,21,-10.0
+09/10/2005,Kansas State,21,Marshall,19,-9.5
+09/10/2005,Notre Dame,17,Michigan,10,7.0
+09/10/2005,Clemson,28,Maryland,24,1.0
+09/10/2005,Cincinnati,24,Penn State,42,19.5
+09/10/2005,Temple,0,Wisconsin,65,34.0
+09/10/2005,Virginia Tech,45,Duke,0,-20.5
+09/10/2005,Army,7,Boston College,44,28.5
+09/10/2005,Mississippi State,0,Auburn,28,16.0
+09/10/2005,Tulsa,15,Oklahoma,31,31.0
+09/10/2005,San Jose State,19,Illinois,40,16.5
+09/10/2005,Akron,24,Purdue,49,35.0
+09/10/2005,Central Michigan,38,Miami-Ohio,37,24.5
+09/10/2005,Northern Illinois,37,Northwestern,38,3.0
+09/10/2005,Colorado State,24,Minnesota,56,12.5
+09/10/2005,Buffalo,0,Syracuse,31,24.0
+09/10/2005,Hawaii,14,Michigan State,42,29.5
+09/10/2005,California,56,Washington,17,-10.5
+09/10/2005,Iowa,3,Iowa State,23,-7.5
+09/10/2005,North Carolina,21,Georgia Tech,27,12.0
+09/10/2005,South Carolina,15,Georgia,17,17.0
+09/10/2005,Stanford,41,Navy,38,-3.0
+09/10/2005,Louisiana Tech,3,Florida,41,29.0
+09/10/2005,Boise State,27,Oregon State,30,5.0
+09/10/2005,New Mexico,45,Missouri,35,8.5
+09/10/2005,Wake Forest,3,Nebraska,31,7.5
+09/10/2005,Vanderbilt,28,Arkansas,24,11.5
+09/10/2005,San Diego State,29,Air Force,41,5.5
+09/10/2005,Western Michigan,23,Toledo,56,23.0
+09/10/2005,Bowling Green,40,Ball State,31,-28.5
+09/10/2005,Southern Miss,21,Alabama,30,12.0
+09/10/2005,Texas,25,Ohio State,22,1.0
+09/10/2005,Utah State,7,Utah,31,24.0
+09/10/2005,Louisiana State,35,Arizona State,31,-1.0
+09/10/2005,Texas Christian,10,S-M-U,21,-16.0
+09/10/2005,Rice,21,U.C.L.A.,63,24.0
+09/10/2005,New Mexico State,0,Colorado,39,24.0
+09/10/2005,Idaho,31,Nevada-Las Vegas,34,11.5
+09/10/2005,UL-Monroe,0,Wyoming,38,18.0
+09/10/2005,North Texas,14,Middle Tennessee,7,4.5
+09/10/2005,UL-Lafayette,10,Eastern Michigan,31,4.5
+09/10/2005,U-A-B,27,Troy,7,-7.5
+09/10/2005,Florida Intl,3,Texas Tech,56,33.0
+09/10/2005,The Citadel,10,Florida State,62, 
+09/10/2005,Eastern Illinois,10,Brigham Young,45, 
+09/10/2005,Florida A+M,3,South Florida,37, 
+09/10/2005,Idaho State,29,Kentucky,41, 
+09/10/2005,Liberty,0,Connecticut,59, 
+09/10/2005,Northern Arizona,12,Arizona,31, 
+09/10/2005,Tennessee-Martin,7,Arkansas State,56, 
+09/10/2005,Villanova,6,Rutgers,38, 
+09/10/2005,Wofford,7,West Virginia,35, 
+09/10/2005,S E Missouri St,12,Kent State,33, 
+09/10/2005,Nicholls State,31,Indiana,35, 
+09/10/2005,Appalachian State,8,Kansas,36, 
+09/10/2005,Samford,14,Baylor,48, 
+09/10/2005,Sam Houston State,10,Houston,31, 
+09/10/2005,Montana,14,Oregon,47, 
+09/10/2005,Weber State,17,Fresno State,55, 
+09/15/2005,Utah,20,Texas Christian,23,-2.5
+09/16/2005,Houston,41,UTEP,44,11.5
+09/17/2005,Virginia,27,Syracuse,24,-8.5
+09/17/2005,Oregon State,27,Louisville,63,12.5
+09/17/2005,Eastern Michigan,0,Michigan,55,30.0
+09/17/2005,West Virginia,31,Maryland,19,4.5
+09/17/2005,S-M-U,8,Texas A+M,66,29.0
+09/17/2005,Mississippi,23,Vanderbilt,31,4.0
+09/17/2005,Toledo,42,Temple,17,-30.0
+09/17/2005,Central Michigan,3,Penn State,40,23.0
+09/17/2005,Ball State,3,Auburn,63,37.0
+09/17/2005,Baylor,20,Army,10,-4.5
+09/17/2005,East Carolina,34,Wake Forest,44,15.0
+09/17/2005,Florida State,28,Boston College,17,-1.0
+09/17/2005,Michigan State,44,Notre Dame,41,7.0
+09/17/2005,San Diego State,6,Ohio State,27,27.0
+09/17/2005,Oklahoma,24,U.C.L.A.,41,6.5
+09/17/2005,Pittsburgh,6,Nebraska,7,9.0
+09/17/2005,Alabama,37,South Carolina,14,-1.0
+09/17/2005,Ohio,0,Virginia Tech,45,34.0
+09/17/2005,Idaho,6,Washington,34,13.0
+09/17/2005,Miami-Ohio,27,Kent State,10,-6.0
+09/17/2005,Illinois,20,California,35,19.5
+09/17/2005,Rutgers,17,Buffalo,3,-21.0
+09/17/2005,Kentucky,14,Indiana,38,4.0
+09/17/2005,U-C-F,14,South Florida,31,10.0
+09/17/2005,Wisconsin,14,North Carolina,5,-4.0
+09/17/2005,Connecticut,13,Georgia Tech,28,15.5
+09/17/2005,Rice,10,Texas,51,40.0
+09/17/2005,Fresno State,34,Oregon,37,3.0
+09/17/2005,Louisiana Tech,14,Kansas,34,14.0
+09/17/2005,Wyoming,29,Air Force,28,1.5
+09/17/2005,Miami-Florida,36,Clemson,30,-7.0
+09/17/2005,Tennessee,7,Florida,16,3.5
+09/17/2005,Mississippi State,21,Tulane,14,-3.0
+09/17/2005,New Mexico State,21,New Mexico,38,22.0
+09/17/2005,Purdue,31,Arizona,24,-9.5
+09/17/2005,Northwestern,21,Arizona State,52,14.5
+09/17/2005,Nevada-Las Vegas,14,Nevada-Reno,22,-1.5
+09/17/2005,Arkansas,17,Southern Cal,70,30.5
+09/17/2005,UL-Monroe,7,Georgia,44,38.0
+09/17/2005,Troy,21,Missouri,52,18.5
+09/17/2005,Akron,17,Middle Tennessee,7,7.0
+09/17/2005,Arkansas State,10,Oklahoma State,20,26.0
+09/17/2005,Florida Atlantic,7,Minnesota,46,33.0
+09/17/2005,Tulsa,54,North Texas,2,6.5
+09/17/2005,Eastern Kentucky,10,No Carolina State,54, 
+09/17/2005,Grambling,7,Washington State,48, 
+09/17/2005,Jacksonville St,28,U-A-B,35, 
+09/17/2005,Northern Iowa,21,Iowa,45, 
+09/17/2005,Northwestern St(LA),28,UL-Lafayette,49, 
+09/17/2005,Southern Illinois,28,Western Michigan,34, 
+09/17/2005,Virginia Military,14,Duke,40, 
+09/17/2005,Tennessee Tech,3,Northern Illinois,42, 
+09/17/2005,McNeese State,20,Southern Miss,48, 
+09/17/2005,Sam Houston State,21,Texas Tech,80, 
+09/17/2005,Western Carolina,3,Cincinnati,7, 
+09/17/2005,Chattanooga,14,Memphis,59, 
+09/17/2005,UC-Davis,20,Stanford,17, 
+09/21/2005,Bowling Green,20,Boise State,48,9.0
+09/22/2005,Air Force,35,Utah,38,8.0
+09/22/2005,UL-Monroe,28,Florida Atlantic,21,7.0
+09/22/2005,Texas State,31,Texas A+M,44, 
+09/23/2005,Iowa State,28,Army,21,-18.5
+09/23/2005,California,41,New Mexico State,13,-28.0
+09/24/2005,Iowa,6,Ohio State,31,7.5
+09/24/2005,Georgia Tech,7,Virginia Tech,51,11.0
+09/24/2005,Purdue,35,Minnesota,42,3.0
+09/24/2005,Penn State,34,Northwestern,29,-6.5
+09/24/2005,Michigan State,61,Illinois,14,-11.0
+09/24/2005,Boston College,16,Clemson,13,3.0
+09/24/2005,Louisville,14,South Florida,45,-23.0
+09/24/2005,Maryland,22,Wake Forest,12,2.5
+09/24/2005,Georgia,23,Mississippi State,10,-16.0
+09/24/2005,Western Michigan,19,Temple,16,-3.5
+09/24/2005,Eastern Michigan,23,Central Michigan,20,4.0
+09/24/2005,Duke,7,Virginia,38,24.5
+09/24/2005,Kent State,32,Ohio,35,4.0
+09/24/2005,Texas Christian,51,Brigham Young,50,3.5
+09/24/2005,East Carolina,15,West Virginia,20,20.5
+09/24/2005,Arkansas,13,Alabama,24,16.5
+09/24/2005,Florida,49,Kentucky,28,-23.5
+09/24/2005,North Carolina,31,No Carolina State,24,10.0
+09/24/2005,Notre Dame,36,Washington,17,-13.0
+09/24/2005,Colorado,3,Miami-Florida,23,14.0
+09/24/2005,Marshall,13,U-C-F,23,-3.0
+09/24/2005,Southern Cal,45,Oregon,13,-20.0
+09/24/2005,Wyoming,24,Mississippi,14,2.5
+09/24/2005,Northern Illinois,42,Akron,48,-6.0
+09/24/2005,Memphis,31,Tulsa,37,0.0
+09/24/2005,Michigan,20,Wisconsin,23,-3.0
+09/24/2005,San Jose State,21,San Diego State,52,14.5
+09/24/2005,Tulane,31,S-M-U,10,-4.0
+09/24/2005,Nevada-Las Vegas,24,Utah State,31,-4.0
+09/24/2005,New Mexico,13,UTEP,21,2.5
+09/24/2005,Nevada-Reno,21,Colorado State,42,16.0
+09/24/2005,Arizona State,42,Oregon State,24,-4.5
+09/24/2005,Hawaii,24,Idaho,0,3.0
+09/24/2005,Troy,20,South Carolina,45,18.5
+09/24/2005,North Texas,7,Kansas State,54,23.0
+09/24/2005,Florida Intl,24,Arkansas State,66,9.5
+09/24/2005,Richmond,13,Vanderbilt,37, 
+09/24/2005,Western Kentucky,14,Auburn,37, 
+09/24/2005,Youngstown State,0,Pittsburgh,41, 
+09/24/2005,Indiana State,7,Texas Tech,63, 
+09/26/2005,Tennessee,30,Louisiana State,27,6.0
+09/27/2005,Toledo,14,Fresno State,44,9.5
+09/28/2005,Cincinnati,16,Miami-Ohio,44,14.0
+09/29/2005,Air Force,23,Colorado State,41,4.0
+09/30/2005,Pittsburgh,29,Rutgers,37,1.5
+10/01/2005,Illinois,7,Iowa,35,18.0
+10/01/2005,Indiana,24,Wisconsin,41,19.0
+10/01/2005,Syracuse,14,Florida State,38,20.5
+10/01/2005,Michigan,34,Michigan State,31,4.0
+10/01/2005,Colorado,34,Oklahoma State,0,-3.0
+10/01/2005,Virginia,33,Maryland,45,-3.5
+10/01/2005,Clemson,27,Wake Forest,31,-6.0
+10/01/2005,Virginia Tech,34,West Virginia,17,-11.0
+10/01/2005,Mississippi,10,Tennessee,27,21.0
+10/01/2005,Iowa State,20,Nebraska,27,4.5
+10/01/2005,Baylor,13,Texas A+M,16,24.5
+10/01/2005,Ball State,0,Boston College,38,36.0
+10/01/2005,Navy,28,Duke,21,-6.0
+10/01/2005,Kent State,20,Eastern Michigan,27,2.5
+10/01/2005,Florida,3,Alabama,31,-4.0
+10/01/2005,Louisiana State,37,Mississippi State,7,-15.0
+10/01/2005,Nevada-Las Vegas,17,Wyoming,42,16.5
+10/01/2005,Connecticut,47,Army,13,-9.5
+10/01/2005,Minnesota,14,Penn State,44,-3.0
+10/01/2005,Texas,51,Missouri,20,-14.5
+10/01/2005,Utah,17,North Carolina,31,3.5
+10/01/2005,Southern Cal,38,Arizona State,28,-17.0
+10/01/2005,Washington,17,U.C.L.A.,21,22.0
+10/01/2005,Arizona,0,California,28,15.5
+10/01/2005,Temple,7,Bowling Green,70,29.0
+10/01/2005,Washington State,33,Oregon State,44,2.5
+10/01/2005,S-M-U,13,Marshall,16,11.5
+10/01/2005,Utah State,13,Idaho,27,-2.5
+10/01/2005,Oregon,44,Stanford,20,-7.0
+10/01/2005,Southern Miss,33,East Carolina,7,-7.0
+10/01/2005,Central Michigan,31,Akron,17,11.0
+10/01/2005,Nevada-Reno,30,San Jose State,23,-4.0
+10/01/2005,South Florida,7,Miami-Florida,27,22.0
+10/01/2005,Notre Dame,49,Purdue,28,3.5
+10/01/2005,Rice,26,U-A-B,45,19.5
+10/01/2005,Buffalo,21,Western Michigan,31,10.0
+10/01/2005,Houston,30,Tulsa,23,3.0
+10/01/2005,Kansas,17,Texas Tech,30,15.5
+10/01/2005,Kansas State,21,Oklahoma,43,6.5
+10/01/2005,New Mexico State,14,Louisiana Tech,34,10.5
+10/01/2005,New Mexico,28,Texas Christian,49,3.0
+10/01/2005,South Carolina,7,Auburn,48,12.5
+10/01/2005,UTEP,20,Memphis,27,-3.0
+10/01/2005,Brigham Young,10,San Diego State,31,-2.5
+10/01/2005,Boise State,44,Hawaii,41,-11.0
+10/01/2005,Florida Atlantic,10,Louisville,61,38.0
+10/01/2005,Arkansas State,27,UL-Monroe,31,-2.0
+10/01/2005,Middle Tennessee,17,Vanderbilt,15,17.0
+10/01/2005,U-C-F,24,UL-Lafayette,21,-3.5
+10/01/2005,Florida A+M,6,Florida Intl,23, 
+10/01/2005,S E Louisiana,21,Tulane,28, 
+10/04/2005,Troy,13,North Texas,10,3.0
+10/05/2005,Miami-Ohio,27,Northern Illinois,38,3.0
+10/06/2005,No Carolina State,17,Georgia Tech,14,5.5
+10/06/2005,Florida Atlantic,28,UL-Lafayette,10,6.0
+10/07/2005,Syracuse,7,Connecticut,26,4.5
+10/08/2005,Illinois,13,Indiana,36,4.5
+10/08/2005,West Virginia,27,Rutgers,14,-3.0
+10/08/2005,Wisconsin,48,Northwestern,51,-7.0
+10/08/2005,Virginia,17,Boston College,28,6.5
+10/08/2005,Wake Forest,24,Florida State,41,20.0
+10/08/2005,Duke,7,Miami-Florida,52,35.0
+10/08/2005,Cincinnati,20,Pittsburgh,38,13.0
+10/08/2005,Missouri,38,Oklahoma State,31,-5.5
+10/08/2005,Kansas,3,Kansas State,12,7.0
+10/08/2005,Kentucky,16,South Carolina,44,12.5
+10/08/2005,Louisiana State,34,Vanderbilt,6,-14.0
+10/08/2005,Central Michigan,14,Army,10,0.0
+10/08/2005,Oklahoma,12,Texas,45,13.5
+10/08/2005,Maryland,38,Temple,7,-27.0
+10/08/2005,Minnesota,23,Michigan,20,7.5
+10/08/2005,Akron,13,Buffalo,7,-13.0
+10/08/2005,Air Force,24,Navy,27,1.5
+10/08/2005,Baylor,23,Iowa State,13,10.0
+10/08/2005,Texas Christian,28,Wyoming,14,5.0
+10/08/2005,San Diego State,10,Nevada-Las Vegas,13,-9.0
+10/08/2005,Arizona,21,Southern Cal,42,36.0
+10/08/2005,Georgia,27,Tennessee,14,3.5
+10/08/2005,Ohio,14,Bowling Green,38,22.5
+10/08/2005,Texas A+M,20,Colorado,41,3.0
+10/08/2005,Idaho,14,Nevada-Reno,62,10.0
+10/08/2005,Iowa,34,Purdue,17,4.0
+10/08/2005,Memphis,17,U-C-F,38,-4.0
+10/08/2005,Rice,28,East Carolina,41,6.0
+10/08/2005,Stanford,24,Washington State,21,12.5
+10/08/2005,Texas Tech,34,Nebraska,31,-3.5
+10/08/2005,Marshall,14,Virginia Tech,41,35.0
+10/08/2005,S-M-U,28,U-A-B,27,21.0
+10/08/2005,Utah,17,Colorado State,21,4.0
+10/08/2005,Hawaii,14,Louisiana Tech,46,4.5
+10/08/2005,Ball State,60,Western Michigan,57,10.0
+10/08/2005,Eastern Michigan,3,Toledo,30,20.5
+10/08/2005,Mississippi State,9,Florida,35,27.5
+10/08/2005,Houston,35,Tulane,14,-1.5
+10/08/2005,North Carolina,14,Louisville,69,12.0
+10/08/2005,Ohio State,10,Penn State,17,-3.0
+10/08/2005,Brigham Young,27,New Mexico,24,7.5
+10/08/2005,Tulsa,34,Southern Miss,17,12.0
+10/08/2005,San Jose State,17,Utah State,24,6.5
+10/08/2005,Fresno State,37,New Mexico State,7,-26.0
+10/08/2005,Oregon,31,Arizona State,17,8.5
+10/08/2005,California,40,U.C.L.A.,47,2.5
+10/08/2005,UL-Monroe,15,Arkansas,44,23.0
+10/08/2005,The Citadel,7,Mississippi,27, 
+10/08/2005,Portland State,14,Boise State,21, 
+10/13/2005,Clemson,31,No Carolina State,10,4.5
+10/13/2005,UL-Lafayette,36,Arkansas State,39,10.0
+10/14/2005,UTEP,45,Tulane,21,-7.0
+10/15/2005,South Florida,17,Pittsburgh,31,3.0
+10/15/2005,Alabama,13,Mississippi,10,-12.5
+10/15/2005,Georgia Tech,35,Duke,10,-19.0
+10/15/2005,Wake Forest,30,Boston College,35,15.0
+10/15/2005,Colorado,17,Texas,42,19.0
+10/15/2005,Louisville,44,West Virginia,46,-7.0
+10/15/2005,Wisconsin,38,Minnesota,34,5.5
+10/15/2005,Rutgers,31,Syracuse,9,3.0
+10/15/2005,Indiana,21,Iowa,38,16.0
+10/15/2005,Michigan State,24,Ohio State,35,7.0
+10/15/2005,Georgia,34,Vanderbilt,17,-16.0
+10/15/2005,Ohio,10,Central Michigan,37,6.0
+10/15/2005,Northwestern,34,Purdue,29,7.5
+10/15/2005,Miami-Florida,34,Temple,3,-41.0
+10/15/2005,Kent State,31,Navy,34,13.0
+10/15/2005,Bowling Green,27,Buffalo,7,-24.0
+10/15/2005,Akron,23,Miami-Ohio,51,14.5
+10/15/2005,Toledo,34,Ball State,14,-19.5
+10/15/2005,Colorado State,14,Brigham Young,24,-1.0
+10/15/2005,Nevada-Las Vegas,7,Air Force,42,14.5
+10/15/2005,East Carolina,24,S-M-U,17,1.0
+10/15/2005,New Mexico,27,Wyoming,24,7.0
+10/15/2005,Penn State,25,Michigan,27,3.5
+10/15/2005,Oklahoma State,23,Texas A+M,62,17.5
+10/15/2005,Oklahoma,19,Kansas,3,-4.5
+10/15/2005,Iowa State,24,Missouri,27,6.0
+10/15/2005,Kansas State,20,Texas Tech,59,11.5
+10/15/2005,Washington,21,Oregon,45,16.0
+10/15/2005,Florida,17,Louisiana State,21,6.0
+10/15/2005,Southern Cal,34,Notre Dame,31,-12.0
+10/15/2005,Eastern Michigan,8,Northern Illinois,24,19.0
+10/15/2005,Connecticut,17,Cincinnati,28,-8.5
+10/15/2005,Nebraska,23,Baylor,14,-2.5
+10/15/2005,U-A-B,19,Marshall,20,-5.5
+10/15/2005,U.C.L.A.,44,Washington State,41,-6.5
+10/15/2005,Oregon State,23,California,20,16.0
+10/15/2005,U-C-F,31,Southern Miss,52,10.0
+10/15/2005,Army,17,Texas Christian,38,23.0
+10/15/2005,Stanford,20,Arizona,16,6.0
+10/15/2005,Auburn,34,Arkansas,17,-7.5
+10/15/2005,San Diego State,28,Utah,19,9.5
+10/15/2005,Memphis,35,Houston,20,9.0
+10/15/2005,Florida State,21,Virginia,26,-7.0
+10/15/2005,San Jose State,21,Boise State,38,32.0
+10/15/2005,Tulsa,41,Rice,21,-7.0
+10/15/2005,Utah State,21,Fresno State,53,33.0
+10/15/2005,Louisiana Tech,27,Nevada-Reno,37,0.0
+10/15/2005,New Mexico State,28,Hawaii,49,20.0
+10/15/2005,Troy,3,UL-Monroe,27,-1.5
+10/15/2005,Middle Tennessee,35,Florida Atlantic,14,-6.0
+10/15/2005,North Texas,13,Florida Intl,10,-1.5
+10/20/2005,Virginia Tech,28,Maryland,9,-11.0
+10/20/2005,Florida Intl,13,Troy,18,9.0
+10/21/2005,Southern Miss,37,U-A-B,28,1.0
+10/21/2005,Tulane,24,U-C-F,34,4.5
+10/22/2005,Syracuse,17,Pittsburgh,34,13.0
+10/22/2005,Northwestern,49,Michigan State,14,11.5
+10/22/2005,Michigan,23,Iowa,20,2.5
+10/22/2005,Ohio State,41,Indiana,10,-15.5
+10/22/2005,Florida State,55,Duke,24,-30.0
+10/22/2005,No Carolina State,19,Wake Forest,27,-1.5
+10/22/2005,Virginia,5,North Carolina,7,0.0
+10/22/2005,Vanderbilt,28,South Carolina,35,7.5
+10/22/2005,Baylor,30,Oklahoma,38,15.0
+10/22/2005,Arkansas,20,Georgia,23,18.5
+10/22/2005,Nebraska,24,Missouri,41,3.0
+10/22/2005,Northern Illinois,34,Kent State,3,-11.0
+10/22/2005,Temple,7,Clemson,37,35.5
+10/22/2005,Ball State,21,Ohio,38,8.5
+10/22/2005,East Carolina,24,Memphis,27,7.5
+10/22/2005,Houston,28,Mississippi State,16,1.0
+10/22/2005,Brigham Young,23,Notre Dame,49,19.5
+10/22/2005,S-M-U,13,Tulsa,20,14.5
+10/22/2005,Texas Christian,48,Air Force,10,-1.0
+10/22/2005,Tennessee,3,Alabama,6,3.5
+10/22/2005,Washington State,38,California,42,12.5
+10/22/2005,Rutgers,26,Connecticut,24,1.5
+10/22/2005,Purdue,20,Wisconsin,31,7.0
+10/22/2005,Texas A+M,30,Kansas State,28,-3.0
+10/22/2005,Oklahoma State,10,Iowa State,37,15.5
+10/22/2005,Kansas,13,Colorado,44,14.5
+10/22/2005,Western Michigan,45,Bowling Green,14,26.5
+10/22/2005,Oregon State,28,U.C.L.A.,51,11.0
+10/22/2005,Fresno State,40,Idaho,10,-28.0
+10/22/2005,Miami-Ohio,24,Eastern Michigan,23,-11.0
+10/22/2005,Hawaii,45,San Jose State,38,-7.0
+10/22/2005,Army,20,Akron,0,10.0
+10/22/2005,Texas Tech,17,Texas,52,15.5
+10/22/2005,Kentucky,7,Mississippi,13,10.0
+10/22/2005,Louisville,46,Cincinnati,22,-23.0
+10/22/2005,Penn State,63,Illinois,10,-17.0
+10/22/2005,Utah,42,Nevada-Las Vegas,32,-13.0
+10/22/2005,Wyoming,31,Colorado State,39,3.0
+10/22/2005,Buffalo,15,Toledo,38,31.0
+10/22/2005,Oregon,28,Arizona,21,-8.5
+10/22/2005,Auburn,17,Louisiana State,20,6.5
+10/22/2005,Marshall,3,UTEP,31,12.5
+10/22/2005,New Mexico,47,San Diego State,24,-1.0
+10/22/2005,Arizona State,35,Stanford,45,-10.0
+10/22/2005,Southern Cal,51,Washington,24,-31.0
+10/22/2005,Boise State,45,Utah State,21,-19.5
+10/22/2005,North Texas,14,Louisiana Tech,40,16.5
+10/22/2005,UL-Lafayette,13,Middle Tennessee,10,14.0
+10/22/2005,Florida Atlantic,0,Arkansas State,3,9.0
+10/22/2005,Navy,41,Rice,9,-9.5
+10/27/2005,Boston College,10,Virginia Tech,30,14.0
+10/28/2005,Colorado State,35,New Mexico,25,4.5
+10/29/2005,Purdue,15,Penn State,33,15.0
+10/29/2005,Indiana,15,Michigan State,46,18.0
+10/29/2005,Wisconsin,41,Illinois,24,-19.0
+10/29/2005,Cincinnati,22,Syracuse,16,5.5
+10/29/2005,Clemson,9,Georgia Tech,10,3.0
+10/29/2005,Maryland,27,Florida State,35,17.5
+10/29/2005,Oklahoma,31,Nebraska,24,1.0
+10/29/2005,Wake Forest,44,Duke,6,-14.5
+10/29/2005,Southern Miss,17,No Carolina State,21,5.0
+10/29/2005,Mississippi,3,Auburn,27,20.0
+10/29/2005,Utah State,3,Alabama,35,34.5
+10/29/2005,Colorado,23,Kansas State,20,-7.5
+10/29/2005,Iowa State,42,Texas A+M,14,9.5
+10/29/2005,Miami-Ohio,41,Temple,14,-24.0
+10/29/2005,Toledo,17,Central Michigan,21,-10.0
+10/29/2005,Ohio,34,Buffalo,20,-3.5
+10/29/2005,Kent State,14,Western Michigan,44,5.5
+10/29/2005,U-C-F,30,East Carolina,20,2.5
+10/29/2005,Air Force,41,Brigham Young,62,5.5
+10/29/2005,UTEP,38,Rice,31,-19.0
+10/29/2005,Ohio State,45,Minnesota,31,-5.5
+10/29/2005,Navy,21,Rutgers,31,5.5
+10/29/2005,Georgia,10,Florida,14,5.5
+10/29/2005,Washington State,13,Southern Cal,55,30.0
+10/29/2005,North Carolina,16,Miami-Florida,34,20.0
+10/29/2005,Texas,47,Oklahoma State,28,-35.5
+10/29/2005,Ball State,31,Northern Illinois,17,26.0
+10/29/2005,Akron,24,Bowling Green,14,16.5
+10/29/2005,U.C.L.A.,30,Stanford,27,-8.0
+10/29/2005,Texas Christian,23,San Diego State,20,-6.5
+10/29/2005,Washington,20,Arizona State,44,16.0
+10/29/2005,Missouri,3,Kansas,13,-6.0
+10/29/2005,Mississippi State,7,Kentucky,13,-1.0
+10/29/2005,Fresno State,27,Hawaii,13,-12.5
+10/29/2005,San Jose State,14,Louisiana Tech,31,18.5
+10/29/2005,Michigan,33,Northwestern,17,-3.5
+10/29/2005,Texas Tech,28,Baylor,0,-10.0
+10/29/2005,South Carolina,16,Tennessee,15,14.0
+10/29/2005,Marshall,27,Tulane,26,-1.0
+10/29/2005,Idaho,38,New Mexico State,37,4.0
+10/29/2005,Arizona,29,Oregon State,27,7.5
+10/29/2005,Nevada-Reno,14,Boise State,49,20.0
+10/29/2005,Troy,28,UL-Lafayette,31,3.5
+10/29/2005,North Texas,3,Louisiana State,56,44.0
+11/01/2005,U-A-B,37,Memphis,20,3.0
+11/02/2005,Connecticut,13,West Virginia,45,14.5
+11/03/2005,Pittsburgh,20,Louisville,42,18.0
+11/04/2005,Toledo,30,Ohio,21,-12.5
+11/05/2005,Michigan State,21,Purdue,28,-5.0
+11/05/2005,South Florida,45,Rutgers,31,3.5
+11/05/2005,Boston College,14,North Carolina,16,-4.5
+11/05/2005,Temple,3,Virginia,51,35.0
+11/05/2005,Minnesota,42,Indiana,21,-12.5
+11/05/2005,Iowa,27,Northwestern,28,-1.5
+11/05/2005,Wake Forest,17,Georgia Tech,30,9.5
+11/05/2005,Vanderbilt,42,Florida,49,19.5
+11/05/2005,Duke,20,Clemson,49,31.0
+11/05/2005,Western Michigan,44,Eastern Michigan,36,-3.5
+11/05/2005,Northern Illinois,31,Central Michigan,28,-4.0
+11/05/2005,Bowling Green,24,Kent State,14,-11.5
+11/05/2005,Tulane,21,Navy,49,11.5
+11/05/2005,South Carolina,14,Arkansas,10,5.0
+11/05/2005,Akron,17,Ball State,23,-2.5
+11/05/2005,Texas A+M,17,Texas Tech,56,14.5
+11/05/2005,Buffalo,13,Miami-Ohio,54,27.0
+11/05/2005,Tennessee,21,Notre Dame,41,8.0
+11/05/2005,Brigham Young,55,Nevada-Las Vegas,14,-12.0
+11/05/2005,New Mexico State,6,Boise State,56,35.0
+11/05/2005,Wyoming,13,Utah,43,3.0
+11/05/2005,Louisiana Tech,27,Utah State,17,-8.0
+11/05/2005,Rice,7,S-M-U,27,7.5
+11/05/2005,Texas,62,Baylor,0,-28.0
+11/05/2005,Oregon State,18,Washington,10,-4.0
+11/05/2005,Illinois,2,Ohio State,40,34.5
+11/05/2005,Kansas State,17,Iowa State,45,7.5
+11/05/2005,Missouri,12,Colorado,41,11.5
+11/05/2005,Nebraska,15,Kansas,40,-1.0
+11/05/2005,Army,27,Air Force,24,13.0
+11/05/2005,Miami-Florida,27,Virginia Tech,7,6.0
+11/05/2005,California,20,Oregon,27,-1.0
+11/05/2005,Wisconsin,14,Penn State,35,10.0
+11/05/2005,Auburn,49,Kentucky,27,-22.5
+11/05/2005,Hawaii,28,Nevada-Reno,38,6.5
+11/05/2005,Houston,29,U-C-F,31,-2.5
+11/05/2005,U.C.L.A.,14,Arizona,52,-8.5
+11/05/2005,Stanford,21,Southern Cal,51,32.5
+11/05/2005,Alabama,17,Mississippi State,0,-17.0
+11/05/2005,Colorado State,6,Texas Christian,33,6.5
+11/05/2005,Arizona State,27,Washington State,24,-2.5
+11/05/2005,No Carolina State,20,Florida State,15,14.0
+11/05/2005,Tulsa,38,UTEP,41,9.0
+11/05/2005,San Jose State,7,Fresno State,45,33.0
+11/05/2005,Florida Atlantic,14,Troy,28,3.0
+11/05/2005,Florida Intl,31,UL-Monroe,29,10.5
+11/05/2005,Arkansas State,7,Middle Tennessee,45,6.0
+11/05/2005,UL-Lafayette,31,North Texas,28,-3.5
+11/05/2005,Appalachian State,0,Louisiana State,24, 
+11/08/2005,Southern Miss,27,Marshall,24,-7.0
+11/09/2005,West Virginia,38,Cincinnati,0,-14.0
+11/10/2005,Boise State,7,Fresno State,27,7.0
+11/11/2005,Rutgers,5,Louisville,56,21.0
+11/12/2005,South Florida,27,Syracuse,0,-8.0
+11/12/2005,Texas A+M,30,Oklahoma,36,12.5
+11/12/2005,No Carolina State,10,Boston College,30,4.5
+11/12/2005,Maryland,33,North Carolina,30,3.0
+11/12/2005,Connecticut,0,Pittsburgh,24,11.0
+11/12/2005,Georgia Tech,17,Virginia,27,4.5
+11/12/2005,Northwestern,7,Ohio State,48,16.0
+11/12/2005,Illinois,3,Purdue,37,22.0
+11/12/2005,Indiana,14,Michigan,41,24.0
+11/12/2005,Memphis,16,Tennessee,20,19.0
+11/12/2005,Navy,21,Notre Dame,42,24.0
+11/12/2005,Baylor,16,Missouri,31,9.0
+11/12/2005,Buffalo,10,Kent State,6,8.5
+11/12/2005,Kentucky,48,Vanderbilt,43,13.0
+11/12/2005,Central Michigan,24,Western Michigan,31,1.5
+11/12/2005,Kansas State,25,Nebraska,27,5.0
+11/12/2005,Michigan State,18,Minnesota,41,5.5
+11/12/2005,Iowa,20,Wisconsin,10,2.5
+11/12/2005,San Diego State,30,Colorado State,10,7.0
+11/12/2005,East Carolina,13,Tulsa,45,11.0
+11/12/2005,Brigham Young,35,Wyoming,21,-4.0
+11/12/2005,Tulane,34,Rice,42,1.0
+11/12/2005,New Mexico,31,Utah,27,4.0
+11/12/2005,Auburn,31,Georgia,30,3.5
+11/12/2005,Florida State,14,Clemson,35,-2.0
+11/12/2005,Nevada-Reno,48,New Mexico State,24,-10.5
+11/12/2005,U-C-F,27,U-A-B,21,7.0
+11/12/2005,Kansas,14,Texas,66,34.5
+11/12/2005,Louisiana Tech,41,Idaho,38,-13.0
+11/12/2005,Ball State,26,Eastern Michigan,25,6.5
+11/12/2005,Washington,38,Arizona,14,12.5
+11/12/2005,Southern Cal,35,California,10,-18.5
+11/12/2005,Colorado,16,Iowa State,30,-2.5
+11/12/2005,Arizona State,35,U.C.L.A.,45,4.5
+11/12/2005,Stanford,20,Oregon State,17,3.5
+11/12/2005,Texas Tech,17,Oklahoma State,24,-24.0
+11/12/2005,Arkansas,28,Mississippi,17,-1.0
+11/12/2005,Nevada-Las Vegas,3,Texas Christian,51,29.0
+11/12/2005,Louisiana State,16,Alabama,13,-2.5
+11/12/2005,Florida,22,South Carolina,30,-5.5
+11/12/2005,Oregon,34,Washington State,31,-4.5
+11/12/2005,Utah State,23,Hawaii,50,15.5
+11/12/2005,North Texas,23,Florida Atlantic,26,7.0
+11/12/2005,UL-Monroe,34,Middle Tennessee,31,10.0
+11/12/2005,Florida Intl,7,UL-Lafayette,28,8.5
+11/12/2005,Troy,3,Arkansas State,9,3.0
+11/12/2005,Miami-Florida,47,Wake Forest,17,-16.0
+11/12/2005,Texas Southern,0,UTEP,45, 
+11/12/2005,Massachusetts,27,Army,34, 
+11/13/2005,Southern Miss,24,Houston,27,0.0
+11/15/2005,Bowling Green,42,Miami-Ohio,14,8.5
+11/15/2005,Ohio,3,Akron,27,3.5
+11/16/2005,Northern Illinois,35,Toledo,17,7.5
+11/19/2005,Boston College,31,Maryland,16,-2.0
+11/19/2005,Purdue,41,Indiana,14,-11.5
+11/19/2005,Missouri,28,Kansas State,36,0.0
+11/19/2005,Northwestern,38,Illinois,21,-15.0
+11/19/2005,Minnesota,28,Iowa,52,4.0
+11/19/2005,Central Michigan,31,Ball State,24,-5.0
+11/19/2005,Duke,21,North Carolina,24,26.0
+11/19/2005,Cincinnati,16,South Florida,31,17.0
+11/19/2005,Kentucky,13,Georgia,45,27.0
+11/19/2005,Louisiana State,40,Mississippi,7,-17.0
+11/19/2005,Vanderbilt,28,Tennessee,24,11.5
+11/19/2005,Ohio State,25,Michigan,21,-2.5
+11/19/2005,Temple,17,Navy,38,27.0
+11/19/2005,Eastern Michigan,38,Buffalo,14,-5.0
+11/19/2005,Mississippi State,10,Arkansas,44,14.0
+11/19/2005,Oklahoma,21,Texas Tech,23,7.5
+11/19/2005,Syracuse,10,Notre Dame,34,35.0
+11/19/2005,Oklahoma State,34,Baylor,44,4.0
+11/19/2005,U-C-F,31,Rice,28,-10.0
+11/19/2005,Idaho,35,Boise State,70,29.5
+11/19/2005,Nevada-Reno,30,Utah State,24,-9.5
+11/19/2005,Washington State,26,Washington,22,-3.0
+11/19/2005,Alabama,18,Auburn,28,7.0
+11/19/2005,Penn State,31,Michigan State,22,-7.0
+11/19/2005,Utah,41,Brigham Young,34,11.5
+11/19/2005,East Carolina,34,Marshall,29,6.5
+11/19/2005,U-A-B,35,UTEP,23,7.5
+11/19/2005,New Mexico State,10,San Jose State,27,6.0
+11/19/2005,Oregon State,14,Oregon,56,13.0
+11/19/2005,Tulsa,38,Tulane,14,-14.0
+11/19/2005,Clemson,13,South Carolina,9,1.0
+11/19/2005,California,27,Stanford,3,-4.5
+11/19/2005,Colorado State,31,Nevada-Las Vegas,27,-15.5
+11/19/2005,Virginia Tech,52,Virginia,14,-8.5
+11/19/2005,Air Force,42,New Mexico,24,13.0
+11/19/2005,Memphis,24,Southern Miss,22,7.5
+11/19/2005,Wyoming,21,San Diego State,34,6.5
+11/19/2005,Fresno State,42,Southern Cal,50,25.0
+11/19/2005,Middle Tennessee,3,No Carolina State,24,18.0
+11/19/2005,Arkansas State,10,Army,38,7.0
+11/19/2005,Georgia Tech,14,Miami-Florida,10,18.5
+11/19/2005,S-M-U,29,Houston,24,12.5
+11/19/2005,Western Kentucky,35,Florida Intl,38, 
+11/19/2005,UL-Monroe,24,North Texas,19,-4.5
+11/21/2005,Miami-Ohio,38,Ohio,7,-8.0
+11/22/2005,Toledo,44,Bowling Green,41,6.0
+11/23/2005,Western Michigan,7,Northern Illinois,42,9.5
+11/24/2005,Kent State,3,Akron,35,12.0
+11/24/2005,Pittsburgh,13,West Virginia,45,13.0
+11/25/2005,Texas,40,Texas A+M,29,-26.0
+11/25/2005,Arkansas,17,Louisiana State,19,16.5
+11/25/2005,Arizona,20,Arizona State,23,9.0
+11/25/2005,Nebraska,30,Colorado,3,14.0
+11/25/2005,Wisconsin,41,Hawaii,24,-6.5
+11/26/2005,North Carolina,3,Virginia Tech,30,22.5
+11/26/2005,U-A-B,23,East Carolina,31,-6.0
+11/26/2005,Maryland,14,No Carolina State,20,2.5
+11/26/2005,Mississippi,14,Mississippi State,35,-3.0
+11/26/2005,Iowa State,21,Kansas,24,-3.0
+11/26/2005,Cincinnati,9,Rutgers,44,14.5
+11/26/2005,Marshall,3,Memphis,26,11.5
+11/26/2005,UTEP,27,S-M-U,40,-7.0
+11/26/2005,Florida State,7,Florida,34,6.0
+11/26/2005,Syracuse,17,Louisville,41,35.5
+11/26/2005,Georgia,14,Georgia Tech,7,-3.0
+11/26/2005,South Florida,10,Connecticut,15,-8.5
+11/26/2005,Rice,18,Houston,35,16.5
+11/26/2005,Utah State,24,New Mexico State,21,-2.0
+11/26/2005,Tulane,7,Southern Miss,26,21.5
+11/26/2005,Idaho,18,San Jose State,26,5.0
+11/26/2005,Boise State,30,Louisiana Tech,13,-6.5
+11/26/2005,Tennessee,27,Kentucky,8,-10.0
+11/26/2005,Virginia,17,Miami-Florida,25,18.5
+11/26/2005,Notre Dame,38,Stanford,31,-17.5
+11/26/2005,Fresno State,35,Nevada-Reno,38,-15.5
+11/26/2005,Arkansas State,31,North Texas,24,-2.5
+11/26/2005,Florida Atlantic,6,Florida Intl,52,0.0
+11/26/2005,Middle Tennessee,17,Troy,7,-6.0
+11/26/2005,Oklahoma State,14,Oklahoma,42,19.5
+11/26/2005,UL-Lafayette,54,UL-Monroe,21,4.0
+12/01/2005,Akron,31,Northern Illinois,30,13.0
+12/02/2005,Louisiana Tech,40,Fresno State,28,22.0
+12/03/2005,Louisville,30,Connecticut,20,-19.5
+12/03/2005,Army,23,Navy,42,7.0
+12/03/2005,U.C.L.A.,19,Southern Cal,66,22.0
+12/03/2005,San Diego State,38,Hawaii,49,2.5
+12/03/2005,Colorado,3,Texas,70,27.5
+12/03/2005,Louisiana State,14,Georgia,34,-2.0
+12/03/2005,Tulsa,44,U-C-F,27,2.0
+12/03/2005,Florida State,27,Virginia Tech,22,14.0
+12/03/2005,Middle Tennessee,31,Florida Intl,35,-8.0
+12/03/2005,West Virginia,28,South Florida,13,-8.0

@@ -1,0 +1,744 @@
+Date,Visitor,Visitor Score,Home Team,Home Score,Line
+08/23/2003,Grambling,0,San Jose State,29, 
+08/23/2003,California,28,Kansas State,42,27.5
+08/28/2003,Sacramento State,7,Oregon State,40, 
+08/28/2003,Eastern Kentucky,13,Bowling Green,63, 
+08/28/2003,East Tennessee St,21,Eastern Michigan,28, 
+08/28/2003,S E Missouri St,3,Ohio,17, 
+08/28/2003,Maryland,13,Northern Illinois,20,-8.0
+08/28/2003,Miami-Florida,48,Louisiana Tech,9,-28.0
+08/28/2003,Kent State,41,Akron,38,12.5
+08/28/2003,Florida Atlantic,20,Middle Tennessee,19, 
+08/28/2003,Indiana State,7,Ball State,31, 
+08/28/2003,Utah State,20,Utah,40,18.0
+08/28/2003,Georgia Tech,13,Brigham Young,24,4.0
+08/29/2003,Toledo,18,Nevada-Las Vegas,28,-1.5
+08/30/2003,Wake Forest,32,Boston College,28,10.5
+08/30/2003,Temple,10,Penn State,23,23.0
+08/30/2003,Duke,0,Virginia,27,14.0
+08/30/2003,Georgia,30,Clemson,0,-3.5
+08/30/2003,Wisconsin,24,West Virginia,17,-5.5
+08/30/2003,Central Michigan,7,Michigan,45,34.0
+08/30/2003,Miami-Ohio,3,Iowa,21,9.0
+08/30/2003,Illinois,15,Missouri,22,4.0
+08/30/2003,Indiana,10,Connecticut,34,6.0
+08/30/2003,Mississippi,20,Vanderbilt,14,-13.0
+08/30/2003,South Florida,17,Alabama,40,14.5
+08/30/2003,Western Michigan,21,Michigan State,26,14.0
+08/30/2003,Virginia Military,10,Navy,37, 
+08/30/2003,Wofford,0,Air Force,49, 
+08/30/2003,Tulsa,10,Minnesota,49,33.0
+08/30/2003,Idaho,0,Washington State,25,26.0
+08/30/2003,Oklahoma State,7,Nebraska,17,7.5
+08/30/2003,Fresno State,6,Tennessee,24,19.0
+08/30/2003,Montana State,10,Wyoming,21, 
+08/30/2003,Southern Utah,23,Nevada-Reno,24, 
+08/30/2003,Hofstra,21,Marshall,45, 
+08/30/2003,San Jose State,3,Florida,65,23.5
+08/30/2003,Southern Cal,23,Auburn,0,4.0
+08/30/2003,Western Carolina,20,No Carolina State,59, 
+08/30/2003,Southern Miss,2,California,34,3.5
+08/30/2003,Buffalo,10,Rutgers,24,10.0
+08/30/2003,Northwestern,28,Kansas,20,-7.0
+08/30/2003,S-M-U,10,Texas Tech,58,23.0
+08/30/2003,U-A-B,24,Baylor,19,-8.5
+08/30/2003,UL-Lafayette,7,South Carolina,14,23.5
+08/30/2003,North Texas,3,Oklahoma,37,30.0
+08/30/2003,Arkansas State,11,Texas A+M,26,29.0
+08/30/2003,Northern Iowa,10,Iowa State,17, 
+08/30/2003,Troy,5,Kansas State,41,37.5
+08/30/2003,Colorado,42,Colorado State,35,2.0
+08/30/2003,Florida State,37,North Carolina,0,-16.5
+08/30/2003,Washington,9,Ohio State,28,9.0
+08/30/2003,Rice,14,Houston,48,3.0
+08/30/2003,UL-Monroe,7,Louisiana State,49,34.5
+08/30/2003,Texas State,8,New Mexico,72, 
+08/30/2003,Tennessee Tech,10,Memphis,40, 
+08/30/2003,Oregon,42,Mississippi State,34,-2.5
+08/30/2003,Eastern Washington,9,San Diego State,19, 
+08/30/2003,UTEP,7,Arizona,42,21.5
+08/30/2003,Appalachian State,17,Hawaii,40, 
+08/31/2003,U-C-F,28,Virginia Tech,49,20.5
+08/31/2003,Louisville,40,Kentucky,24,7.0
+08/31/2003,New Mexico State,7,Texas,66,29.0
+09/01/2003,East Carolina,3,Cincinnati,40,8.0
+09/01/2003,Texas Christian,38,Tulane,35,-5.5
+09/04/2003,Southern Miss,17,U-A-B,12,-2.5
+09/04/2003,Western Illinois,34,Eastern Michigan,12, 
+09/05/2003,Oregon State,14,Fresno State,16,-8.5
+09/06/2003,Boston College,27,Penn State,14,9.0
+09/06/2003,San Diego State,13,Ohio State,16,30.5
+09/06/2003,Houston,3,Michigan,50,27.5
+09/06/2003,Akron,31,Wisconsin,48,24.0
+09/06/2003,Buffalo,7,Iowa,56,34.0
+09/06/2003,No Carolina State,24,Wake Forest,38,-9.0
+09/06/2003,Mississippi,34,Memphis,44,-8.0
+09/06/2003,Illinois State,22,Illinois,49, 
+09/06/2003,Utah State,7,Nebraska,31,32.0
+09/06/2003,Bowling Green,27,Purdue,26,12.0
+09/06/2003,New Hampshire,33,Central Michigan,40, 
+09/06/2003,Air Force,22,Northwestern,21,-7.0
+09/06/2003,Connecticut,48,Army,21,-16.5
+09/06/2003,Middle Tennessee,10,Georgia,29,29.0
+09/06/2003,James Madison,0,Virginia Tech,43, 
+09/06/2003,Syracuse,49,North Carolina,47,-1.0
+09/06/2003,Ohio,20,Iowa State,48,18.5
+09/06/2003,Tennessee Tech,17,Northern Illinois,42, 
+09/06/2003,Washington State,26,Notre Dame,29,6.0
+09/06/2003,Troy,7,Minnesota,48,27.0
+09/06/2003,Rutgers,28,Michigan State,44,19.0
+09/06/2003,Virginia,7,South Carolina,31,-3.0
+09/06/2003,Auburn,3,Georgia Tech,17,-9.0
+09/06/2003,U.C.L.A.,14,Colorado,16,2.5
+09/06/2003,Nevada-Reno,23,Oregon,31,22.0
+09/06/2003,Indiana,13,Washington,38,25.5
+09/06/2003,Missouri,35,Ball State,7,-15.0
+09/06/2003,Marshall,24,Tennessee,34,20.5
+09/06/2003,Eastern Washington,8,Idaho,5, 
+09/06/2003,Furman,17,Clemson,28, 
+09/06/2003,Villanova,23,Temple,20, 
+09/06/2003,Western Carolina,3,Duke,29, 
+09/06/2003,Colorado State,23,California,21,2.5
+09/06/2003,Stephen F Austin,23,UL-Monroe,21, 
+09/06/2003,Chattanooga,6,Vanderbilt,51, 
+09/06/2003,Kent State,3,Pittsburgh,43,28.5
+09/06/2003,Liberty,3,Toledo,49, 
+09/06/2003,Murray State,6,Kentucky,37, 
+09/06/2003,Nicholls State,17,South Florida,27, 
+09/06/2003,Northwestern St(LA),24,Tulane,27, 
+09/06/2003,Tennessee-Martin,6,Arkansas State,63, 
+09/06/2003,William + Mary,21,Western Michigan,42, 
+09/06/2003,West Virginia,48,East Carolina,7,-10.0
+09/06/2003,Tulsa,13,Arkansas,45,36.5
+09/06/2003,Nevada-Las Vegas,24,Kansas,46,-10.0
+09/06/2003,Wyoming,24,Oklahoma State,48,22.0
+09/06/2003,Utah,26,Texas A+M,28,9.5
+09/06/2003,Navy,3,Texas Christian,17,21.5
+09/06/2003,New Mexico,28,Texas Tech,42,13.5
+09/06/2003,McNeese State,14,Kansas State,55, 
+09/06/2003,Maryland,10,Florida State,35,15.0
+09/06/2003,Oklahoma,20,Alabama,13,-7.5
+09/06/2003,Florida,33,Miami-Florida,38,14.0
+09/06/2003,Western New Mexico,3,New Mexico State,48, 
+09/06/2003,Brigham Young,18,Southern Cal,35,21.5
+09/06/2003,Louisiana Tech,34,UL-Lafayette,3,-4.0
+09/06/2003,Baylor,14,North Texas,52,14.0
+09/06/2003,Idaho State,0,Boise State,62, 
+09/06/2003,Northern Arizona,14,Arizona State,34, 
+09/06/2003,Cal-San Luis Obispo,34,UTEP,13, 
+09/06/2003,Louisiana State,59,Arizona,13,-11.5
+09/06/2003,San Jose State,10,Stanford,31,10.0
+09/11/2003,California,24,Utah,31,0.0
+09/12/2003,Toledo,24,Marshall,17,6.0
+09/13/2003,Louisville,30,Syracuse,20,3.0
+09/13/2003,Ball State,21,Pittsburgh,42,30.5
+09/13/2003,Cincinnati,15,West Virginia,13,6.5
+09/13/2003,No Carolina State,38,Ohio State,44,8.5
+09/13/2003,Louisiana Tech,20,Michigan State,19,12.0
+09/13/2003,Nevada-Las Vegas,23,Wisconsin,5,20.5
+09/13/2003,Miami-Ohio,44,Northwestern,14,-2.5
+09/13/2003,Purdue,16,Wake Forest,10,-2.5
+09/13/2003,Arkansas,38,Texas,28,14.0
+09/13/2003,Boston College,24,Connecticut,14,-3.5
+09/13/2003,Iowa,40,Iowa State,21,-5.5
+09/13/2003,Eastern Kentucky,41,Central Michigan,42, 
+09/13/2003,Massachusetts,7,Kansas State,38, 
+09/13/2003,Rutgers,36,Army,21,-7.5
+09/13/2003,South Carolina,7,Georgia,31,13.0
+09/13/2003,Eastern Illinois,0,Missouri,37, 
+09/13/2003,Minnesota,42,Ohio,20,-20.5
+09/13/2003,Weber State,7,Colorado State,31, 
+09/13/2003,Virginia,58,Western Michigan,16,-6.5
+09/13/2003,North Texas,21,Air Force,34,10.0
+09/13/2003,Youngstown State,13,Kent State,16, 
+09/13/2003,Notre Dame,0,Michigan,38,10.5
+09/13/2003,Washington State,47,Colorado,26,4.5
+09/13/2003,Kansas,42,Wyoming,35,4.5
+09/13/2003,Hawaii,32,Southern Cal,61,20.5
+09/13/2003,Middle Tennessee,14,Clemson,37,14.0
+09/13/2003,Boise State,24,Idaho,10,-25.5
+09/13/2003,The Citadel,0,Maryland,61, 
+09/13/2003,Colgate,38,Buffalo,15, 
+09/13/2003,Eastern Michigan,17,Akron,24,20.0
+09/13/2003,Florida Atlantic,29,U-C-F,33, 
+09/13/2003,Florida A+M,3,Florida,63, 
+09/13/2003,Liberty,3,Bowling Green,62, 
+09/13/2003,Rice,24,Duke,27,13.5
+09/13/2003,New Mexico State,16,Oregon State,28,24.0
+09/13/2003,Indiana State,3,Indiana,33, 
+09/13/2003,Kentucky,17,Alabama,27,13.5
+09/13/2003,S E Missouri St,3,Arkansas State,21, 
+09/13/2003,Missouri State,3,Oklahoma State,42, 
+09/13/2003,Texas State,15,Tulsa,41, 
+09/13/2003,Auburn,45,Vanderbilt,7,-11.5
+09/13/2003,East Carolina,3,Miami-Florida,38,41.0
+09/13/2003,Memphis,6,Southern Miss,23,4.0
+09/13/2003,Fresno State,28,Oklahoma,52,28.0
+09/13/2003,S-M-U,7,Baylor,10,-1.0
+09/13/2003,Troy,20,U-A-B,9,10.5
+09/13/2003,UL-Monroe,14,Mississippi,59,26.5
+09/13/2003,Georgia Tech,13,Florida State,14,23.5
+09/13/2003,Western Illinois,7,Louisiana State,35, 
+09/13/2003,Mississippi State,28,Tulane,31,-3.5
+09/13/2003,Penn State,10,Nebraska,18,10.5
+09/13/2003,Brigham Young,10,New Mexico,7,-1.0
+09/13/2003,Illinois,3,U.C.L.A.,6,9.5
+09/13/2003,Houston,21,UL-Lafayette,14,-7.0
+09/13/2003,San Diego State,34,UTEP,0,-18.5
+09/13/2003,Oregon,48,Arizona,10,-12.5
+09/13/2003,Utah State,16,Arizona State,26,26.5
+09/18/2003,Texas A+M,19,Virginia Tech,35,13.5
+09/18/2003,Nevada-Reno,42,San Jose State,30,-1.5
+09/19/2003,Hawaii,22,Nevada-Las Vegas,33,1.0
+09/20/2003,Miami-Florida,33,Boston College,14,-10.5
+09/20/2003,U-C-F,14,Syracuse,38,6.0
+09/20/2003,West Virginia,7,Maryland,34,10.0
+09/20/2003,Kent State,10,Penn State,32,25.5
+09/20/2003,Bowling Green,17,Ohio State,24,11.0
+09/20/2003,California,31,Illinois,24,3.5
+09/20/2003,North Carolina,27,Wisconsin,38,14.5
+09/20/2003,East Carolina,16,Wake Forest,34,19.5
+09/20/2003,Clemson,39,Georgia Tech,3,5.5
+09/20/2003,Tennessee,24,Florida,10,3.5
+09/20/2003,Colorado,7,Florida State,47,21.0
+09/20/2003,Tulane,50,Army,33,-17.0
+09/20/2003,Arizona,7,Purdue,59,27.0
+09/20/2003,Texas Tech,21,No Carolina State,49,6.0
+09/20/2003,Eastern Michigan,7,Navy,39,15.0
+09/20/2003,Central Michigan,14,Ball State,27,5.5
+09/20/2003,Northwestern,28,Duke,10,3.0
+09/20/2003,Middle Tennessee,40,Missouri,41,22.0
+09/20/2003,Michigan State,22,Notre Dame,16,9.0
+09/20/2003,UTEP,14,Louisville,42,36.0
+09/20/2003,Wyoming,29,Air Force,35,20.0
+09/20/2003,Miami-Ohio,41,Colorado State,21,6.0
+09/20/2003,U.C.L.A.,24,Oklahoma,59,19.5
+09/20/2003,Michigan,27,Oregon,31,-7.0
+09/20/2003,Idaho,14,Washington,45,26.5
+09/20/2003,Kentucky,34,Indiana,17,-8.0
+09/20/2003,Samford,17,San Diego State,37, 
+09/20/2003,New Mexico,13,Washington State,23,14.5
+09/20/2003,Connecticut,38,Buffalo,7,-22.5
+09/20/2003,Howard,7,Akron,65, 
+09/20/2003,Jacksonville St,6,Kansas,41, 
+09/20/2003,Northwestern St(LA),14,UL-Monroe,10, 
+09/20/2003,S E Louisiana,0,Troy,28, 
+09/20/2003,Sam Houston State,6,Baylor,27, 
+09/20/2003,Temple,24,Cincinnati,30,13.5
+09/20/2003,Pittsburgh,31,Toledo,35,-9.5
+09/20/2003,U-A-B,10,South Carolina,42,14.0
+09/20/2003,Northern Illinois,19,Alabama,16,13.0
+09/20/2003,Georgia,10,Louisiana State,17,2.5
+09/20/2003,Marshall,27,Kansas State,20,24.0
+09/20/2003,Vanderbilt,14,Texas Christian,30,11.0
+09/20/2003,Boise State,24,Oregon State,26,5.0
+09/20/2003,North Texas,7,Arkansas,31,21.0
+09/20/2003,Arkansas State,7,Tulsa,54,-4.0
+09/20/2003,Arizona State,2,Iowa,21,6.0
+09/20/2003,Mississippi State,35,Houston,42,-5.0
+09/20/2003,Texas,48,Rice,7,-31.0
+09/20/2003,Oklahoma State,52,S-M-U,6,-25.0
+09/20/2003,UL-Lafayette,14,Minnesota,48,35.0
+09/20/2003,Stanford,18,Brigham Young,14,6.5
+09/20/2003,Louisiana Tech,6,Fresno State,16,9.5
+09/25/2003,Nebraska,38,Southern Miss,14,-11.0
+09/27/2003,Western Kentucky,3,Auburn,48, 
+09/27/2003,Ball State,29,Boston College,53,23.5
+09/27/2003,Minnesota,20,Penn State,14,-1.0
+09/27/2003,Wake Forest,24,Virginia,27,7.0
+09/27/2003,Northwestern,0,Ohio State,20,20.5
+09/27/2003,Indiana,17,Michigan,31,33.5
+09/27/2003,Iowa,10,Michigan State,20,-7.5
+09/27/2003,Connecticut,13,Virginia Tech,47,20.5
+09/27/2003,Texas Tech,49,Mississippi,45,3.0
+09/27/2003,Louisiana State,41,Mississippi State,6,-14.0
+09/27/2003,South Florida,28,Army,0,-19.5
+09/27/2003,Notre Dame,10,Purdue,23,10.5
+09/27/2003,North Carolina,34,No Carolina State,47,16.5
+09/27/2003,U-C-F,16,Kent State,36,-8.5
+09/27/2003,Western Michigan,39,Ohio,32,-2.0
+09/27/2003,Arkansas State,16,Memphis,38,16.0
+09/27/2003,Cincinnati,37,Miami-Ohio,42,7.0
+09/27/2003,Temple,12,Louisville,21,13.0
+09/27/2003,Utah,28,Colorado State,21,6.0
+09/27/2003,Air Force,24,Brigham Young,10,-1.5
+09/27/2003,Idaho,28,Montana,41, 
+09/27/2003,Arkansas,34,Alabama,31,-2.5
+09/27/2003,Washington State,55,Oregon,16,4.0
+09/27/2003,Stanford,17,Washington,28,13.0
+09/27/2003,Iowa State,16,Northern Illinois,24,6.5
+09/27/2003,Arizona State,17,Oregon State,45,6.0
+09/27/2003,Southern Cal,31,California,34,-13.5
+09/27/2003,Akron,38,Buffalo,21,-16.0
+09/27/2003,Maryland,37,Eastern Michigan,13,-35.5
+09/27/2003,Wisconsin,38,Illinois,20,-1.0
+09/27/2003,Toledo,7,Syracuse,34,3.5
+09/27/2003,Navy,27,Rutgers,48,-2.0
+09/27/2003,Florida,24,Kentucky,21,-12.5
+09/27/2003,Florida State,56,Duke,7,-29.5
+09/27/2003,South Carolina,20,Tennessee,23,15.0
+09/27/2003,Georgia Tech,24,Vanderbilt,17,-7.0
+09/27/2003,Missouri,14,Kansas,35,-9.5
+09/27/2003,Marshall,24,Troy,33,-11.0
+09/27/2003,Sam Houston State,14,UTEP,59, 
+09/27/2003,Tulane,18,Texas,63,29.0
+09/27/2003,Pittsburgh,37,Texas A+M,26,-1.5
+09/27/2003,Wyoming,17,Boise State,33,23.5
+09/27/2003,UL-Lafayette,23,North Texas,44,19.5
+09/27/2003,New Mexico State,17,New Mexico,24,9.5
+09/27/2003,UL-Monroe,10,Utah State,28,13.0
+09/27/2003,Portland State,16,Fresno State,42, 
+09/27/2003,S-M-U,9,Nevada-Reno,12,18.5
+09/27/2003,Texas Christian,13,Arizona,10,-14.0
+09/27/2003,San Diego State,10,U.C.L.A.,20,10.0
+09/27/2003,Rice,21,Hawaii,41,20.5
+09/30/2003,Houston,27,East Carolina,13,-1.5
+10/02/2003,West Virginia,20,Miami-Florida,22,25.5
+10/03/2003,Oregon,13,Utah,17,-3.0
+10/04/2003,Virginia Tech,48,Rutgers,22,-28.5
+10/04/2003,Clemson,7,Maryland,21,8.5
+10/04/2003,Wisconsin,30,Penn State,23,0.0
+10/04/2003,Indiana,3,Michigan State,31,16.0
+10/04/2003,Minnesota,42,Northwestern,17,-10.5
+10/04/2003,Virginia,38,North Carolina,13,-8.5
+10/04/2003,Lehigh,17,Connecticut,35, 
+10/04/2003,Tennessee,21,Auburn,28,1.0
+10/04/2003,Troy,0,Nebraska,30,27.5
+10/04/2003,UL-Lafayette,3,Oklahoma State,56,36.0
+10/04/2003,Air Force,25,Navy,28,-14.5
+10/04/2003,Western Michigan,31,Eastern Michigan,3,-13.0
+10/04/2003,Ball State,34,Kent State,17,2.5
+10/04/2003,Akron,20,Miami-Ohio,45,17.0
+10/04/2003,U-A-B,24,Memphis,10,9.0
+10/04/2003,Vanderbilt,21,Mississippi State,30,3.5
+10/04/2003,Boise State,43,Louisiana Tech,37,-7.0
+10/04/2003,Colorado,30,Baylor,42,-18.5
+10/04/2003,Fresno State,10,Colorado State,34,4.0
+10/04/2003,Michigan,27,Iowa,30,-3.5
+10/04/2003,Alabama,23,Georgia,37,12.5
+10/04/2003,No Carolina State,21,Georgia Tech,29,-6.0
+10/04/2003,Mississippi,20,Florida,17,11.5
+10/04/2003,Kansas State,20,Texas,24,6.5
+10/04/2003,Washington,16,U.C.L.A.,46,-1.5
+10/04/2003,Central Michigan,3,Bowling Green,23,29.0
+10/04/2003,Illinois,10,Purdue,43,14.5
+10/04/2003,Arizona,7,Washington State,30,31.0
+10/04/2003,Oregon State,35,California,21,1.0
+10/04/2003,Buffalo,10,U-C-F,19,22.5
+10/04/2003,Southern Miss,22,Cincinnati,20,7.0
+10/04/2003,Oklahoma,53,Iowa State,7,-20.5
+10/04/2003,Louisville,28,South Florida,31,-1.5
+10/04/2003,Hawaii,16,Tulsa,27,-7.5
+10/04/2003,Army,0,Texas Christian,27,31.0
+10/04/2003,Texas A+M,28,Texas Tech,59,5.5
+10/04/2003,Temple,44,Middle Tennessee,36,3.0
+10/04/2003,UL-Monroe,41,Arkansas State,44,7.0
+10/04/2003,Ohio,23,Northern Illinois,30,21.0
+10/04/2003,San Jose State,24,Rice,28,4.0
+10/04/2003,UTEP,21,S-M-U,19,8.5
+10/04/2003,Utah State,7,New Mexico,34,13.0
+10/04/2003,Idaho,35,New Mexico State,31,10.0
+10/04/2003,Brigham Young,44,San Diego State,36,3.0
+10/04/2003,Southern Cal,37,Arizona State,17,-10.5
+10/04/2003,Nevada-Las Vegas,16,Nevada-Reno,12,-6.0
+10/09/2003,Colorado State,58,Brigham Young,13,-1.5
+10/09/2003,Kentucky,21,South Carolina,27,8.0
+10/10/2003,Texas Christian,13,South Florida,10,2.5
+10/10/2003,Michigan,38,Minnesota,35,-2.0
+10/11/2003,Miami-Florida,22,Florida State,14,7.0
+10/11/2003,Notre Dame,20,Pittsburgh,14,8.0
+10/11/2003,Duke,20,Maryland,33,28.0
+10/11/2003,Boston College,38,Temple,13,-9.5
+10/11/2003,Rutgers,19,West Virginia,34,18.0
+10/11/2003,Northwestern,37,Indiana,31,-3.5
+10/11/2003,Kansas State,34,Oklahoma State,38,-2.5
+10/11/2003,Syracuse,7,Virginia Tech,51,17.5
+10/11/2003,Northern Illinois,40,Central Michigan,24,-18.5
+10/11/2003,Penn State,14,Purdue,28,11.5
+10/11/2003,Michigan State,49,Illinois,14,-3.5
+10/11/2003,Connecticut,24,No Carolina State,31,15.0
+10/11/2003,Bowling Green,32,Western Michigan,21,-9.0
+10/11/2003,U-C-F,0,Ohio,28,3.5
+10/11/2003,Buffalo,3,Miami-Ohio,59,35.0
+10/11/2003,North Carolina,28,East Carolina,17,-9.0
+10/11/2003,Navy,37,Vanderbilt,27,4.5
+10/11/2003,Nebraska,24,Missouri,41,-8.0
+10/11/2003,Auburn,10,Arkansas,3,4.0
+10/11/2003,Arkansas State,0,Mississippi,55,26.0
+10/11/2003,Memphis,27,Mississippi State,35,3.0
+10/11/2003,Houston,45,Tulane,42,-1.0
+10/11/2003,Army,10,Louisville,34,31.5
+10/11/2003,Kansas,47,Colorado,50,6.0
+10/11/2003,Nevada-Las Vegas,7,Air Force,24,7.0
+10/11/2003,New Mexico State,18,Middle Tennessee,35,3.5
+10/11/2003,North Texas,24,Idaho,14,-7.5
+10/11/2003,Georgia Tech,24,Wake Forest,7,4.0
+10/11/2003,Virginia,27,Clemson,30,-5.0
+10/11/2003,Georgia,41,Tennessee,14,-1.0
+10/11/2003,Southern Miss,3,Alabama,17,10.5
+10/11/2003,Oklahoma,65,Texas,13,-6.5
+10/11/2003,Nevada-Reno,28,Washington,17,17.5
+10/11/2003,Cincinnati,14,U-A-B,31,-5.5
+10/11/2003,Kent State,33,Marshall,49,20.0
+10/11/2003,UL-Monroe,45,UL-Lafayette,42,3.0
+10/11/2003,Cal-San Luis Obispo,14,Akron,45, 
+10/11/2003,Eastern Michigan,14,Toledo,49,27.0
+10/11/2003,Baylor,10,Texas A+M,73,18.5
+10/11/2003,Iowa State,21,Texas Tech,52,18.0
+10/11/2003,San Diego State,6,Utah,27,8.5
+10/11/2003,U.C.L.A.,24,Arizona,21,-17.5
+10/11/2003,Florida,19,Louisiana State,7,10.0
+10/11/2003,Tulsa,20,Boise State,27,22.0
+10/11/2003,Wyoming,48,Utah State,21,-2.0
+10/11/2003,Ohio State,10,Wisconsin,17,-2.5
+10/11/2003,Louisiana Tech,38,UTEP,35,-15.5
+10/11/2003,S-M-U,14,San Jose State,48,8.5
+10/11/2003,Oregon,14,Arizona State,59,-1.5
+10/11/2003,Stanford,21,Southern Cal,44,22.0
+10/11/2003,Fresno State,28,Hawaii,55,4.0
+10/16/2003,Clemson,15,No Carolina State,17,4.5
+10/16/2003,New Mexico State,24,UL-Lafayette,26,-7.0
+10/16/2003,Air Force,20,Colorado State,30,5.5
+10/17/2003,Tulane,28,Louisville,47,15.0
+10/18/2003,Boston College,14,Syracuse,39,-4.0
+10/18/2003,Pittsburgh,42,Rutgers,32,-17.0
+10/18/2003,Illinois,14,Michigan,56,27.5
+10/18/2003,Purdue,26,Wisconsin,23,-2.5
+10/18/2003,Temple,14,Miami-Florida,52,32.0
+10/18/2003,Louisiana State,33,South Carolina,7,-3.5
+10/18/2003,Mississippi State,13,Auburn,45,21.0
+10/18/2003,Texas Tech,49,Oklahoma State,51,4.5
+10/18/2003,East Carolina,38,Army,32,-5.5
+10/18/2003,Marshall,26,Buffalo,16,-26.0
+10/18/2003,Toledo,31,Central Michigan,13,-15.0
+10/18/2003,Wake Forest,42,Duke,13,-9.5
+10/18/2003,Baylor,21,Kansas,28,23.0
+10/18/2003,Georgia,27,Vanderbilt,8,-26.5
+10/18/2003,Alabama,28,Mississippi,43,3.0
+10/18/2003,Connecticut,34,Kent State,31,-13.0
+10/18/2003,Florida,33,Arkansas,28,6.0
+10/18/2003,Southern Cal,45,Notre Dame,14,-8.0
+10/18/2003,Michigan State,44,Minnesota,38,6.0
+10/18/2003,Miami-Ohio,49,Ball State,3,-19.0
+10/18/2003,Hawaii,44,Louisiana Tech,41,1.5
+10/18/2003,Nevada-Reno,28,Tulsa,21,2.5
+10/18/2003,Navy,38,Rice,6,-2.5
+10/18/2003,Boise State,45,S-M-U,3,-24.0
+10/18/2003,Brigham Young,10,Wyoming,13,-1.5
+10/18/2003,Middle Tennessee,28,Idaho,21,-2.5
+10/18/2003,Florida Intl,10,Troy,21, 
+10/18/2003,Iowa,10,Ohio State,19,2.5
+10/18/2003,Florida State,19,Virginia,14,-7.5
+10/18/2003,Arizona State,33,North Carolina,31,-7.5
+10/18/2003,Texas A+M,12,Nebraska,48,8.5
+10/18/2003,Missouri,13,Oklahoma,34,26.0
+10/18/2003,California,20,U.C.L.A.,23,2.5
+10/18/2003,Western Michigan,10,Northern Illinois,37,10.0
+10/18/2003,Washington,38,Oregon State,17,11.0
+10/18/2003,Utah State,27,North Texas,37,15.5
+10/18/2003,Washington State,24,Stanford,14,-12.0
+10/18/2003,Bowling Green,33,Eastern Michigan,20,-28.0
+10/18/2003,U-C-F,24,Akron,38,8.0
+10/18/2003,Texas,40,Iowa State,19,-19.0
+10/18/2003,Ohio,14,Kentucky,35,13.0
+10/18/2003,Colorado,20,Kansas State,49,20.0
+10/18/2003,U-A-B,24,Texas Christian,27,11.0
+10/18/2003,Utah,28,Nevada-Las Vegas,10,-2.5
+10/18/2003,Charleston Southern,7,South Florida,55, 
+10/18/2003,Memphis,45,Houston,14,5.0
+10/18/2003,New Mexico,30,San Diego State,7,-1.5
+10/22/2003,Virginia Tech,7,West Virginia,28,-14.0
+10/23/2003,Maryland,3,Georgia Tech,7,-2.5
+10/25/2003,Syracuse,14,Pittsburgh,34,6.5
+10/25/2003,Rutgers,30,Temple,14,3.0
+10/25/2003,Purdue,3,Michigan,31,6.0
+10/25/2003,Ohio State,35,Indiana,6,-20.5
+10/25/2003,Wisconsin,7,Northwestern,16,-9.0
+10/25/2003,Minnesota,36,Illinois,10,-17.5
+10/25/2003,Wake Forest,24,Florida State,48,21.0
+10/25/2003,Akron,37,Connecticut,38,8.0
+10/25/2003,Troy,0,Virginia,24,23.5
+10/25/2003,Vanderbilt,24,South Carolina,35,15.0
+10/25/2003,Ohio,17,Buffalo,26,-13.5
+10/25/2003,No Carolina State,28,Duke,21,-20.5
+10/25/2003,U-A-B,13,Georgia,16,29.0
+10/25/2003,Delaware,21,Navy,17, 
+10/25/2003,Marshall,41,Western Michigan,21, 
+10/25/2003,Texas Tech,31,Missouri,62,-4.0
+10/25/2003,Toledo,14,Ball State,38,-12.5
+10/25/2003,Miami-Ohio,38,Kent State,30,-25.0
+10/25/2003,Penn State,14,Iowa,26,10.5
+10/25/2003,Louisville,36,East Carolina,20,-15.0
+10/25/2003,Arkansas,7,Mississippi,19,-1.0
+10/25/2003,Kansas,6,Kansas State,42,21.0
+10/25/2003,Memphis,41,Tulane,9,-3.5
+10/25/2003,South Florida,6,Southern Miss,27,2.5
+10/25/2003,S-M-U,16,Tulsa,35,16.5
+10/25/2003,Texas,56,Baylor,0,-32.5
+10/25/2003,Arkansas State,0,Utah State,49,8.5
+10/25/2003,Notre Dame,25,Boston College,27,4.0
+10/25/2003,North Carolina,28,Clemson,36,13.5
+10/25/2003,Tennessee,51,Alabama,43,-2.0
+10/25/2003,Iowa State,0,Nebraska,28,23.0
+10/25/2003,Oklahoma State,38,Texas A+M,10,-6.0
+10/25/2003,Oklahoma,34,Colorado,20,-25.0
+10/25/2003,Stanford,0,Oregon,35,10.5
+10/25/2003,Southern Cal,43,Washington,23,-10.0
+10/25/2003,Arizona,14,California,42,18.5
+10/25/2003,Northern Illinois,18,Bowling Green,34,4.5
+10/25/2003,Army,29,Cincinnati,33,29.0
+10/25/2003,Central Michigan,13,U-C-F,31,11.0
+10/25/2003,Louisiana Tech,42,Nevada-Reno,34,4.0
+10/25/2003,Oregon State,30,Washington State,36,7.0
+10/25/2003,Idaho,20,UL-Lafayette,31,-2.5
+10/25/2003,Mississippi State,17,Kentucky,42,9.5
+10/25/2003,New Mexico,47,Utah,35,7.0
+10/25/2003,Brigham Young,27,Nevada-Las Vegas,20,3.5
+10/25/2003,Rice,28,Fresno State,31,20.5
+10/25/2003,Auburn,7,Louisiana State,31,3.0
+10/25/2003,Texas Christian,62,Houston,55,-7.0
+10/25/2003,San Jose State,14,Boise State,77,27.0
+10/25/2003,North Texas,33,Middle Tennessee,28,-3.0
+10/25/2003,New Mexico State,21,UL-Monroe,14,-3.5
+10/25/2003,Wyoming,20,San Diego State,25,3.0
+10/25/2003,UTEP,15,Hawaii,31,27.5
+10/25/2003,Arizona State,13,U.C.L.A.,20,2.5
+10/30/2003,Troy,0,North Texas,21,12.0
+10/30/2003,Boise State,50,Brigham Young,12,-8.5
+10/31/2003,Cincinnati,17,South Florida,24,3.5
+11/01/2003,Pittsburgh,24,Boston College,13,-2.5
+11/01/2003,North Carolina,21,Maryland,59,17.5
+11/01/2003,Michigan,27,Michigan State,20,-4.0
+11/01/2003,Northwestern,14,Purdue,34,18.0
+11/01/2003,Indiana,7,Minnesota,55,29.0
+11/01/2003,Illinois,10,Iowa,41,27.0
+11/01/2003,Clemson,17,Wake Forest,45,-1.0
+11/01/2003,Western Michigan,27,Connecticut,41,15.0
+11/01/2003,U-C-F,18,West Virginia,36,22.5
+11/01/2003,Eastern Michigan,10,Central Michigan,38,7.0
+11/01/2003,Arkansas,71,Kentucky,63,-5.0
+11/01/2003,Virginia,37,No Carolina State,51,-1.0
+11/01/2003,Tulane,17,Navy,35,10.0
+11/01/2003,Ball State,23,Northern Illinois,48,16.5
+11/01/2003,East Carolina,24,Memphis,41,18.0
+11/01/2003,South Carolina,40,Mississippi,43,7.0
+11/01/2003,Baylor,10,Kansas State,38,43.0
+11/01/2003,Kansas,33,Texas A+M,45,14.5
+11/01/2003,Colorado,21,Texas Tech,26,14.0
+11/01/2003,UL-Monroe,7,Auburn,73,37.0
+11/01/2003,Florida State,37,Notre Dame,0,-13.0
+11/01/2003,Nevada-Reno,42,Rice,52,-5.0
+11/01/2003,Fresno State,20,S-M-U,11,-14.5
+11/01/2003,Utah,45,Air Force,43,3.5
+11/01/2003,Colorado State,28,Wyoming,35,-12.5
+11/01/2003,Hawaii,13,San Jose State,10,-12.5
+11/01/2003,UL-Lafayette,3,Southern Miss,48,22.5
+11/01/2003,Middle Tennessee,20,Utah State,41,3.0
+11/01/2003,Ohio State,21,Penn State,20,-7.5
+11/01/2003,Georgia,13,Florida,16,-2.0
+11/01/2003,Oklahoma State,9,Oklahoma,52,14.5
+11/01/2003,Nebraska,7,Texas,31,5.5
+11/01/2003,Duke,6,Tennessee,23,24.5
+11/01/2003,Army,9,U-A-B,24,21.5
+11/01/2003,Arizona,23,Oregon State,52,23.0
+11/01/2003,Akron,24,Marshall,42,13.0
+11/01/2003,Tulsa,56,UTEP,28,-8.0
+11/01/2003,U.C.L.A.,14,Stanford,21,-7.0
+11/01/2003,Buffalo,29,Toledo,56,26.0
+11/01/2003,Washington State,16,Southern Cal,43,11.5
+11/01/2003,Arkansas State,28,New Mexico State,24,15.0
+11/01/2003,Miami-Florida,7,Virginia Tech,31,-4.0
+11/01/2003,Louisiana Tech,10,Louisiana State,49,26.5
+11/01/2003,Nevada-Las Vegas,37,New Mexico,35,10.0
+11/01/2003,California,51,Arizona State,23,3.0
+11/01/2003,Oregon,10,Washington,42,1.0
+11/04/2003,Bowling Green,10,Miami-Ohio,33,7.0
+11/05/2003,Louisville,28,Texas Christian,31,2.0
+11/06/2003,South Carolina,6,Arkansas,28,7.5
+11/06/2003,Utah State,21,New Mexico State,26,-2.5
+11/07/2003,Colorado State,34,New Mexico,37,-1.0
+11/08/2003,West Virginia,35,Boston College,28,3.5
+11/08/2003,Temple,17,Syracuse,41,18.5
+11/08/2003,Virginia Tech,28,Pittsburgh,31,-5.0
+11/08/2003,Michigan State,23,Ohio State,33,6.0
+11/08/2003,Iowa,14,Purdue,27,3.5
+11/08/2003,Penn State,7,Northwestern,17,-5.5
+11/08/2003,Wisconsin,34,Minnesota,37,8.5
+11/08/2003,Wake Forest,34,North Carolina,42,-9.0
+11/08/2003,Georgia Tech,17,Duke,41,-13.0
+11/08/2003,Rutgers,31,Connecticut,38,7.0
+11/08/2003,Mississippi,24,Auburn,20,8.5
+11/08/2003,Texas,55,Oklahoma State,16,-3.0
+11/08/2003,Northern Illinois,40,Buffalo,9,-22.5
+11/08/2003,Rhode Island,24,Cincinnati,31, 
+11/08/2003,U-C-F,13,Eastern Michigan,19,-7.0
+11/08/2003,Akron,40,Central Michigan,28,-7.5
+11/08/2003,Illinois,14,Indiana,17,-1.0
+11/08/2003,Ball State,20,Western Michigan,28,2.5
+11/08/2003,Kent State,37,Ohio,33,2.5
+11/08/2003,Kansas State,45,Iowa State,0,-18.0
+11/08/2003,South Florida,38,East Carolina,37,-11.0
+11/08/2003,Nebraska,24,Kansas,3,-18.0
+11/08/2003,Navy,24,Notre Dame,27,8.5
+11/08/2003,Alabama,38,Mississippi State,0,-12.0
+11/08/2003,S-M-U,6,Louisiana Tech,41,18.5
+11/08/2003,Texas Tech,62,Baylor,14,-24.5
+11/08/2003,Tulsa,31,Rice,28,-3.0
+11/08/2003,Missouri,16,Colorado,21,-5.0
+11/08/2003,Army,3,Air Force,31,28.5
+11/08/2003,Fresno State,27,Nevada-Reno,10,0.0
+11/08/2003,San Diego State,7,Nevada-Las Vegas,0,5.0
+11/08/2003,Idaho,23,Arkansas State,24,-1.0
+11/08/2003,Florida State,10,Clemson,26,-16.0
+11/08/2003,Tennessee,10,Miami-Florida,6,11.5
+11/08/2003,Texas A+M,0,Oklahoma,77,30.5
+11/08/2003,California,17,Oregon,21,-2.0
+11/08/2003,Tulane,38,U-A-B,24,13.5
+11/08/2003,Florida Intl,10,UL-Lafayette,43, 
+11/08/2003,San Jose State,69,UTEP,41,-3.0
+11/08/2003,Southern Miss,31,Houston,10,-7.5
+11/08/2003,Arizona State,27,Stanford,38,-2.0
+11/08/2003,North Texas,28,UL-Monroe,26,-18.0
+11/08/2003,Vanderbilt,17,Florida,35,23.0
+11/08/2003,Washington,22,Arizona,27,-15.0
+11/08/2003,U.C.L.A.,13,Washington State,31,10.5
+11/08/2003,Troy,20,Middle Tennessee,27,3.0
+11/12/2003,Marshall,6,Miami-Ohio,45,13.5
+11/13/2003,Virginia,17,Maryland,27,6.0
+11/15/2003,Boston College,35,Rutgers,25,-7.0
+11/15/2003,Indiana,7,Penn State,52,19.0
+11/15/2003,Pittsburgh,31,West Virginia,52,0.0
+11/15/2003,Purdue,13,Ohio State,16,3.5
+11/15/2003,Ohio,28,Akron,35,11.0
+11/15/2003,Michigan,41,Northwestern,10,-17.5
+11/15/2003,Michigan State,21,Wisconsin,56,3.0
+11/15/2003,Minnesota,22,Iowa,40,5.5
+11/15/2003,Duke,7,Clemson,40,13.5
+11/15/2003,Connecticut,51,Wake Forest,17,9.5
+11/15/2003,Florida,24,South Carolina,22,-7.0
+11/15/2003,Mississippi State,21,Tennessee,59,23.5
+11/15/2003,Houston,34,Army,14,-8.5
+11/15/2003,Virginia Tech,24,Temple,23,-28.0
+11/15/2003,Ball State,14,Eastern Michigan,38,-10.5
+11/15/2003,North Carolina,24,Georgia Tech,41,9.0
+11/15/2003,Central Michigan,21,Western Michigan,44,9.0
+11/15/2003,Colorado,44,Iowa State,10,-6.0
+11/15/2003,Kentucky,17,Vanderbilt,28,-6.5
+11/15/2003,Louisiana State,27,Alabama,3,-7.5
+11/15/2003,Texas A+M,22,Missouri,45,13.5
+11/15/2003,Kansas,21,Oklahoma State,44,19.5
+11/15/2003,New Mexico State,20,Arkansas,48,29.0
+11/15/2003,Brigham Young,14,Notre Dame,33,9.5
+11/15/2003,Memphis,37,Louisville,7,4.5
+11/15/2003,Tulane,14,Southern Miss,28,17.5
+11/15/2003,Louisiana Tech,18,Tulsa,48,0.0
+11/15/2003,Rice,41,S-M-U,20,-6.5
+11/15/2003,Cincinnati,10,Texas Christian,43,7.5
+11/15/2003,San Diego State,6,Colorado State,21,14.5
+11/15/2003,Wyoming,17,Utah,47,10.5
+11/15/2003,UTEP,21,Boise State,51,41.5
+11/15/2003,Hawaii,14,Nevada-Reno,24,-4.0
+11/15/2003,UL-Lafayette,57,Middle Tennessee,51,14.5
+11/15/2003,Troy,23,Utah State,14,7.0
+11/15/2003,Auburn,7,Georgia,26,4.5
+11/15/2003,No Carolina State,44,Florida State,50,13.5
+11/15/2003,Syracuse,10,Miami-Florida,17,19.0
+11/15/2003,Kansas State,38,Nebraska,9,-2.5
+11/15/2003,Texas Tech,40,Texas,43,18.5
+11/15/2003,Washington,7,California,54,6.0
+11/15/2003,Oregon,31,U.C.L.A.,13,4.0
+11/15/2003,Stanford,3,Oregon State,43,14.5
+11/15/2003,Arkansas State,14,North Texas,58,21.0
+11/15/2003,Arizona State,19,Washington State,34,13.0
+11/15/2003,Kent State,33,Bowling Green,42,21.5
+11/15/2003,Northern Illinois,30,Toledo,49,-1.5
+11/15/2003,Baylor,3,Oklahoma,41,54.0
+11/15/2003,Southern Cal,45,Arizona,0,-29.0
+11/15/2003,San Jose State,7,Fresno State,41,14.0
+11/15/2003,Idaho,58,UL-Monroe,20,-1.5
+11/15/2003,Air Force,12,New Mexico,24,4.5
+11/19/2003,Marshall,21,U-C-F,7,-12.0
+11/20/2003,Middle Tennessee,24,Arkansas State,14,-6.5
+11/20/2003,Texas Christian,28,Southern Miss,40,2.5
+11/21/2003,Boise State,31,Fresno State,17,-8.5
+11/22/2003,West Virginia,34,Syracuse,23,-1.0
+11/22/2003,Georgia Tech,17,Virginia,29,7.0
+11/22/2003,Boston College,34,Virginia Tech,27,15.0
+11/22/2003,Ohio State,21,Michigan,35,7.0
+11/22/2003,Penn State,10,Michigan State,41,5.0
+11/22/2003,Iowa,27,Wisconsin,21,3.0
+11/22/2003,Duke,30,North Carolina,22,5.0
+11/22/2003,Rutgers,10,Miami-Florida,34,28.5
+11/22/2003,Clemson,63,South Carolina,17,-1.0
+11/22/2003,Vanderbilt,0,Tennessee,48,20.5
+11/22/2003,Pittsburgh,30,Temple,16,-15.5
+11/22/2003,Purdue,24,Indiana,16,-27.0
+11/22/2003,Bowling Green,41,Ball State,14,-16.5
+11/22/2003,Northwestern,37,Illinois,20,-3.0
+11/22/2003,Maryland,26,No Carolina State,24,0.0
+11/22/2003,Central Michigan,34,Navy,63,21.0
+11/22/2003,Miami-Ohio,49,Ohio,31,-24.0
+11/22/2003,Eastern Michigan,24,Northern Illinois,38,24.0
+11/22/2003,Cincinnati,16,Memphis,21,10.0
+11/22/2003,Alabama,23,Auburn,28,7.5
+11/22/2003,Louisiana State,17,Mississippi,14,-6.5
+11/22/2003,Mississippi State,6,Arkansas,52,25.5
+11/22/2003,East Carolina,18,Tulane,28,9.5
+11/22/2003,Iowa State,7,Kansas,36,9.5
+11/22/2003,Missouri,14,Kansas State,24,15.0
+11/22/2003,Oklahoma,56,Texas Tech,25,-19.0
+11/22/2003,Oklahoma State,38,Baylor,27,-27.0
+11/22/2003,Houston,45,Louisville,66,11.0
+11/22/2003,UTEP,14,Rice,45,14.5
+11/22/2003,New Mexico,26,Wyoming,3,-8.5
+11/22/2003,Utah,3,Brigham Young,0,-8.0
+11/22/2003,Colorado State,24,Nevada-Las Vegas,23,-7.0
+11/22/2003,Tulsa,34,San Jose State,32,-7.0
+11/22/2003,Washington State,19,Washington,27,-7.0
+11/22/2003,Oregon State,20,Oregon,34,-3.0
+11/22/2003,California,28,Stanford,16,-12.0
+11/22/2003,U.C.L.A.,22,Southern Cal,47,23.0
+11/22/2003,Buffalo,24,Kent State,34,14.0
+11/22/2003,Utah State,13,Idaho,20,1.5
+11/22/2003,Western Michigan,17,Toledo,34,11.5
+11/22/2003,Kentucky,10,Georgia,30,18.0
+11/22/2003,U-A-B,22,South Florida,19,6.5
+11/22/2003,UL-Monroe,24,Troy,28,15.0
+11/22/2003,Air Force,3,San Diego State,24,-4.0
+11/22/2003,Army,28,Hawaii,59,26.5
+11/25/2003,North Texas,13,New Mexico State,10,-7.5
+11/27/2003,Mississippi,31,Mississippi State,0,-19.0
+11/28/2003,Louisville,43,Cincinnati,40,-2.5
+11/28/2003,Nebraska,31,Colorado,22,-2.5
+11/28/2003,Miami-Ohio,56,U-C-F,21,-26.5
+11/28/2003,Arkansas,24,Louisiana State,55,9.5
+11/28/2003,Arizona,7,Arizona State,28,14.5
+11/28/2003,Texas,46,Texas A+M,15,-22.5
+11/28/2003,Ohio,0,Marshall,28,17.0
+11/29/2003,Miami-Florida,28,Pittsburgh,14,-3.0
+11/29/2003,Toledo,23,Bowling Green,31,8.0
+11/29/2003,Syracuse,7,Rutgers,24,-6.5
+11/29/2003,Temple,28,West Virginia,45,21.0
+11/29/2003,Tennessee,20,Kentucky,7,-14.0
+11/29/2003,Iowa State,7,Missouri,45,26.5
+11/29/2003,Southern Miss,38,East Carolina,21,-14.5
+11/29/2003,South Florida,21,Memphis,16,9.0
+11/29/2003,Rice,49,Louisiana Tech,14,7.0
+11/29/2003,Texas Christian,20,S-M-U,13,-24.5
+11/29/2003,Nevada-Las Vegas,35,Wyoming,24,-1.0
+11/29/2003,Nevada-Reno,3,Boise State,56,23.5
+11/29/2003,Florida State,38,Florida,34,-1.0
+11/29/2003,Virginia Tech,21,Virginia,35,2.5
+11/29/2003,Georgia,34,Georgia Tech,17,-10.0
+11/29/2003,Maryland,41,Wake Forest,28,-8.5
+11/29/2003,U-A-B,28,Houston,56,-1.0
+11/29/2003,Fresno State,23,UTEP,20,-19.0
+11/29/2003,Alabama,29,Hawaii,37,-2.5
+11/29/2003,Notre Dame,57,Stanford,7,-5.0
+12/04/2003,Miami-Ohio,49,Bowling Green,27,-6.5
+12/06/2003,Notre Dame,12,Syracuse,38,-3.0
+12/06/2003,Navy,34,Army,6,-22.5
+12/06/2003,Oregon State,28,Southern Cal,52,22.0
+12/06/2003,Georgia,13,Louisiana State,34,3.0
+12/06/2003,Kansas State,35,Oklahoma,7,14.0
+12/06/2003,Boise State,45,Hawaii,28,-11.0

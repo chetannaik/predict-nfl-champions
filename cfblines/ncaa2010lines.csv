@@ -1,0 +1,774 @@
+Date,Visitor,Visitor Score,Home Team,Home Score,Line
+09/02/2010,Southern Miss,13,South Carolina,41,13.0
+09/02/2010,Marshall,7,Ohio State,45,28.0
+09/02/2010,Northern Illinois,10,Iowa State,27,4.0
+09/02/2010,Pittsburgh,24,Utah,27,3.5
+09/02/2010,Southern Cal,49,Hawaii,36,-20.5
+09/02/2010,Minnesota,24,Middle Tennessee,17,-1.0
+09/02/2010,Florida Atlantic,32,U-A-B,31,13.0
+09/02/2010,Florida A+M,0,Miami-Florida,45, 
+09/02/2010,Presbyterian,13,Wake Forest,53, 
+09/02/2010,S E Missouri St,10,Ball State,27, 
+09/02/2010,Hampton,0,Central Michigan,33, 
+09/02/2010,Rhode Island,0,Buffalo,31, 
+09/02/2010,Murray State,10,Kent State,41, 
+09/02/2010,Towson,17,Indiana,51, 
+09/02/2010,Norfolk State,0,Rutgers,31, 
+09/02/2010,S E Louisiana,21,Tulane,27, 
+09/02/2010,North Dakota,0,Idaho,45, 
+09/02/2010,Eastern Washington,24,Nevada-Reno,49, 
+09/03/2010,Arizona,41,Toledo,2,-15.0
+09/03/2010,Villanova,24,Temple,31, 
+09/04/2010,Western Michigan,14,Michigan State,38,22.5
+09/04/2010,Miami-Ohio,12,Florida,34,38.5
+09/04/2010,Illinois,13,Missouri,23,13.5
+09/04/2010,Colorado,24,Colorado State,3,-12.0
+09/04/2010,Northwestern,23,Vanderbilt,21,-3.5
+09/04/2010,Memphis,7,Mississippi State,49,21.0
+09/04/2010,Texas,34,Rice,17,-31.5
+09/04/2010,Purdue,12,Notre Dame,23,10.5
+09/04/2010,Connecticut,10,Michigan,30,3.0
+09/04/2010,Kentucky,23,Louisville,16,-3.0
+09/04/2010,New Mexico,0,Oregon,72,36.5
+09/04/2010,U.C.L.A.,22,Kansas State,31,1.0
+09/04/2010,Syracuse,29,Akron,3,-8.5
+09/04/2010,Washington,17,Brigham Young,23,-1.5
+09/04/2010,Washington State,17,Oklahoma State,65,17.0
+09/04/2010,San Jose State,3,Alabama,48,39.5
+09/04/2010,Utah State,24,Oklahoma,31,35.0
+09/04/2010,Army,31,Eastern Michigan,27,-9.5
+09/04/2010,Oregon State,21,Texas Christian,30,13.0
+09/04/2010,North Carolina,24,Louisiana State,30,8.5
+09/04/2010,Cincinnati,14,Fresno State,28,2.5
+09/04/2010,Wisconsin,41,Nevada-Las Vegas,21,-20.0
+09/04/2010,UL-Lafayette,7,Georgia,55,29.5
+09/04/2010,Western Kentucky,10,Nebraska,49,39.5
+09/04/2010,North Texas,10,Clemson,35,27.5
+09/04/2010,Bowling Green,27,Troy,30,14.5
+09/04/2010,Arkansas State,26,Auburn,52,31.0
+09/04/2010,Samford,6,Florida State,59, 
+09/04/2010,Youngstown State,14,Penn State,44, 
+09/04/2010,Eastern Illinois,7,Iowa,37, 
+09/04/2010,So Carolina State,10,Georgia Tech,41, 
+09/04/2010,Weber State,20,Boston College,38, 
+09/04/2010,Jacksonville St,49,Mississippi,48, 
+09/04/2010,Coastal Carolina,0,West Virginia,31, 
+09/04/2010,UC-Davis,3,California,52, 
+09/04/2010,Richmond,13,Virginia,34, 
+09/04/2010,Western Carolina,7,No Carolina State,48, 
+09/04/2010,South Dakota,7,U-C-F,38, 
+09/04/2010,Tennessee-Martin,0,Tennessee,50, 
+09/04/2010,Sacramento State,17,Stanford,52, 
+09/04/2010,Stony Brook,14,South Florida,59, 
+09/04/2010,Wofford,10,Ohio,33, 
+09/04/2010,Tennessee Tech,3,Arkansas,44, 
+09/04/2010,Elon,27,Duke,41, 
+09/04/2010,Sam Houston State,3,Baylor,34, 
+09/04/2010,Stephen F Austin,7,Texas A+M,48, 
+09/04/2010,North Dakota St,6,Kansas,3, 
+09/04/2010,Louisiana Tech,20,Grambling,6, 
+09/04/2010,Texas State,28,Houston,68, 
+09/04/2010,Nicholls State,0,San Diego State,47, 
+09/04/2010,Southern Utah,20,Wyoming,28, 
+09/04/2010,Arkansas-Pine Bluff,10,UTEP,31, 
+09/04/2010,Portland State,9,Arizona State,54, 
+09/04/2010,Northwestern St(LA),21,Air Force,65, 
+09/05/2010,Tulsa,49,East Carolina,51,-7.0
+09/05/2010,S-M-U,27,Texas Tech,35,13.5
+09/06/2010,Maryland,17,Navy,14,-6.5
+09/06/2010,Boise State,33,Virginia Tech,30,1.5
+09/09/2010,Auburn,17,Mississippi State,14,-1.5
+09/09/2010,Central Michigan,10,Temple,13,7.5
+09/10/2010,West Virginia,24,Marshall,21,-12.0
+09/10/2010,UTEP,24,Houston,54,21.0
+09/11/2010,Georgia Tech,25,Kansas,28,-14.0
+09/11/2010,Memphis,27,East Carolina,49,14.0
+09/11/2010,Georgia,6,South Carolina,17,3.0
+09/11/2010,Duke,48,Wake Forest,54,6.0
+09/11/2010,Hawaii,31,Army,28,3.0
+09/11/2010,San Jose State,14,Wisconsin,27,39.5
+09/11/2010,South Florida,14,Florida,38,15.5
+09/11/2010,Idaho,17,Nebraska,38,27.5
+09/11/2010,Louisiana State,27,Vanderbilt,3,-10.5
+09/11/2010,Iowa State,7,Iowa,35,13.5
+09/11/2010,Colorado,7,California,52,10.5
+09/11/2010,Florida State,17,Oklahoma,47,6.5
+09/11/2010,Michigan,28,Notre Dame,24,3.5
+09/11/2010,Eastern Michigan,21,Miami-Ohio,28,14.0
+09/11/2010,Kent State,13,Boston College,26,17.0
+09/11/2010,Miami-Florida,24,Ohio State,36,8.5
+09/11/2010,Brigham Young,14,Air Force,35,1.5
+09/11/2010,Nevada-Las Vegas,10,Utah,38,20.5
+09/11/2010,Oregon,48,Tennessee,13,-11.0
+09/11/2010,Bowling Green,20,Tulsa,33,17.0
+09/11/2010,Wyoming,7,Texas,34,27.5
+09/11/2010,Louisiana Tech,16,Texas A+M,48,18.0
+09/11/2010,Syracuse,20,Washington,41,13.0
+09/11/2010,Toledo,20,Ohio,13,10.0
+09/11/2010,Buffalo,6,Baylor,34,14.5
+09/11/2010,Penn State,3,Alabama,24,14.0
+09/11/2010,No Carolina State,28,U-C-F,21,3.0
+09/11/2010,San Diego State,41,New Mexico State,21,-14.0
+09/11/2010,U-A-B,7,S-M-U,28,11.0
+09/11/2010,Texas Tech,52,New Mexico,17,-25.0
+09/11/2010,Mississippi,27,Tulane,13,-21.0
+09/11/2010,Stanford,35,U.C.L.A.,0,-6.5
+09/11/2010,Colorado State,6,Nevada-Reno,51,24.0
+09/11/2010,Virginia,14,Southern Cal,17,20.0
+09/11/2010,Western Kentucky,28,Kentucky,63,24.5
+09/11/2010,Florida Atlantic,17,Michigan State,30,26.0
+09/11/2010,UL-Monroe,7,Arkansas,31,34.0
+09/11/2010,Rice,32,North Texas,31,3.5
+09/11/2010,Arkansas State,24,UL-Lafayette,31,2.0
+09/11/2010,Troy,38,Oklahoma State,41,14.0
+09/11/2010,Rutgers,19,Florida Intl,14,-16.5
+09/11/2010,Texas Southern,3,Connecticut,62, 
+09/11/2010,Western Illinois,21,Purdue,31, 
+09/11/2010,Illinois State,3,Northwestern,37, 
+09/11/2010,Gardner-Webb,38,Akron,37, 
+09/11/2010,South Dakota,41,Minnesota,38, 
+09/11/2010,McNeese State,6,Missouri,50, 
+09/11/2010,Indiana State,7,Cincinnati,40, 
+09/11/2010,New Hampshire,16,Pittsburgh,38, 
+09/11/2010,James Madison,21,Virginia Tech,16, 
+09/11/2010,Austin Peay,33,Middle Tennessee,56, 
+09/11/2010,Eastern Kentucky,13,Louisville,23, 
+09/11/2010,Montana State,22,Washington State,23, 
+09/11/2010,Presbyterian,21,Clemson,58, 
+09/11/2010,Georgia Southern,7,Navy,13, 
+09/11/2010,Morgan State,3,Maryland,62, 
+09/11/2010,Liberty,27,Ball State,23, 
+09/11/2010,North Dakota,17,Northern Illinois,23, 
+09/11/2010,Prairie View,7,Southern Miss,34, 
+09/11/2010,Nicholls State,14,Western Michigan,49, 
+09/11/2010,Tennessee Tech,7,Texas Christian,62, 
+09/11/2010,Missouri State,24,Kansas State,48, 
+09/11/2010,Southern Illinois,3,Illinois,35, 
+09/11/2010,Idaho State,17,Utah State,38, 
+09/11/2010,Northern Arizona,20,Arizona State,41, 
+09/11/2010,The Citadel,6,Arizona,52, 
+09/16/2010,Cincinnati,19,No Carolina State,30,2.0
+09/17/2010,Kansas,16,Southern Miss,31,5.5
+09/17/2010,California,31,Nevada-Reno,52,-3.0
+09/18/2010,Arkansas,31,Georgia,24,1.5
+09/18/2010,Maryland,17,West Virginia,31,10.0
+09/18/2010,Iowa State,20,Kansas State,27,4.0
+09/18/2010,Ball State,13,Purdue,24,16.0
+09/18/2010,Northern Illinois,22,Illinois,28,7.5
+09/18/2010,Connecticut,16,Temple,30,-4.5
+09/18/2010,Ohio,7,Ohio State,43,30.0
+09/18/2010,Kent State,0,Penn State,24,21.5
+09/18/2010,Georgia Tech,30,North Carolina,24,3.0
+09/18/2010,Vanderbilt,28,Mississippi,14,11.5
+09/18/2010,East Carolina,27,Virginia Tech,49,20.0
+09/18/2010,San Diego State,24,Missouri,27,14.5
+09/18/2010,Tulsa,28,Oklahoma State,65,7.0
+09/18/2010,Alabama,62,Duke,13,-24.5
+09/18/2010,Hawaii,13,Colorado,31,14.0
+09/18/2010,Brigham Young,10,Florida State,34,10.5
+09/18/2010,Colorado State,10,Miami-Ohio,31,7.0
+09/18/2010,Florida,31,Tennessee,17,-13.0
+09/18/2010,Southern Cal,32,Minnesota,21,-11.5
+09/18/2010,Washington State,21,S-M-U,35,23.5
+09/18/2010,Arizona State,19,Wisconsin,20,11.5
+09/18/2010,Nebraska,56,Washington,21,-3.5
+09/18/2010,Louisville,28,Oregon State,35,20.5
+09/18/2010,Air Force,24,Oklahoma,27,16.5
+09/18/2010,Central Michigan,52,Eastern Michigan,14,-10.0
+09/18/2010,Baylor,10,Texas Christian,45,21.0
+09/18/2010,Marshall,28,Bowling Green,44,-3.5
+09/18/2010,Navy,37,Louisiana Tech,23,-3.0
+09/18/2010,U-C-F,24,Buffalo,10,-7.5
+09/18/2010,Akron,10,Kentucky,47,24.5
+09/18/2010,Toledo,37,Western Michigan,24,3.5
+09/18/2010,Clemson,24,Auburn,27,7.5
+09/18/2010,Texas,24,Texas Tech,14,-3.5
+09/18/2010,Northwestern,30,Rice,13,-6.5
+09/18/2010,Mississippi State,7,Louisiana State,29,7.5
+09/18/2010,Utah,56,New Mexico,14,-23.0
+09/18/2010,Fresno State,41,Utah State,24,-3.5
+09/18/2010,Notre Dame,31,Michigan State,34,3.5
+09/18/2010,Boise State,50,Wyoming,6,-23.5
+09/18/2010,New Mexico State,10,UTEP,42,16.0
+09/18/2010,Nevada-Las Vegas,7,Idaho,30,6.5
+09/18/2010,Iowa,27,Arizona,34,2.0
+09/18/2010,Houston,13,U.C.L.A.,31,-4.0
+09/18/2010,Wake Forest,24,Stanford,68,17.5
+09/18/2010,Indiana,38,Western Kentucky,21,-13.5
+09/18/2010,North Texas,0,Army,24,5.0
+09/18/2010,UL-Monroe,20,Arkansas State,34,4.5
+09/18/2010,Florida Intl,20,Texas A+M,27,28.0
+09/18/2010,Middle Tennessee,17,Memphis,24,-3.5
+09/18/2010,Troy,33,U-A-B,34,-3.5
+09/18/2010,Massachusetts,37,Michigan,42, 
+09/18/2010,Furman,19,South Carolina,38, 
+09/18/2010,Portland State,0,Oregon,69, 
+09/18/2010,Maine,14,Syracuse,38, 
+09/18/2010,Southern Utah,11,San Jose State,16, 
+09/23/2010,Miami-Florida,31,Pittsburgh,3,-4.5
+09/24/2010,Texas Christian,41,S-M-U,24,-18.5
+09/25/2010,Central Michigan,25,Northwestern,30,7.0
+09/25/2010,Toledo,31,Purdue,20,11.5
+09/25/2010,Bowling Green,21,Michigan,65,25.0
+09/25/2010,Ball State,0,Iowa,45,28.0
+09/25/2010,Eastern Michigan,20,Ohio State,73,44.0
+09/25/2010,Virginia Tech,19,Boston College,0,-3.5
+09/25/2010,Temple,13,Penn State,22,14.0
+09/25/2010,No Carolina State,45,Georgia Tech,28,7.5
+09/25/2010,Wake Forest,0,Florida State,31,20.0
+09/25/2010,Army,35,Duke,21,6.5
+09/25/2010,Buffalo,21,Connecticut,45,21.0
+09/25/2010,Georgia,12,Mississippi State,24,1.0
+09/25/2010,Fresno State,38,Mississippi,55,2.0
+09/25/2010,Miami-Ohio,13,Missouri,51,20.0
+09/25/2010,Air Force,20,Wyoming,14,-14.0
+09/25/2010,U-C-F,13,Kansas State,17,7.0
+09/25/2010,Tulane,23,Houston,42,19.0
+09/25/2010,Oklahoma,31,Cincinnati,29,-14.0
+09/25/2010,Alabama,24,Arkansas,20,-7.0
+09/25/2010,Oregon State,24,Boise State,37,18.5
+09/25/2010,Stanford,37,Notre Dame,14,-5.0
+09/25/2010,California,9,Arizona,10,6.5
+09/25/2010,U.C.L.A.,34,Texas,12,16.0
+09/25/2010,Idaho,34,Colorado State,36,-8.0
+09/25/2010,Nevada-Reno,27,Brigham Young,13,-4.0
+09/25/2010,Southern Cal,50,Washington State,16,-22.5
+09/25/2010,New Mexico State,16,Kansas,42,24.0
+09/25/2010,Kentucky,14,Florida,48,14.0
+09/25/2010,Southern Miss,13,Louisiana Tech,12,-3.5
+09/25/2010,U-A-B,29,Tennessee,32,14.0
+09/25/2010,Akron,20,Indiana,35,22.5
+09/25/2010,Ohio,23,Marshall,24,6.0
+09/25/2010,South Carolina,27,Auburn,35,3.0
+09/25/2010,San Jose State,3,Utah,56,30.5
+09/25/2010,Utah State,7,San Diego State,41,8.5
+09/25/2010,West Virginia,14,Louisiana State,20,9.5
+09/25/2010,Baylor,30,Rice,13,-8.0
+09/25/2010,North Carolina,17,Rutgers,13,-3.0
+09/25/2010,Northern Illinois,34,Minnesota,23,4.0
+09/25/2010,Memphis,13,UTEP,16,12.0
+09/25/2010,New Mexico,10,Nevada-Las Vegas,45,10.5
+09/25/2010,Oregon,42,Arizona State,31,-11.5
+09/25/2010,Arkansas State,28,Troy,35,10.5
+09/25/2010,Middle Tennessee,34,UL-Lafayette,14,-2.0
+09/25/2010,North Texas,21,Florida Atlantic,17,10.0
+09/25/2010,Western Kentucky,12,South Florida,24,28.0
+09/25/2010,Florida Intl,28,Maryland,42,10.0
+09/25/2010,Virginia Military,7,Virginia,48, 
+09/25/2010,Northern Colorado,7,Michigan State,45, 
+09/25/2010,Austin Peay,3,Wisconsin,70, 
+09/25/2010,South Dakota State,3,Nebraska,17, 
+09/25/2010,Colgate,7,Syracuse,42, 
+09/25/2010,Northern Iowa,0,Iowa State,27, 
+09/25/2010,Central Arkansas,14,Tulsa,41, 
+09/25/2010,S E Louisiana,20,UL-Monroe,21, 
+09/25/2010,Charleston Southern,7,Hawaii,66, 
+09/30/2010,Texas A+M,35,Oklahoma State,38,3.0
+10/01/2010,Brigham Young,16,Utah State,31,-4.5
+10/02/2010,Texas,20,Oklahoma,28,3.5
+10/02/2010,Vanderbilt,21,Connecticut,40,8.5
+10/02/2010,Ohio,30,Eastern Michigan,17,-10.0
+10/02/2010,Ball State,31,Central Michigan,17,19.5
+10/02/2010,Wisconsin,24,Michigan State,34,-3.0
+10/02/2010,Michigan,42,Indiana,35,-10.0
+10/02/2010,Northwestern,29,Minnesota,28,-5.0
+10/02/2010,Virginia Tech,41,No Carolina State,30,-3.5
+10/02/2010,East Carolina,17,North Carolina,42,14.0
+10/02/2010,Duke,16,Maryland,21,9.5
+10/02/2010,Tulane,17,Rutgers,14,17.5
+10/02/2010,Temple,42,Army,35,-6.0
+10/02/2010,Georgia Tech,24,Wake Forest,20,-10.0
+10/02/2010,Texas Tech,38,Iowa State,52,-7.0
+10/02/2010,Kentucky,35,Mississippi,42,2.5
+10/02/2010,Tulsa,48,Memphis,7,-8.5
+10/02/2010,Kansas,7,Baylor,55,9.0
+10/02/2010,Kent State,21,Miami-Ohio,27,-3.0
+10/02/2010,Idaho,33,Western Michigan,13,-4.0
+10/02/2010,Texas Christian,27,Colorado State,0,-33.5
+10/02/2010,Navy,6,Air Force,14,9.5
+10/02/2010,Buffalo,28,Bowling Green,26,2.5
+10/02/2010,Notre Dame,31,Boston College,13,-3.0
+10/02/2010,Tennessee,14,Louisiana State,16,16.5
+10/02/2010,Washington State,28,U.C.L.A.,42,23.5
+10/02/2010,Ohio State,24,Illinois,13,-16.5
+10/02/2010,Georgia,27,Colorado,29,-4.5
+10/02/2010,Northern Illinois,50,Akron,14,-14.0
+10/02/2010,UTEP,38,New Mexico,20,-15.5
+10/02/2010,Arizona State,28,Oregon State,31,3.0
+10/02/2010,Wyoming,20,Toledo,15,5.0
+10/02/2010,S-M-U,42,Rice,31,-11.5
+10/02/2010,Florida State,34,Virginia,14,-6.5
+10/02/2010,Florida,6,Alabama,31,8.0
+10/02/2010,Marshall,16,Southern Miss,41,9.0
+10/02/2010,Penn State,3,Iowa,24,7.5
+10/02/2010,Washington,32,Southern Cal,31,10.0
+10/02/2010,Miami-Florida,30,Clemson,21,-4.0
+10/02/2010,Boise State,59,New Mexico State,0,-43.5
+10/02/2010,Nevada-Reno,44,Nevada-Las Vegas,26,-20.5
+10/02/2010,Stanford,31,Oregon,52,6.5
+10/02/2010,Louisiana Tech,21,Hawaii,41,9.0
+10/02/2010,Florida Intl,17,Pittsburgh,44,17.0
+10/02/2010,Louisville,34,Arkansas State,24,-6.5
+10/02/2010,UL-Lafayette,28,North Texas,27,4.5
+10/02/2010,UL-Monroe,3,Auburn,52,35.5
+10/02/2010,Florida Atlantic,3,South Florida,31,21.5
+10/02/2010,Alcorn State,16,Mississippi State,49, 
+10/02/2010,UC-Davis,14,San Jose State,13, 
+10/02/2010,Cal-San Luis Obispo,17,Fresno State,38, 
+10/05/2010,Troy,42,Middle Tennessee,13,4.0
+10/06/2010,U-A-B,7,U-C-F,42,11.0
+10/07/2010,Nebraska,48,Kansas State,13,-11.0
+10/08/2010,Connecticut,24,Rutgers,27,-5.0
+10/08/2010,Oklahoma State,54,UL-Lafayette,28,-24.0
+10/09/2010,Minnesota,23,Wisconsin,41,21.0
+10/09/2010,Syracuse,13,South Florida,9,8.0
+10/09/2010,Illinois,33,Penn State,13,9.0
+10/09/2010,Indiana,10,Ohio State,38,24.5
+10/09/2010,Michigan State,34,Michigan,17,4.5
+10/09/2010,Memphis,0,Louisville,56,16.0
+10/09/2010,Miami-Ohio,3,Cincinnati,45,17.0
+10/09/2010,Boston College,17,No Carolina State,44,10.0
+10/09/2010,Clemson,16,North Carolina,21,2.0
+10/09/2010,Virginia,21,Georgia Tech,33,10.0
+10/09/2010,Temple,17,Northern Illinois,31,3.0
+10/09/2010,Navy,28,Wake Forest,27,-3.0
+10/09/2010,Nevada-Las Vegas,10,West Virginia,49,26.0
+10/09/2010,Western Michigan,45,Ball State,16,5.5
+10/09/2010,Tennessee,14,Georgia,41,11.5
+10/09/2010,Eastern Michigan,6,Vanderbilt,52,25.0
+10/09/2010,Utah,68,Iowa State,27,-6.0
+10/09/2010,Colorado,0,Missouri,26,12.5
+10/09/2010,Central Michigan,21,Virginia Tech,45,21.5
+10/09/2010,Bowling Green,25,Ohio,49,8.0
+10/09/2010,East Carolina,44,Southern Miss,43,8.0
+10/09/2010,Colorado State,27,Air Force,49,24.0
+10/09/2010,Akron,17,Kent State,28,17.0
+10/09/2010,Alabama,21,South Carolina,35,-7.0
+10/09/2010,Louisiana State,33,Florida,29,7.0
+10/09/2010,Wyoming,0,Texas Christian,45,35.0
+10/09/2010,Arizona State,24,Washington,14,1.0
+10/09/2010,U.C.L.A.,7,California,35,8.0
+10/09/2010,Pittsburgh,17,Notre Dame,23,6.0
+10/09/2010,Army,41,Tulane,23,1.0
+10/09/2010,Baylor,38,Texas Tech,45,1.5
+10/09/2010,Texas A+M,17,Arkansas,24,6.0
+10/09/2010,Florida State,45,Miami-Florida,17,5.5
+10/09/2010,Utah State,6,Louisiana Tech,24,2.5
+10/09/2010,San Jose State,13,Nevada-Reno,35,37.5
+10/09/2010,San Diego State,21,Brigham Young,24,-5.0
+10/09/2010,Oregon,43,Washington State,23,-36.0
+10/09/2010,Oregon State,29,Arizona,27,8.0
+10/09/2010,Auburn,37,Kentucky,34,-6.5
+10/09/2010,Purdue,20,Northwestern,17,8.5
+10/09/2010,Mississippi State,47,Houston,24,-4.5
+10/09/2010,New Mexico,14,New Mexico State,16,2.5
+10/09/2010,Southern Cal,35,Stanford,37,10.0
+10/09/2010,Toledo,14,Boise State,57,38.5
+10/09/2010,Tulsa,18,S-M-U,21,6.0
+10/09/2010,Rice,24,UTEP,44,9.0
+10/09/2010,Hawaii,49,Fresno State,27,10.5
+10/09/2010,Arkansas State,24,North Texas,19,-3.5
+10/09/2010,Western Kentucky,21,Florida Intl,28,9.0
+10/09/2010,Florida Atlantic,17,UL-Monroe,20,2.5
+10/13/2010,U-C-F,35,Marshall,14,-6.5
+10/14/2010,Kansas State,59,Kansas,7,-3.0
+10/14/2010,South Florida,6,West Virginia,20,10.0
+10/15/2010,Cincinnati,35,Louisville,27,-3.0
+10/16/2010,Miami-Florida,28,Duke,13,-18.0
+10/16/2010,Pittsburgh,45,Syracuse,14,-3.0
+10/16/2010,Army,20,Rutgers,23,6.5
+10/16/2010,Miami-Ohio,27,Central Michigan,20,14.0
+10/16/2010,Maryland,7,Clemson,31,14.5
+10/16/2010,Illinois,6,Michigan State,26,7.0
+10/16/2010,Minnesota,17,Purdue,28,6.0
+10/16/2010,No Carolina State,27,East Carolina,33,-8.0
+10/16/2010,Vanderbilt,0,Georgia,43,14.0
+10/16/2010,South Carolina,28,Kentucky,31,-5.0
+10/16/2010,Mississippi State,10,Florida,7,9.0
+10/16/2010,Mississippi,10,Alabama,23,20.5
+10/16/2010,Iowa State,0,Oklahoma,52,22.0
+10/16/2010,Bowling Green,27,Temple,28,20.5
+10/16/2010,Eastern Michigan,41,Ball State,38,15.0
+10/16/2010,Akron,10,Ohio,38,16.5
+10/16/2010,Baylor,31,Colorado,25,-2.0
+10/16/2010,Nevada-Las Vegas,10,Colorado State,43,3.5
+10/16/2010,Western Michigan,20,Notre Dame,44,24.0
+10/16/2010,Buffalo,14,Northern Illinois,45,14.5
+10/16/2010,North Carolina,44,Virginia,10,-6.5
+10/16/2010,S-M-U,21,Navy,28,1.5
+10/16/2010,California,14,Southern Cal,48,2.5
+10/16/2010,Texas,20,Nebraska,13,9.5
+10/16/2010,Boston College,19,Florida State,24,23.0
+10/16/2010,Iowa,38,Michigan,28,-4.0
+10/16/2010,Oregon State,34,Washington,35,1.5
+10/16/2010,Wake Forest,21,Virginia Tech,52,22.5
+10/16/2010,Idaho,35,Louisiana Tech,48,-1.5
+10/16/2010,Brigham Young,3,Texas Christian,31,29.5
+10/16/2010,UTEP,6,U-A-B,21,2.5
+10/16/2010,Arizona,24,Washington State,7,-23.5
+10/16/2010,Utah,30,Wyoming,6,-21.5
+10/16/2010,Kent State,21,Toledo,34,4.0
+10/16/2010,Oklahoma State,34,Texas Tech,17,3.0
+10/16/2010,Missouri,30,Texas A+M,9,4.0
+10/16/2010,Southern Miss,41,Memphis,19,-16.5
+10/16/2010,Houston,31,Rice,34,-9.5
+10/16/2010,Tulane,24,Tulsa,52,18.5
+10/16/2010,Ohio State,18,Wisconsin,31,-4.0
+10/16/2010,Arkansas,43,Auburn,65,3.5
+10/16/2010,Boise State,48,San Jose State,0,-41.0
+10/16/2010,Air Force,25,San Diego State,27,-1.0
+10/16/2010,New Mexico State,10,Fresno State,33,30.5
+10/16/2010,Nevada-Reno,21,Hawaii,27,-6.5
+10/16/2010,Arkansas State,34,Indiana,36,10.0
+10/16/2010,Middle Tennessee,14,Georgia Tech,42,18.5
+10/16/2010,UL-Monroe,35,Western Kentucky,30,2.5
+10/16/2010,UL-Lafayette,24,Troy,31,20.5
+10/16/2010,Florida Intl,34,North Texas,10,-5.0
+10/16/2010,McNeese State,10,Louisiana State,32, 
+10/21/2010,U.C.L.A.,13,Oregon,60,27.0
+10/22/2010,South Florida,38,Cincinnati,30,9.5
+10/23/2010,Notre Dame,17,Navy,35,-6.5
+10/23/2010,Connecticut,0,Louisville,26,3.5
+10/23/2010,Duke,7,Virginia Tech,44,27.5
+10/23/2010,North Carolina,10,Miami-Florida,33,6.5
+10/23/2010,Georgia Tech,13,Clemson,27,3.5
+10/23/2010,Maryland,24,Boston College,21,4.5
+10/23/2010,Marshall,10,East Carolina,37,13.5
+10/23/2010,Temple,42,Buffalo,0,-8.5
+10/23/2010,Wisconsin,31,Iowa,30,6.5
+10/23/2010,Penn State,33,Minnesota,21,-8.5
+10/23/2010,Purdue,0,Ohio State,49,24.0
+10/23/2010,Michigan State,35,Northwestern,27,-5.5
+10/23/2010,Rutgers,21,Pittsburgh,41,13.0
+10/23/2010,Syracuse,19,West Virginia,14,14.0
+10/23/2010,Indiana,13,Illinois,43,13.0
+10/23/2010,Iowa State,28,Texas,21,21.0
+10/23/2010,South Carolina,21,Vanderbilt,7,-12.5
+10/23/2010,Mississippi,24,Arkansas,38,10.0
+10/23/2010,Ohio,34,Miami-Ohio,13,-3.0
+10/23/2010,Wyoming,20,Brigham Young,25,11.0
+10/23/2010,Kansas State,42,Baylor,47,6.5
+10/23/2010,Texas A+M,45,Kansas,10,-14.0
+10/23/2010,U-A-B,24,Mississippi State,29,19.5
+10/23/2010,Houston,45,S-M-U,20,8.5
+10/23/2010,Kent State,30,Bowling Green,6,-2.5
+10/23/2010,Western Michigan,56,Akron,10,-7.5
+10/23/2010,Central Michigan,7,Northern Illinois,33,10.0
+10/23/2010,Oklahoma,27,Missouri,36,-3.0
+10/23/2010,Nebraska,51,Oklahoma State,41,-6.0
+10/23/2010,Washington,14,Arizona,44,6.5
+10/23/2010,Arizona State,17,California,50,3.0
+10/23/2010,Alabama,41,Tennessee,10,-17.0
+10/23/2010,Louisiana State,17,Auburn,24,5.0
+10/23/2010,New Mexico State,14,Idaho,37,24.5
+10/23/2010,Hawaii,45,Utah State,7,-3.0
+10/23/2010,Colorado State,6,Utah,59,31.0
+10/23/2010,Washington State,28,Stanford,38,36.0
+10/23/2010,Eastern Michigan,21,Virginia,48,24.0
+10/23/2010,Georgia,44,Kentucky,31,-5.5
+10/23/2010,Rice,14,U-C-F,41,24.0
+10/23/2010,Ball State,24,Toledo,31,11.5
+10/23/2010,Texas Tech,27,Colorado,24,-3.0
+10/23/2010,Fresno State,33,San Jose State,18,-18.0
+10/23/2010,Air Force,7,Texas Christian,38,18.5
+10/23/2010,Tulane,34,UTEP,24,10.0
+10/23/2010,San Diego State,30,New Mexico,20,-24.0
+10/23/2010,Western Kentucky,54,UL-Lafayette,21,6.0
+10/23/2010,Florida Atlantic,16,Arkansas State,37,7.0
+10/23/2010,UL-Monroe,10,Middle Tennessee,38,12.5
+10/26/2010,Louisiana Tech,20,Boise State,49,37.0
+10/28/2010,Florida State,24,No Carolina State,28,-4.0
+10/29/2010,West Virginia,13,Connecticut,16,-5.0
+10/30/2010,Syracuse,31,Cincinnati,7,6.0
+10/30/2010,U-A-B,50,Southern Miss,49,10.5
+10/30/2010,Purdue,10,Illinois,44,16.0
+10/30/2010,Miami-Florida,19,Virginia,24,-15.0
+10/30/2010,Louisville,3,Pittsburgh,20,9.5
+10/30/2010,Michigan State,6,Iowa,37,6.5
+10/30/2010,Northwestern,20,Indiana,17,-4.0
+10/30/2010,Clemson,10,Boston College,16,-7.0
+10/30/2010,Wake Forest,14,Maryland,62,5.5
+10/30/2010,Northern Illinois,28,Western Michigan,21,-7.0
+10/30/2010,Tennessee,24,South Carolina,38,17.5
+10/30/2010,Vanderbilt,14,Arkansas,49,20.5
+10/30/2010,Kentucky,17,Mississippi State,24,6.0
+10/30/2010,Auburn,51,Mississippi,31,-7.0
+10/30/2010,Baylor,30,Texas,22,7.5
+10/30/2010,Kansas,16,Iowa State,28,17.5
+10/30/2010,Akron,0,Temple,30,29.5
+10/30/2010,Ball State,14,Kent State,33,10.5
+10/30/2010,San Diego State,48,Wyoming,38,-10.0
+10/30/2010,Tulsa,28,Notre Dame,27,9.5
+10/30/2010,UTEP,12,Marshall,16,2.0
+10/30/2010,S-M-U,31,Tulane,17,-9.5
+10/30/2010,Bowling Green,17,Central Michigan,14,13.0
+10/30/2010,Stanford,41,Washington,0,-7.5
+10/30/2010,Florida,34,Georgia,31,-1.5
+10/30/2010,East Carolina,35,U-C-F,49,9.0
+10/30/2010,Arizona,29,U.C.L.A.,21,-9.0
+10/30/2010,Oklahoma State,24,Kansas State,14,-4.0
+10/30/2010,Missouri,17,Nebraska,31,8.0
+10/30/2010,Colorado,10,Oklahoma,43,25.0
+10/30/2010,Miami-Ohio,21,Buffalo,9,-2.5
+10/30/2010,Texas Tech,27,Texas A+M,45,7.0
+10/30/2010,Duke,34,Navy,31,13.0
+10/30/2010,Toledo,42,Eastern Michigan,7,-11.5
+10/30/2010,Utah State,42,Nevada-Reno,56,28.0
+10/30/2010,San Jose State,27,New Mexico State,29,-3.0
+10/30/2010,New Mexico,14,Colorado State,38,15.0
+10/30/2010,California,7,Oregon State,35,3.0
+10/30/2010,Washington State,0,Arizona State,42,22.0
+10/30/2010,Houston,56,Memphis,17,-14.0
+10/30/2010,Utah,28,Air Force,23,-6.5
+10/30/2010,Ohio State,52,Minnesota,10,-25.5
+10/30/2010,Michigan,31,Penn State,41,-3.0
+10/30/2010,Oregon,53,Southern Cal,32,-6.5
+10/30/2010,Texas Christian,48,Nevada-Las Vegas,6,-35.0
+10/30/2010,Idaho,10,Hawaii,45,15.5
+10/30/2010,UL-Lafayette,31,Ohio,38,17.0
+10/30/2010,North Texas,33,Western Kentucky,6,6.0
+10/30/2010,Troy,14,UL-Monroe,28,-17.0
+10/30/2010,Florida Intl,9,Florida Atlantic,21,-4.5
+10/30/2010,William + Mary,17,North Carolina,21, 
+10/30/2010,Virginia Military,7,Army,29, 
+11/02/2010,Middle Tennessee,24,Arkansas State,51,-2.5
+11/03/2010,Rutgers,27,South Florida,28,10.0
+11/04/2010,Buffalo,17,Ohio,34,16.5
+11/04/2010,Georgia Tech,21,Virginia Tech,28,13.5
+11/05/2010,Western Michigan,22,Central Michigan,26,3.0
+11/05/2010,U-C-F,40,Houston,33,-2.5
+11/06/2010,Air Force,42,Army,22,-6.5
+11/06/2010,Maryland,20,Miami-Florida,26,9.5
+11/06/2010,No Carolina State,13,Clemson,14,3.5
+11/06/2010,Virginia,48,Duke,55,-1.5
+11/06/2010,Louisville,28,Syracuse,20,7.0
+11/06/2010,Iowa,18,Indiana,13,-18.5
+11/06/2010,Illinois,65,Michigan,67,3.0
+11/06/2010,Boston College,23,Wake Forest,13,-4.0
+11/06/2010,Northwestern,21,Penn State,35,7.0
+11/06/2010,Wisconsin,34,Purdue,13,-20.0
+11/06/2010,Minnesota,8,Michigan State,31,24.0
+11/06/2010,North Carolina,37,Florida State,35,10.5
+11/06/2010,Baylor,28,Oklahoma State,55,10.0
+11/06/2010,Arkansas,41,South Carolina,20,4.0
+11/06/2010,Florida,55,Vanderbilt,14,-14.5
+11/06/2010,Colorado,45,Kansas,52,-7.5
+11/06/2010,Akron,30,Ball State,37,13.5
+11/06/2010,Nevada-Las Vegas,7,Brigham Young,55,18.5
+11/06/2010,Rice,27,Tulsa,64,17.0
+11/06/2010,Hawaii,7,Boise State,42,23.0
+11/06/2010,Temple,28,Kent State,10,-3.0
+11/06/2010,New Mexico State,22,Utah State,27,19.0
+11/06/2010,Navy,76,East Carolina,35,2.5
+11/06/2010,Washington,16,Oregon,53,38.0
+11/06/2010,Southern Miss,46,Tulane,30,-10.5
+11/06/2010,Nebraska,31,Iowa State,30,-16.0
+11/06/2010,Oklahoma,19,Texas A+M,33,-5.0
+11/06/2010,Texas,14,Kansas State,39,-4.0
+11/06/2010,Arizona,17,Stanford,42,8.0
+11/06/2010,Texas Christian,47,Utah,7,-5.0
+11/06/2010,Fresno State,40,Louisiana Tech,34,3.0
+11/06/2010,Marshall,31,U-A-B,17,10.5
+11/06/2010,Nevada-Reno,63,Idaho,17,-12.0
+11/06/2010,California,20,Washington State,13,-14.5
+11/06/2010,Wyoming,31,New Mexico,34,-9.0
+11/06/2010,Oregon State,14,U.C.L.A.,17,-5.0
+11/06/2010,Missouri,17,Texas Tech,24,-4.5
+11/06/2010,Alabama,21,Louisiana State,24,-7.0
+11/06/2010,Tennessee,50,Memphis,14,-20.0
+11/06/2010,S-M-U,14,UTEP,28,-6.5
+11/06/2010,Colorado State,19,San Diego State,24,17.5
+11/06/2010,Arizona State,33,Southern Cal,34,5.5
+11/06/2010,UL-Lafayette,21,Mississippi,43,30.0
+11/06/2010,Florida Atlantic,17,Western Kentucky,16,-2.5
+11/06/2010,UL-Monroe,35,Florida Intl,42,10.0
+11/06/2010,Troy,41,North Texas,35,-9.5
+11/06/2010,Idaho State,7,Georgia,55, 
+11/06/2010,Chattanooga,24,Auburn,62, 
+11/06/2010,Charleston Southern,21,Kentucky,49, 
+11/09/2010,Toledo,30,Northern Illinois,65,11.0
+11/10/2010,Miami-Ohio,24,Bowling Green,21,-3.0
+11/11/2010,Pittsburgh,28,Connecticut,30,-6.5
+11/11/2010,East Carolina,54,U-A-B,42,1.0
+11/12/2010,Ball State,20,Buffalo,3,3.0
+11/12/2010,Boise State,52,Idaho,14,-35.5
+11/13/2010,Maryland,42,Virginia,23,-3.0
+11/13/2010,Cincinnati,10,West Virginia,37,5.5
+11/13/2010,Southern Miss,31,U-C-F,21,10.5
+11/13/2010,Syracuse,13,Rutgers,10,-2.0
+11/13/2010,Boston College,21,Duke,16,-3.5
+11/13/2010,Miami-Florida,35,Georgia Tech,10,-2.5
+11/13/2010,Iowa,17,Northwestern,21,-10.0
+11/13/2010,Michigan,27,Purdue,16,-12.5
+11/13/2010,Indiana,20,Wisconsin,83,22.5
+11/13/2010,Minnesota,38,Illinois,34,21.0
+11/13/2010,Wake Forest,3,No Carolina State,38,19.5
+11/13/2010,Clemson,13,Florida State,16,6.0
+11/13/2010,Texas Tech,7,Oklahoma,45,16.0
+11/13/2010,Texas A+M,42,Baylor,30,-3.0
+11/13/2010,Kansas,3,Nebraska,20,35.0
+11/13/2010,South Carolina,36,Florida,14,6.0
+11/13/2010,Vanderbilt,20,Kentucky,38,17.0
+11/13/2010,Mississippi State,10,Alabama,30,13.0
+11/13/2010,Iowa State,14,Colorado,34,-2.5
+11/13/2010,Eastern Michigan,30,Western Michigan,45,19.0
+11/13/2010,Army,45,Kent State,28,1.0
+11/13/2010,Brigham Young,49,Colorado State,10,-6.5
+11/13/2010,UTEP,21,Arkansas,58,28.5
+11/13/2010,Utah,3,Notre Dame,28,-6.0
+11/13/2010,Memphis,13,Marshall,28,17.0
+11/13/2010,Georgia,31,Auburn,49,7.0
+11/13/2010,Oregon,15,California,13,-20.0
+11/13/2010,Stanford,17,Arizona State,13,-4.5
+11/13/2010,Central Michigan,37,Navy,38,14.0
+11/13/2010,Rice,49,Tulane,54,3.5
+11/13/2010,Oklahoma State,33,Texas,16,-5.0
+11/13/2010,Kansas State,28,Missouri,38,13.0
+11/13/2010,Penn State,14,Ohio State,38,19.0
+11/13/2010,Virginia Tech,26,North Carolina,10,-3.5
+11/13/2010,South Florida,24,Louisville,21,2.5
+11/13/2010,San Diego State,35,Texas Christian,40,28.0
+11/13/2010,New Mexico,23,Air Force,48,34.0
+11/13/2010,Louisiana Tech,41,New Mexico State,20,-16.0
+11/13/2010,Washington State,31,Oregon State,14,24.0
+11/13/2010,Mississippi,14,Tennessee,52,2.5
+11/13/2010,Southern Cal,24,Arizona,21,4.5
+11/13/2010,Utah State,38,San Jose State,34,-3.5
+11/13/2010,Tulsa,28,Houston,25,2.5
+11/13/2010,Nevada-Reno,35,Fresno State,34,-8.5
+11/13/2010,Wyoming,16,Nevada-Las Vegas,42,-4.5
+11/13/2010,Western Kentucky,36,Arkansas State,35,12.0
+11/13/2010,Florida Intl,52,Troy,35,8.5
+11/13/2010,North Texas,23,Middle Tennessee,17,10.5
+11/13/2010,UL-Lafayette,23,Florida Atlantic,24,10.5
+11/13/2010,UL-Monroe,0,Louisiana State,51,33.0
+11/16/2010,Ohio,31,Temple,23,10.0
+11/17/2010,Miami-Ohio,19,Akron,14,-9.0
+11/17/2010,Bowling Green,14,Toledo,33,10.0
+11/18/2010,U.C.L.A.,7,Washington,24,2.0
+11/18/2010,Air Force,35,Nevada-Las Vegas,20,-19.5
+11/18/2010,Georgia State,7,Alabama,63, 
+11/19/2010,Fresno State,0,Boise State,51,29.5
+11/20/2010,Penn State,41,Indiana,24,-10.5
+11/20/2010,Tennessee,24,Vanderbilt,10,-8.5
+11/20/2010,Connecticut,23,Syracuse,6,3.5
+11/20/2010,Florida State,30,Maryland,16,-4.0
+11/20/2010,Clemson,30,Wake Forest,10,-14.0
+11/20/2010,Duke,20,Georgia Tech,30,10.0
+11/20/2010,Virginia,13,Boston College,17,7.0
+11/20/2010,Rutgers,38,Cincinnati,69,13.5
+11/20/2010,Purdue,31,Michigan State,35,21.0
+11/20/2010,Wisconsin,48,Michigan,28,-4.0
+11/20/2010,Ohio State,20,Iowa,17,-3.0
+11/20/2010,Missouri,14,Iowa State,0,-11.0
+11/20/2010,Oklahoma State,48,Kansas,14,-24.5
+11/20/2010,Arkansas,38,Mississippi State,31,-3.5
+11/20/2010,Northern Illinois,59,Ball State,21,-16.0
+11/20/2010,East Carolina,38,Rice,62,-8.0
+11/20/2010,Kent State,3,Western Michigan,38,3.0
+11/20/2010,UTEP,28,Tulsa,31,18.0
+11/20/2010,Eastern Michigan,21,Buffalo,17,7.0
+11/20/2010,Colorado State,0,Wyoming,44,2.5
+11/20/2010,Idaho,28,Utah State,6,3.0
+11/20/2010,Marshall,17,S-M-U,31,13.5
+11/20/2010,Illinois,48,Northwestern,27,-7.5
+11/20/2010,No Carolina State,29,North Carolina,25,2.5
+11/20/2010,Stanford,48,California,14,-7.0
+11/20/2010,U-C-F,61,Tulane,14,-18.5
+11/20/2010,Virginia Tech,31,Miami-Florida,17,-2.0
+11/20/2010,Kansas State,36,Colorado,44,-2.5
+11/20/2010,New Mexico State,6,Nevada-Reno,52,37.5
+11/20/2010,Memphis,15,U-A-B,31,20.0
+11/20/2010,New Mexico,7,Brigham Young,40,30.0
+11/20/2010,Notre Dame,27,Army,3,-8.5
+11/20/2010,Pittsburgh,17,South Florida,10,-3.0
+11/20/2010,Houston,41,Southern Miss,59,3.5
+11/20/2010,Oklahoma,53,Baylor,24,-7.0
+11/20/2010,Nebraska,6,Texas A+M,9,-3.0
+11/20/2010,West Virginia,17,Louisville,10,-3.5
+11/20/2010,Southern Cal,7,Oregon State,36,-3.0
+11/20/2010,Mississippi,36,Louisiana State,43,14.5
+11/20/2010,Utah,38,San Diego State,34,-2.5
+11/20/2010,San Jose State,7,Hawaii,41,29.5
+11/20/2010,Troy,24,South Carolina,69,21.0
+11/20/2010,Florida Atlantic,17,Texas,51,21.5
+11/20/2010,Arkansas State,19,Navy,35,13.0
+11/20/2010,Middle Tennessee,27,Western Kentucky,26,-4.5
+11/20/2010,Florida Intl,38,UL-Lafayette,17,-10.0
+11/20/2010,North Texas,37,UL-Monroe,49,0.0
+11/20/2010,Appalachian State,10,Florida,48, 
+11/20/2010,Weber State,21,Texas Tech,64, 
+11/23/2010,Temple,3,Miami-Ohio,23,-6.5
+11/25/2010,Texas A+M,24,Texas,17,-3.0
+11/26/2010,Buffalo,14,Akron,22,1.0
+11/26/2010,Central Michigan,31,Toledo,42,4.5
+11/26/2010,Western Michigan,41,Bowling Green,7,-7.0
+11/26/2010,Northern Illinois,71,Eastern Michigan,3,-25.0
+11/26/2010,West Virginia,35,Pittsburgh,10,3.0
+11/26/2010,Louisville,40,Rutgers,13,-3.5
+11/26/2010,Ohio,6,Kent State,28,-5.0
+11/26/2010,S-M-U,45,East Carolina,38,-1.0
+11/26/2010,Auburn,28,Alabama,27,4.0
+11/26/2010,U.C.L.A.,34,Arizona State,55,12.5
+11/26/2010,Colorado,17,Nebraska,45,17.0
+11/26/2010,Southern Miss,50,Tulsa,56,3.5
+11/26/2010,Arizona,29,Oregon,48,19.5
+11/26/2010,Boise State,31,Nevada-Reno,34,-14.5
+11/27/2010,Michigan,7,Ohio State,37,17.0
+11/27/2010,Indiana,34,Purdue,31,4.5
+11/27/2010,Tulane,23,Marshall,38,11.5
+11/27/2010,South Florida,23,Miami-Florida,20,13.5
+11/27/2010,Mississippi State,31,Mississippi,23,-3.0
+11/27/2010,Florida,7,Florida State,31,3.0
+11/27/2010,Kentucky,14,Tennessee,24,3.0
+11/27/2010,South Carolina,29,Clemson,7,-3.0
+11/27/2010,U-C-F,37,Memphis,17,-27.0
+11/27/2010,Cincinnati,17,Connecticut,38,2.5
+11/27/2010,Boston College,16,Syracuse,7,3.5
+11/27/2010,Northwestern,23,Wisconsin,70,23.0
+11/27/2010,Wake Forest,34,Vanderbilt,13,4.5
+11/27/2010,Iowa,24,Minnesota,27,-15.5
+11/27/2010,No Carolina State,31,Maryland,38,-2.0
+11/27/2010,North Carolina,24,Duke,19,-8.5
+11/27/2010,Virginia,7,Virginia Tech,37,22.0
+11/27/2010,Kansas,7,Missouri,35,24.5
+11/27/2010,Hawaii,59,New Mexico State,24,-27.5
+11/27/2010,U-A-B,23,Rice,28,-3.0
+11/27/2010,Georgia Tech,34,Georgia,42,14.0
+11/27/2010,Michigan State,28,Penn State,22,-1.5
+11/27/2010,Oklahoma,47,Oklahoma State,41,3.0
+11/27/2010,Washington,16,California,13,7.0
+11/27/2010,Brigham Young,16,Utah,17,7.5
+11/27/2010,Oregon State,0,Stanford,38,14.0
+11/27/2010,Louisiana State,23,Arkansas,31,3.5
+11/27/2010,Texas Christian,66,New Mexico,17,-44.0
+11/27/2010,Houston,20,Texas Tech,35,9.0
+11/27/2010,Notre Dame,20,Southern Cal,16,4.5
+11/27/2010,Louisiana Tech,45,San Jose State,38,-14.0
+11/27/2010,Nevada-Las Vegas,14,San Diego State,48,24.0
+11/27/2010,Idaho,20,Fresno State,23,10.5
+11/27/2010,UL-Lafayette,23,UL-Monroe,22,7.0
+11/27/2010,Florida Atlantic,14,Middle Tennessee,38,5.5
+11/27/2010,Kansas State,49,North Texas,41,-14.5
+11/27/2010,Arkansas State,24,Florida Intl,31,5.0
+11/27/2010,Western Kentucky,14,Troy,28,13.0
+12/02/2010,Arizona State,30,Arizona,29,4.0
+12/03/2010,Illinois,23,Fresno State,25,-5.5
+12/03/2010,Miami-Ohio,26,Northern Illinois,21,17.5
+12/04/2010,Pittsburgh,28,Cincinnati,10,-1.5
+12/04/2010,Rutgers,14,West Virginia,35,21.0
+12/04/2010,Connecticut,19,South Florida,16,2.5
+12/04/2010,Utah State,14,Boise State,50,39.5
+12/04/2010,Nevada-Reno,35,Louisiana Tech,17,-8.5
+12/04/2010,Southern Cal,28,U.C.L.A.,14,-6.5
+12/04/2010,Washington,35,Washington State,28,-5.5
+12/04/2010,Oregon,37,Oregon State,20,-16.5
+12/04/2010,San Jose State,23,Idaho,26,14.0
+12/04/2010,Nevada-Las Vegas,21,Hawaii,59,34.0
+12/04/2010,Troy,44,Florida Atlantic,7,-5.5
+12/04/2010,Middle Tennessee,28,Florida Intl,27,5.0
+12/04/2010,S-M-U,7,U-C-F,17,7.5
+12/04/2010,Auburn,56,South Carolina,17,-4.0
+12/04/2010,Florida State,33,Virginia Tech,44,3.5
+12/04/2010,Nebraska,20,Oklahoma,23,4.0
+12/11/2010,Navy,31,Army,17,-8.0

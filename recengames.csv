@@ -1,0 +1,814 @@
+,year,date,away_team,home_team,away_score,home_score,winner
+0,2014,08/27/2014, Abilene Christian, Georgia State,37.0,38.0, Georgia State
+1,2014,08/28/2014, Texas A&M, South Carolina,52.0,28.0, Texas A&M
+2,2014,08/28/2014, Wake Forest, Louisiana-Monroe,10.0,17.0, Louisiana-Monroe
+3,2014,08/28/2014, Eastern Illinois, Minnesota,20.0,42.0, Minnesota
+4,2014,08/28/2014, Howard, Akron,0.0,41.0, Akron
+5,2014,08/28/2014, Presbyterian, Northern Illinois,3.0,55.0, Northern Illinois
+6,2014,08/28/2014, Chattanooga, Central Michigan,16.0,20.0, Central Michigan
+7,2014,08/28/2014, Idaho State, Utah,14.0,56.0, Utah
+8,2014,08/28/2014, Cal Poly, New Mexico State,10.0,28.0, New Mexico State
+9,2014,08/28/2014, Boise State, Mississippi,13.0,35.0, Mississippi
+10,2014,08/28/2014, Tulane, Tulsa,31.0,38.0, Tulsa
+11,2014,08/28/2014, Rutgers, Washington State,41.0,38.0, Rutgers
+12,2014,08/28/2014, North Dakota, San Jose State,10.0,42.0, San Jose State
+13,2014,08/28/2014, Weber State, Arizona State,14.0,45.0, Arizona State
+14,2014,08/28/2014, Temple, Vanderbilt,37.0,7.0, Temple
+15,2014,08/29/2014, BYU, Connecticut,35.0,10.0, BYU
+16,2014,08/29/2014, Villanova, Syracuse,26.0,27.0, Syracuse
+17,2014,08/29/2014, Jacksonville State, Michigan State,7.0,45.0, Michigan State
+18,2014,08/29/2014, Bowling Green, Western Kentucky,31.0,59.0, Western Kentucky
+19,2014,08/29/2014, Colorado State, Colorado,31.0,17.0, Colorado State
+20,2014,08/29/2014, UTSA, Houston,27.0,7.0, UTSA
+21,2014,08/29/2014, UNLV, Arizona,13.0,58.0, Arizona
+22,2014,08/30/2014, Penn State, UCF,26.0,24.0, Penn State
+23,2014,08/30/2014, UCLA, Virginia,28.0,20.0, UCLA
+24,2014,08/30/2014, Delaware, Pittsburgh,0.0,62.0, Pittsburgh
+25,2014,08/30/2014, Appalachian State, Michigan,14.0,52.0, Michigan
+26,2014,08/30/2014, North Dakota State, Iowa State,34.0,14.0, North Dakota State
+27,2014,08/30/2014, Youngstown State, Illinois,17.0,28.0, Illinois
+28,2014,08/30/2014, Indiana State, Indiana,10.0,28.0, Indiana
+29,2014,08/30/2014, Northern Iowa, Iowa,23.0,31.0, Iowa
+30,2014,08/30/2014, Ohio State, Navy,34.0,17.0, Ohio State
+31,2014,08/30/2014, Western Michigan, Purdue,34.0,43.0, Purdue
+32,2014,08/30/2014, Troy, UAB,10.0,48.0, UAB
+33,2014,08/30/2014, Tennessee-Martin, Kentucky,14.0,59.0, Kentucky
+34,2014,08/30/2014, Wofford, Georgia Tech,19.0,38.0, Georgia Tech
+35,2014,08/30/2014, Georgia Southern, North Carolina State,23.0,24.0, North Carolina State
+36,2014,08/30/2014, Colgate, Ball State,10.0,30.0, Ball State
+37,2014,08/30/2014, Nicholls State, Air Force,16.0,44.0, Air Force
+38,2014,08/30/2014, Southern Utah, Nevada,19.0,28.0, Nevada
+39,2014,08/30/2014, Boston College, Massachusetts,30.0,7.0, Boston College
+40,2014,08/30/2014, James Madison, Maryland,7.0,52.0, Maryland
+41,2014,08/30/2014, Florida Atlantic, Nebraska,7.0,55.0, Nebraska
+42,2014,08/30/2014, California, Northwestern,31.0,24.0, California
+43,2014,08/30/2014, West Virginia, Alabama,23.0,33.0, Alabama
+44,2014,08/30/2014, Duquesne, Buffalo,28.0,38.0, Buffalo
+45,2014,08/30/2014, Hampton, Old Dominion,28.0,41.0, Old Dominion
+46,2014,08/30/2014, Rice, Notre Dame,17.0,48.0, Notre Dame
+47,2014,08/30/2014, Marshall, Miami (Ohio),42.0,27.0, Marshall
+48,2014,08/30/2014, South Dakota State, Missouri,18.0,38.0, Missouri
+49,2014,08/30/2014, Montana, Wyoming,12.0,17.0, Wyoming
+50,2014,08/30/2014, Portland State, Oregon State,14.0,29.0, Oregon State
+51,2014,08/30/2014, UC Davis, Stanford,0.0,45.0, Stanford
+52,2014,08/30/2014, Arkansas, Auburn,21.0,45.0, Auburn
+53,2014,08/30/2014, William & Mary, Virginia Tech,9.0,34.0, Virginia Tech
+54,2014,08/30/2014, Clemson, Georgia,21.0,45.0, Georgia
+55,2014,08/30/2014, Elon, Duke,13.0,52.0, Duke
+56,2014,08/30/2014, Liberty, North Carolina,29.0,56.0, North Carolina
+57,2014,08/30/2014, Ohio, Kent State,17.0,14.0, Ohio
+58,2014,08/30/2014, Morgan State, Eastern Michigan,28.0,31.0, Eastern Michigan
+59,2014,08/30/2014, New Hampshire, Toledo,20.0,54.0, Toledo
+60,2014,08/30/2014, Savannah State, Middle Tennessee,7.0,61.0, Middle Tennessee
+61,2014,08/30/2014, Bethune-Cookman, Florida International,14.0,12.0, Bethune-Cookman
+62,2014,08/30/2014, Northern Arizona, San Diego State,7.0,38.0, San Diego State
+63,2014,08/30/2014, Austin Peay, Memphis,0.0,63.0, Memphis
+64,2014,08/30/2014, Western Carolina, South Florida,31.0,36.0, South Florida
+65,2014,08/30/2014, Louisiana Tech, Oklahoma,16.0,48.0, Oklahoma
+66,2014,08/30/2014, Samford, TCU,14.0,48.0, TCU
+67,2014,08/30/2014, Central Arkansas, Texas Tech,35.0,42.0, Texas Tech
+68,2014,08/30/2014, Montana State, Arkansas State,10.0,37.0, Arkansas State
+69,2014,08/30/2014, Southern University, Louisiana-Lafayette,6.0,45.0, Louisiana-Lafayette
+70,2014,08/30/2014, Ark.-Pine Bluff, Texas State,0.0,65.0, Texas State
+71,2014,08/30/2014, Stephen F. Austin, Kansas State,16.0,55.0, Kansas State
+72,2014,08/30/2014, Fresno State, USC,13.0,52.0, USC
+73,2014,08/30/2014, Southern Mississippi, Mississippi State,0.0,49.0, Mississippi State
+74,2014,08/30/2014, UTEP, New Mexico,31.0,24.0, UTEP
+75,2014,08/30/2014, North Texas, Texas,7.0,38.0, Texas
+76,2014,08/30/2014, N.C. Central, East Carolina,7.0,52.0, East Carolina
+77,2014,08/30/2014, Florida State, Oklahoma State,37.0,31.0, Florida State
+78,2014,08/30/2014, Wisconsin, LSU,24.0,28.0, LSU
+79,2014,08/30/2014, Washington, Hawai'i,17.0,16.0, Washington
+80,2014,08/30/2014, South Dakota, Oregon,13.0,62.0, Oregon
+81,2014,08/31/2014, Utah State, Tennessee,7.0,38.0, Tennessee
+82,2014,08/31/2014, SMU, Baylor,0.0,45.0, Baylor
+83,2014,09/01/2014, Miami (Florida), Louisville,13.0,31.0, Louisville
+0,2014,10/30/2014, Florida State, Louisville,42.0,31.0, Florida State
+1,2014,10/30/2014, Troy, Georgia Southern,10.0,42.0, Georgia Southern
+2,2014,10/31/2014, Cincinnati, Tulane,38.0,14.0, Cincinnati
+3,2014,10/31/2014, Tulsa, Memphis,20.0,40.0, Memphis
+4,2014,11/01/2014, Air Force, Army,23.0,6.0, Air Force
+5,2014,11/01/2014, Northwestern, Iowa,7.0,48.0, Iowa
+6,2014,11/01/2014, Maryland, Penn State,20.0,19.0, Maryland
+7,2014,11/01/2014, Wisconsin, Rutgers,37.0,0.0, Wisconsin
+8,2014,11/01/2014, Rice, Florida International,31.0,17.0, Rice
+9,2014,11/01/2014, UCF, Connecticut,29.0,37.0, Connecticut
+10,2014,11/01/2014, East Carolina, Temple,10.0,20.0, Temple
+11,2014,11/01/2014, Duke, Pittsburgh,51.0,48.0, Duke
+12,2014,11/01/2014, Oklahoma, Iowa State,59.0,14.0, Oklahoma
+13,2014,11/01/2014, Louisiana-Monroe, Texas A&M,16.0,21.0, Texas A&M
+14,2014,11/01/2014, North Carolina, Miami (Florida),20.0,47.0, Miami (Florida)
+15,2014,11/01/2014, Boston College, Virginia Tech,33.0,31.0, Boston College
+16,2014,11/01/2014, Central Michigan, Eastern Michigan,38.0,7.0, Central Michigan
+17,2014,11/01/2014, Washington, Colorado,38.0,23.0, Washington
+18,2014,11/01/2014, Western Michigan, Miami (Ohio),41.0,10.0, Western Michigan
+19,2014,11/01/2014, Western Kentucky, Louisiana Tech,10.0,59.0, Louisiana Tech
+20,2014,11/01/2014, North Carolina State, Syracuse,24.0,17.0, North Carolina State
+21,2014,11/01/2014, TCU, West Virginia,31.0,30.0, TCU
+22,2014,11/01/2014, Virginia, Georgia Tech,10.0,35.0, Georgia Tech
+23,2014,11/01/2014, BYU, Middle Tennessee,27.0,7.0, BYU
+24,2014,11/01/2014, Purdue, Nebraska,14.0,35.0, Nebraska
+25,2014,11/01/2014, Indiana, Michigan,10.0,34.0, Michigan
+26,2014,11/01/2014, Florida, Georgia,38.0,20.0, Florida
+27,2014,11/01/2014, Georgia State, Appalachian State,0.0,44.0, Appalachian State
+28,2014,11/01/2014, Texas State, New Mexico State,37.0,29.0, Texas State
+29,2014,11/01/2014, Kentucky, Missouri,10.0,20.0, Missouri
+30,2014,11/01/2014, Houston, South Florida,27.0,3.0, Houston
+31,2014,11/01/2014, Kansas, Baylor,14.0,60.0, Baylor
+32,2014,11/01/2014, USC, Washington State,44.0,17.0, USC
+33,2014,11/01/2014, Arkansas State, Idaho,44.0,28.0, Arkansas State
+34,2014,11/01/2014, South Alabama, Louisiana-Lafayette,9.0,19.0, Louisiana-Lafayette
+35,2014,11/01/2014, New Mexico, UNLV,31.0,28.0, New Mexico
+36,2014,11/01/2014, Auburn, Mississippi,35.0,31.0, Auburn
+37,2014,11/01/2014, Colorado State, San Jose State,38.0,31.0, Colorado State
+38,2014,11/01/2014, UAB, Florida Atlantic,31.0,28.0, UAB
+39,2014,11/01/2014, Old Dominion, Vanderbilt,28.0,42.0, Vanderbilt
+40,2014,11/01/2014, Arkansas, Mississippi State,10.0,17.0, Mississippi State
+41,2014,11/01/2014, Tennessee, South Carolina,45.0,42.0, Tennessee
+42,2014,11/01/2014, Stanford, Oregon,16.0,45.0, Oregon
+43,2014,11/01/2014, Texas, Texas Tech,34.0,13.0, Texas
+44,2014,11/01/2014, Oklahoma State, Kansas State,14.0,48.0, Kansas State
+45,2014,11/01/2014, Illinois, Ohio State,14.0,55.0, Ohio State
+46,2014,11/01/2014, Southern Mississippi, UTEP,14.0,35.0, UTEP
+47,2014,11/01/2014, Notre Dame, Navy,49.0,39.0, Notre Dame
+48,2014,11/01/2014, California, Oregon State,45.0,31.0, California
+49,2014,11/01/2014, Arizona, UCLA,7.0,17.0, UCLA
+50,2014,11/01/2014, San Diego State, Nevada,14.0,30.0, Nevada
+51,2014,11/01/2014, Wyoming, Fresno State,45.0,17.0, Wyoming
+52,2014,11/01/2014, Utah State, Hawai'i,35.0,14.0, Utah State
+53,2014,11/01/2014, Utah, Arizona State,16.0,19.0, Arizona State
+0,2014,11/04/2014, Bowling Green, Akron,27.0,10.0, Bowling Green
+1,2014,11/04/2014, Toledo, Kent State,30.0,20.0, Toledo
+2,2014,11/05/2014, Buffalo, Ohio,14.0,37.0, Ohio
+3,2014,11/05/2014, Northern Illinois, Ball State,35.0,21.0, Northern Illinois
+4,2014,11/06/2014, Clemson, Wake Forest,34.0,20.0, Clemson
+5,2014,11/07/2014, Memphis, Temple,16.0,13.0, Memphis
+6,2014,11/07/2014, Utah State, Wyoming,20.0,3.0, Utah State
+7,2014,11/08/2014, Louisiana Tech, UAB,40.0,24.0, Louisiana Tech
+8,2014,11/08/2014, UTSA, Rice,7.0,17.0, Rice
+9,2014,11/08/2014, SMU, Tulsa,28.0,38.0, Tulsa
+10,2014,11/08/2014, Penn State, Indiana,13.0,7.0, Penn State
+11,2014,11/08/2014, Iowa, Minnesota,14.0,51.0, Minnesota
+12,2014,11/08/2014, Baylor, Oklahoma,48.0,14.0, Baylor
+13,2014,11/08/2014, Wisconsin, Purdue,34.0,16.0, Wisconsin
+14,2014,11/08/2014, Georgia, Kentucky,63.0,31.0, Georgia
+15,2014,11/08/2014, Presbyterian, Mississippi,0.0,48.0, Mississippi
+16,2014,11/08/2014, Duke, Syracuse,27.0,10.0, Duke
+17,2014,11/08/2014, Georgia Tech, North Carolina State,56.0,23.0, Georgia Tech
+18,2014,11/08/2014, South Alabama, Arkansas State,10.0,45.0, Arkansas State
+19,2014,11/08/2014, Georgia State, Troy,21.0,45.0, Troy
+20,2014,11/08/2014, Louisiana-Monroe, Appalachian State,29.0,31.0, Appalachian State
+21,2014,11/08/2014, Texas A&M, Auburn,41.0,38.0, Texas A&M
+22,2014,11/08/2014, Notre Dame, Arizona State,31.0,55.0, Arizona State
+23,2014,11/08/2014, Connecticut, Army,21.0,35.0, Army
+24,2014,11/08/2014, Tulane, Houston,31.0,24.0, Tulane
+25,2014,11/08/2014, Florida International, Old Dominion,35.0,38.0, Old Dominion
+26,2014,11/08/2014, West Virginia, Texas,16.0,33.0, Texas
+27,2014,11/08/2014, Michigan, Northwestern,10.0,9.0, Michigan
+28,2014,11/08/2014, Iowa State, Kansas,14.0,34.0, Kansas
+29,2014,11/08/2014, UTEP, Western Kentucky,27.0,35.0, Western Kentucky
+30,2014,11/08/2014, Air Force, UNLV,48.0,21.0, Air Force
+31,2014,11/08/2014, Washington State, Oregon State,39.0,32.0, Washington State
+32,2014,11/08/2014, Tennessee-Martin, Mississippi State,16.0,45.0, Mississippi State
+33,2014,11/08/2014, Georgia Southern, Texas State,28.0,25.0, Georgia Southern
+34,2014,11/08/2014, Idaho, San Diego State,21.0,35.0, San Diego State
+35,2014,11/08/2014, Virginia, Florida State,20.0,34.0, Florida State
+36,2014,11/08/2014, Florida Atlantic, North Texas,10.0,31.0, North Texas
+37,2014,11/08/2014, Marshall, Southern Mississippi,63.0,17.0, Marshall
+38,2014,11/08/2014, Boise State, New Mexico,60.0,49.0, Boise State
+39,2014,11/08/2014, Hawai'i, Colorado State,22.0,49.0, Colorado State
+40,2014,11/08/2014, UCLA, Washington,44.0,30.0, UCLA
+41,2014,11/08/2014, Louisville, Boston College,38.0,19.0, Louisville
+42,2014,11/08/2014, Kansas State, TCU,20.0,41.0, TCU
+43,2014,11/08/2014, Florida, Vanderbilt,34.0,10.0, Florida
+44,2014,11/08/2014, Alabama, LSU,20.0,13.0, Alabama
+45,2014,11/08/2014, Louisiana-Lafayette, New Mexico State,44.0,16.0, Louisiana-Lafayette
+46,2014,11/08/2014, Ohio State, Michigan State,49.0,37.0, Ohio State
+47,2014,11/08/2014, Colorado, Arizona,20.0,38.0, Arizona
+48,2014,11/08/2014, Oregon, Utah,51.0,27.0, Oregon
+49,2014,11/08/2014, San Jose State, Fresno State,24.0,38.0, Fresno State
+0,2014,11/11/2014, Akron, Buffalo,24.0,55.0, Buffalo
+1,2014,11/11/2014, Toledo, Northern Illinois,24.0,27.0, Northern Illinois
+2,2014,11/12/2014, Ball State, Massachusetts,10.0,24.0, Massachusetts
+3,2014,11/12/2014, Kent State, Bowling Green,20.0,30.0, Bowling Green
+4,2014,11/13/2014, East Carolina, Cincinnati,46.0,54.0, Cincinnati
+5,2014,11/13/2014, Southern Mississippi, UTSA,10.0,12.0, UTSA
+6,2014,11/13/2014, California, USC,30.0,38.0, USC
+7,2014,11/14/2014, Tulsa, UCF,7.0,31.0, UCF
+8,2014,11/15/2014, Ohio State, Minnesota,31.0,24.0, Ohio State
+9,2014,11/15/2014, Temple, Penn State,13.0,30.0, Penn State
+10,2014,11/15/2014, Clemson, Georgia Tech,6.0,28.0, Georgia Tech
+11,2014,11/15/2014, Virginia Tech, Duke,17.0,16.0, Virginia Tech
+12,2014,11/15/2014, Army, Western Kentucky,24.0,52.0, Western Kentucky
+13,2014,11/15/2014, Iowa, Illinois,30.0,14.0, Iowa
+14,2014,11/15/2014, South Carolina, Florida,23.0,20.0, South Carolina
+15,2014,11/15/2014, Pittsburgh, North Carolina,35.0,40.0, North Carolina
+16,2014,11/15/2014, Miami (Ohio), Central Michigan,27.0,34.0, Central Michigan
+17,2014,11/15/2014, Nevada, Air Force,38.0,45.0, Air Force
+18,2014,11/15/2014, Eastern Michigan, Western Michigan,7.0,51.0, Western Michigan
+19,2014,11/15/2014, Rice, Marshall,14.0,41.0, Marshall
+20,2014,11/15/2014, Wake Forest, North Carolina State,13.0,42.0, North Carolina State
+21,2014,11/15/2014, TCU, Kansas,34.0,30.0, TCU
+22,2014,11/15/2014, Appalachian State, Arkansas State,37.0,32.0, Appalachian State
+23,2014,11/15/2014, Georgia Southern, Navy,19.0,52.0, Navy
+24,2014,11/15/2014, Mississippi State, Alabama,20.0,25.0, Alabama
+25,2014,11/15/2014, Memphis, Tulane,38.0,7.0, Memphis
+26,2014,11/15/2014, Nebraska, Wisconsin,24.0,59.0, Wisconsin
+27,2014,11/15/2014, Northwestern, Notre Dame,43.0,40.0, Northwestern
+28,2014,11/15/2014, Middle Tennessee, Florida International,28.0,38.0, Florida International
+29,2014,11/15/2014, Oklahoma, Texas Tech,42.0,30.0, Oklahoma
+30,2014,11/15/2014, Indiana, Rutgers,23.0,45.0, Rutgers
+31,2014,11/15/2014, Washington, Arizona,26.0,27.0, Arizona
+32,2014,11/15/2014, New Mexico, Utah State,21.0,28.0, Utah State
+33,2014,11/15/2014, Kentucky, Tennessee,16.0,50.0, Tennessee
+34,2014,11/15/2014, Hawai'i, San Jose State,13.0,0.0, Hawai'i
+35,2014,11/15/2014, Troy, Idaho,34.0,17.0, Troy
+36,2014,11/15/2014, Utah, Stanford,20.0,17.0, Utah
+37,2014,11/15/2014, Louisiana-Lafayette, Louisiana-Monroe,34.0,27.0, Louisiana-Lafayette
+38,2014,11/15/2014, UNLV, BYU,23.0,42.0, BYU
+39,2014,11/15/2014, Auburn, Georgia,7.0,34.0, Georgia
+40,2014,11/15/2014, Texas State, South Alabama,20.0,24.0, South Alabama
+41,2014,11/15/2014, Missouri, Texas A&M,34.0,27.0, Missouri
+42,2014,11/15/2014, Texas, Oklahoma State,28.0,7.0, Texas
+43,2014,11/15/2014, Florida State, Miami (Florida),30.0,26.0, Florida State
+44,2014,11/15/2014, South Florida, SMU,14.0,13.0, South Florida
+45,2014,11/15/2014, Michigan State, Maryland,37.0,15.0, Michigan State
+46,2014,11/15/2014, LSU, Arkansas,0.0,17.0, Arkansas
+47,2014,11/15/2014, North Texas, UTEP,17.0,35.0, UTEP
+48,2014,11/15/2014, San Diego State, Boise State,29.0,38.0, Boise State
+49,2014,11/15/2014, Arizona State, Oregon State,27.0,35.0, Oregon State
+0,2014,11/18/2014, Massachusetts, Akron,6.0,30.0, Akron
+1,2014,11/18/2014, Northern Illinois, Ohio,21.0,14.0, Northern Illinois
+2,2014,11/19/2014, Bowling Green, Toledo,20.0,27.0, Toledo
+3,2014,11/20/2014, Kansas State, West Virginia,26.0,20.0, Kansas State
+4,2014,11/20/2014, North Carolina, Duke,45.0,20.0, North Carolina
+5,2014,11/20/2014, Arkansas State, Texas State,27.0,45.0, Texas State
+6,2014,11/21/2014, UTEP, Rice,13.0,31.0, Rice
+7,2014,11/21/2014, Air Force, San Diego State,14.0,30.0, San Diego State
+8,2014,11/21/2014, San Jose State, Utah State,7.0,41.0, Utah State
+9,2014,11/22/2014, South Alabama, South Carolina,12.0,37.0, South Carolina
+10,2014,11/22/2014, Fordham, Army,31.0,42.0, Army
+11,2014,11/22/2014, Eastern Kentucky, Florida,3.0,52.0, Florida
+12,2014,11/22/2014, Charleston So., Georgia,9.0,55.0, Georgia
+13,2014,11/22/2014, Minnesota, Nebraska,28.0,24.0, Minnesota
+14,2014,11/22/2014, Northwestern, Purdue,38.0,14.0, Northwestern
+15,2014,11/22/2014, Rutgers, Michigan State,3.0,45.0, Michigan State
+16,2014,11/22/2014, Marshall, UAB,23.0,18.0, Marshall
+17,2014,11/22/2014, UTSA, Western Kentucky,7.0,45.0, Western Kentucky
+18,2014,11/22/2014, SMU, UCF,7.0,53.0, UCF
+19,2014,11/22/2014, Tulsa, Houston,28.0,38.0, Houston
+20,2014,11/22/2014, Penn State, Illinois,14.0,16.0, Illinois
+21,2014,11/22/2014, Indiana, Ohio State,27.0,42.0, Ohio State
+22,2014,11/22/2014, Virginia Tech, Wake Forest,3.0,6.0, Wake Forest
+23,2014,11/22/2014, Louisiana Tech, Old Dominion,27.0,30.0, Old Dominion
+24,2014,11/22/2014, Western Michigan, Central Michigan,32.0,20.0, Western Michigan
+25,2014,11/22/2014, Washington State, Arizona State,31.0,52.0, Arizona State
+26,2014,11/22/2014, New Mexico, Colorado State,20.0,58.0, Colorado State
+27,2014,11/22/2014, Kansas, Oklahoma,7.0,44.0, Oklahoma
+28,2014,11/22/2014, Eastern Michigan, Ball State,30.0,45.0, Ball State
+29,2014,11/22/2014, Appalachian State, Louisiana-Lafayette,35.0,16.0, Appalachian State
+30,2014,11/22/2014, Savannah State, BYU,0.0,64.0, BYU
+31,2014,11/22/2014, Mississippi, Arkansas,0.0,30.0, Arkansas
+32,2014,11/22/2014, Arizona, Utah,42.0,10.0, Arizona
+33,2014,11/22/2014, Florida International, North Texas,14.0,17.0, North Texas
+34,2014,11/22/2014, Tulane, East Carolina,6.0,34.0, East Carolina
+35,2014,11/22/2014, Syracuse, Pittsburgh,7.0,30.0, Pittsburgh
+36,2014,11/22/2014, Texas Tech, Iowa State,34.0,31.0, Texas Tech
+37,2014,11/22/2014, Wisconsin, Iowa,26.0,24.0, Wisconsin
+38,2014,11/22/2014, Maryland, Michigan,23.0,16.0, Maryland
+39,2014,11/22/2014, Louisville, Notre Dame,31.0,28.0, Louisville
+40,2014,11/22/2014, Boston College, Florida State,17.0,20.0, Florida State
+41,2014,11/22/2014, Georgia State, Clemson,0.0,28.0, Clemson
+42,2014,11/22/2014, South Florida, Memphis,20.0,31.0, Memphis
+43,2014,11/22/2014, Stanford, California,38.0,17.0, Stanford
+44,2014,11/22/2014, Western Carolina, Alabama,14.0,48.0, Alabama
+45,2014,11/22/2014, Louisiana-Monroe, New Mexico State,30.0,17.0, Louisiana-Monroe
+46,2014,11/22/2014, Colorado, Oregon,10.0,44.0, Oregon
+47,2014,11/22/2014, Samford, Auburn,7.0,31.0, Auburn
+48,2014,11/22/2014, Miami (Florida), Virginia,13.0,30.0, Virginia
+49,2014,11/22/2014, Florida Atlantic, Middle Tennessee,34.0,35.0, Middle Tennessee
+50,2014,11/22/2014, Oklahoma State, Baylor,28.0,49.0, Baylor
+51,2014,11/22/2014, Missouri, Tennessee,29.0,21.0, Missouri
+52,2014,11/22/2014, USC, UCLA,20.0,38.0, UCLA
+53,2014,11/22/2014, Cincinnati, Connecticut,41.0,0.0, Cincinnati
+54,2014,11/22/2014, Boise State, Wyoming,63.0,14.0, Boise State
+55,2014,11/22/2014, Fresno State, Nevada,40.0,20.0, Fresno State
+56,2014,11/22/2014, Oregon State, Washington,13.0,37.0, Washington
+57,2014,11/22/2014, UNLV, Hawai'i,35.0,37.0, Hawai'i
+0,2014,11/25/2014, Ohio, Miami (Ohio),24.0,21.0, Ohio
+1,2014,11/27/2014, LSU, Texas A&M,23.0,17.0, LSU
+2,2014,11/27/2014, TCU, Texas,48.0,10.0, TCU
+3,2014,11/28/2014, Northern Illinois, Western Michigan,31.0,21.0, Northern Illinois
+4,2014,11/28/2014, Nebraska, Iowa,37.0,34.0, Nebraska
+5,2014,11/28/2014, Western Kentucky, Marshall,67.0,66.0, Western Kentucky
+6,2014,11/28/2014, UCF, South Florida,16.0,0.0, UCF
+7,2014,11/28/2014, Houston, SMU,35.0,9.0, Houston
+8,2014,11/28/2014, Toledo, Eastern Michigan,52.0,16.0, Toledo
+9,2014,11/28/2014, Ball State, Bowling Green,41.0,24.0, Ball State
+10,2014,11/28/2014, Buffalo, Massachusetts,41.0,21.0, Buffalo
+11,2014,11/28/2014, Akron, Kent State,24.0,27.0, Kent State
+12,2014,11/28/2014, Arkansas, Missouri,14.0,21.0, Missouri
+13,2014,11/28/2014, Navy, South Alabama,42.0,40.0, Navy
+14,2014,11/28/2014, Arizona State, Arizona,35.0,42.0, Arizona
+15,2014,11/28/2014, Stanford, UCLA,31.0,10.0, Stanford
+16,2014,11/28/2014, Colorado State, Air Force,24.0,27.0, Air Force
+17,2014,11/28/2014, Virginia, Virginia Tech,20.0,24.0, Virginia Tech
+18,2014,11/28/2014, East Carolina, Tulsa,49.0,32.0, East Carolina
+19,2014,11/29/2014, Cincinnati, Temple,14.0,6.0, Cincinnati
+20,2014,11/29/2014, South Carolina, Clemson,17.0,35.0, Clemson
+21,2014,11/29/2014, Georgia Tech, Georgia,30.0,24.0, Georgia Tech
+22,2014,11/29/2014, Kentucky, Louisville,40.0,44.0, Louisville
+23,2014,11/29/2014, West Virginia, Iowa State,37.0,24.0, West Virginia
+24,2014,11/29/2014, Michigan, Ohio State,28.0,42.0, Ohio State
+25,2014,11/29/2014, North Texas, UTSA,27.0,34.0, UTSA
+26,2014,11/29/2014, Old Dominion, Florida Atlantic,31.0,28.0, Old Dominion
+27,2014,11/29/2014, Rice, Louisiana Tech,31.0,76.0, Louisiana Tech
+28,2014,11/29/2014, Illinois, Northwestern,47.0,33.0, Illinois
+29,2014,11/29/2014, Purdue, Indiana,16.0,23.0, Indiana
+30,2014,11/29/2014, North Carolina State, North Carolina,35.0,7.0, North Carolina State
+31,2014,11/29/2014, Syracuse, Boston College,7.0,28.0, Boston College
+32,2014,11/29/2014, Louisiana-Lafayette, Troy,42.0,23.0, Louisiana-Lafayette
+33,2014,11/29/2014, Utah, Colorado,38.0,34.0, Utah
+34,2014,11/29/2014, Texas State, Georgia State,54.0,31.0, Texas State
+35,2014,11/29/2014, Idaho, Appalachian State,28.0,45.0, Appalachian State
+36,2014,11/29/2014, New Mexico State, Arkansas State,35.0,68.0, Arkansas State
+37,2014,11/29/2014, Wyoming, New Mexico,30.0,36.0, New Mexico
+38,2014,11/29/2014, San Jose State, San Diego State,7.0,38.0, San Diego State
+39,2014,11/29/2014, Notre Dame, USC,14.0,49.0, USC
+40,2014,11/29/2014, Mississippi State, Mississippi,17.0,31.0, Mississippi
+41,2014,11/29/2014, Florida, Florida State,19.0,24.0, Florida State
+42,2014,11/29/2014, Baylor, Texas Tech,48.0,46.0, Baylor
+43,2014,11/29/2014, Rutgers, Maryland,41.0,38.0, Rutgers
+44,2014,11/29/2014, UAB, Southern Mississippi,45.0,24.0, UAB
+45,2014,11/29/2014, Michigan State, Penn State,34.0,10.0, Michigan State
+46,2014,11/29/2014, Minnesota, Wisconsin,24.0,34.0, Wisconsin
+47,2014,11/29/2014, Kansas, Kansas State,13.0,51.0, Kansas State
+48,2014,11/29/2014, Connecticut, Memphis,10.0,41.0, Memphis
+49,2014,11/29/2014, Tennessee, Vanderbilt,24.0,17.0, Tennessee
+50,2014,11/29/2014, BYU, California,42.0,35.0, BYU
+51,2014,11/29/2014, Louisiana-Monroe, Georgia Southern,16.0,22.0, Georgia Southern
+52,2014,11/29/2014, Hawai'i, Fresno State,21.0,28.0, Fresno State
+53,2014,11/29/2014, Wake Forest, Duke,21.0,41.0, Duke
+54,2014,11/29/2014, Pittsburgh, Miami (Florida),35.0,23.0, Pittsburgh
+55,2014,11/29/2014, Middle Tennessee, UTEP,21.0,24.0, UTEP
+56,2014,11/29/2014, Auburn, Alabama,44.0,55.0, Alabama
+57,2014,11/29/2014, Oregon, Oregon State,47.0,19.0, Oregon
+58,2014,11/29/2014, Utah State, Boise State,19.0,50.0, Boise State
+59,2014,11/29/2014, Washington, Washington State,31.0,13.0, Washington
+60,2014,11/29/2014, Nevada, UNLV,49.0,27.0, Nevada
+0,2014,09/04/2014, Arizona, UTSA,26.0,23.0, Arizona
+1,2014,09/05/2014, Pittsburgh, Boston College,30.0,20.0, Pittsburgh
+2,2014,09/05/2014, Washington State, Nevada,13.0,24.0, Nevada
+3,2014,09/06/2014, Arkansas State, Tennessee,19.0,34.0, Tennessee
+4,2014,09/06/2014, Buffalo, Army,39.0,47.0, Army
+5,2014,09/06/2014, Florida Atlantic, Alabama,0.0,41.0, Alabama
+6,2014,09/06/2014, McNeese State, Nebraska,24.0,31.0, Nebraska
+7,2014,09/06/2014, Missouri, Toledo,49.0,24.0, Missouri
+8,2014,09/06/2014, Oklahoma, Tulsa,52.0,7.0, Oklahoma
+9,2014,09/06/2014, Stony Brook, Connecticut,16.0,19.0, Connecticut
+10,2014,09/06/2014, SMU, North Texas,6.0,43.0, North Texas
+11,2014,09/06/2014, Kansas State, Iowa State,32.0,28.0, Kansas State
+12,2014,09/06/2014, Western Kentucky, Illinois,34.0,42.0, Illinois
+13,2014,09/06/2014, Akron, Penn State,3.0,21.0, Penn State
+14,2014,09/06/2014, Central Michigan, Purdue,38.0,17.0, Central Michigan
+15,2014,09/06/2014, Howard, Rutgers,25.0,38.0, Rutgers
+16,2014,09/06/2014, Western Illinois, Wisconsin,3.0,37.0, Wisconsin
+17,2014,09/06/2014, South Carolina State, Clemson,7.0,73.0, Clemson
+18,2014,09/06/2014, Navy, Temple,31.0,24.0, Navy
+19,2014,09/06/2014, South Alabama, Kent State,23.0,13.0, South Alabama
+20,2014,09/06/2014, UAB, Mississippi State,34.0,47.0, Mississippi State
+21,2014,09/06/2014, New Mexico State, Georgia State,34.0,31.0, New Mexico State
+22,2014,09/06/2014, Fresno State, Utah,27.0,59.0, Utah
+23,2014,09/06/2014, Sacramento State, California,14.0,55.0, California
+24,2014,09/06/2014, Colorado, Massachusetts,41.0,38.0, Colorado
+25,2014,09/06/2014, Eastern Washington, Washington,52.0,59.0, Washington
+26,2014,09/06/2014, USC, Stanford,13.0,10.0, USC
+27,2014,09/06/2014, Eastern Kentucky, Miami (Ohio),17.0,10.0, Eastern Kentucky
+28,2014,09/06/2014, Virginia Military, Bowling Green,7.0,48.0, Bowling Green
+29,2014,09/06/2014, Ohio, Kentucky,3.0,20.0, Kentucky
+30,2014,09/06/2014, Northern Illinois, Northwestern,23.0,15.0, Northern Illinois
+31,2014,09/06/2014, Maryland, South Florida,24.0,17.0, Maryland
+32,2014,09/06/2014, Ball State, Iowa,13.0,17.0, Iowa
+33,2014,09/06/2014, Middle Tennessee, Minnesota,24.0,35.0, Minnesota
+34,2014,09/06/2014, Missouri State, Oklahoma State,23.0,40.0, Oklahoma State
+35,2014,09/06/2014, Richmond, Virginia,13.0,45.0, Virginia
+36,2014,09/06/2014, Georgia Tech, Tulane,38.0,21.0, Georgia Tech
+37,2014,09/06/2014, Eastern Michigan, Florida,0.0,65.0, Florida
+38,2014,09/06/2014, Nicholls State, Arkansas,7.0,73.0, Arkansas
+39,2014,09/06/2014, Mississippi, Vanderbilt,41.0,3.0, Mississippi
+40,2014,09/06/2014, Campbell, Appalachian State,0.0,66.0, Appalachian State
+41,2014,09/06/2014, Old Dominion, North Carolina State,34.0,46.0, North Carolina State
+42,2014,09/06/2014, Wagner, Florida International,3.0,34.0, Florida International
+43,2014,09/06/2014, Savannah State, Georgia Southern,9.0,83.0, Georgia Southern
+44,2014,09/06/2014, Michigan State, Oregon,27.0,46.0, Oregon
+45,2014,09/06/2014, Gardner-Webb, Wake Forest,7.0,23.0, Wake Forest
+46,2014,09/06/2014, Southeast Missouri State, Kansas,28.0,34.0, Kansas
+47,2014,09/06/2014, Murray State, Louisville,21.0,66.0, Louisville
+48,2014,09/06/2014, Florida A&M, Miami (Florida),7.0,41.0, Miami (Florida)
+49,2014,09/06/2014, Duke, Troy,34.0,17.0, Duke
+50,2014,09/06/2014, East Carolina, South Carolina,23.0,33.0, South Carolina
+51,2014,09/06/2014, Arizona State, New Mexico,58.0,23.0, Arizona State
+52,2014,09/06/2014, San Jose State, Auburn,13.0,59.0, Auburn
+53,2014,09/06/2014, Louisiana Tech, Louisiana-Lafayette,48.0,20.0, Louisiana Tech
+54,2014,09/06/2014, Rhode Island, Marshall,7.0,48.0, Marshall
+55,2014,09/06/2014, Alcorn St., Southern Mississippi,20.0,26.0, Southern Mississippi
+56,2014,09/06/2014, Idaho, Louisiana-Monroe,31.0,38.0, Louisiana-Monroe
+57,2014,09/06/2014, Lamar, Texas A&M,3.0,73.0, Texas A&M
+58,2014,09/06/2014, Sam Houston State, LSU,0.0,56.0, LSU
+59,2014,09/06/2014, Citadel, Florida State,12.0,37.0, Florida State
+60,2014,09/06/2014, BYU, Texas,41.0,7.0, BYU
+61,2014,09/06/2014, Towson, West Virginia,0.0,54.0, West Virginia
+62,2014,09/06/2014, Northwestern State, Baylor,6.0,70.0, Baylor
+63,2014,09/06/2014, Michigan, Notre Dame,0.0,31.0, Notre Dame
+64,2014,09/06/2014, Virginia Tech, Ohio State,35.0,21.0, Virginia Tech
+65,2014,09/06/2014, San Diego State, North Carolina,27.0,31.0, North Carolina
+66,2014,09/06/2014, Grambling, Houston,0.0,47.0, Houston
+67,2014,09/06/2014, Idaho State, Utah State,20.0,40.0, Utah State
+68,2014,09/06/2014, Northern Colorado, UNLV,12.0,13.0, UNLV
+69,2014,09/06/2014, Memphis, UCLA,35.0,42.0, UCLA
+70,2014,09/06/2014, Air Force, Wyoming,13.0,17.0, Wyoming
+71,2014,09/06/2014, Colorado State, Boise State,24.0,37.0, Boise State
+72,2014,09/06/2014, Oregon State, Hawai'i,38.0,30.0, Oregon State
+73,2014,09/06/2014, Texas Tech, UTEP,30.0,26.0, Texas Tech
+0,2014,09/11/2014, Louisiana Tech, North Texas,42.0,21.0, Louisiana Tech
+1,2014,09/11/2014, Houston, BYU,25.0,33.0, BYU
+2,2014,09/12/2014, Toledo, Cincinnati,34.0,58.0, Cincinnati
+3,2014,09/12/2014, Baylor, Buffalo,63.0,21.0, Baylor
+4,2014,09/13/2014, Indiana, Bowling Green,42.0,45.0, Bowling Green
+5,2014,09/13/2014, Kent State, Ohio State,0.0,66.0, Ohio State
+6,2014,09/13/2014, Ohio, Marshall,14.0,44.0, Marshall
+7,2014,09/13/2014, UCF, Missouri,10.0,38.0, Missouri
+8,2014,09/13/2014, Boise State, Connecticut,38.0,21.0, Boise State
+9,2014,09/13/2014, East Carolina, Virginia Tech,28.0,21.0, East Carolina
+10,2014,09/13/2014, Georgia Southern, Georgia Tech,38.0,42.0, Georgia Tech
+11,2014,09/13/2014, Pittsburgh, Florida International,42.0,25.0, Pittsburgh
+12,2014,09/13/2014, Syracuse, Central Michigan,40.0,3.0, Syracuse
+13,2014,09/13/2014, West Virginia, Maryland,40.0,37.0, West Virginia
+14,2014,09/13/2014, Massachusetts, Vanderbilt,31.0,34.0, Vanderbilt
+15,2014,09/13/2014, Louisville, Virginia,21.0,23.0, Virginia
+16,2014,09/13/2014, Air Force, Georgia State,48.0,38.0, Air Force
+17,2014,09/13/2014, Wyoming, Oregon,14.0,48.0, Oregon
+18,2014,09/13/2014, UC Davis, Colorado State,21.0,49.0, Colorado State
+19,2014,09/13/2014, Indiana State, Ball State,27.0,20.0, Indiana State
+20,2014,09/13/2014, Alabama A&M, UAB,14.0,41.0, UAB
+21,2014,09/13/2014, Kansas, Duke,3.0,41.0, Duke
+22,2014,09/13/2014, Miami (Ohio), Michigan,10.0,34.0, Michigan
+23,2014,09/13/2014, Arkansas State, Miami (Florida),20.0,41.0, Miami (Florida)
+24,2014,09/13/2014, North Carolina State, South Florida,49.0,17.0, North Carolina State
+25,2014,09/13/2014, Arkansas, Texas Tech,49.0,28.0, Arkansas
+26,2014,09/13/2014, Iowa State, Iowa,20.0,17.0, Iowa State
+27,2014,09/13/2014, Georgia, South Carolina,35.0,38.0, South Carolina
+28,2014,09/13/2014, Louisiana-Lafayette, Mississippi,15.0,56.0, Mississippi
+29,2014,09/13/2014, Mississippi State, South Alabama,35.0,3.0, Mississippi State
+30,2014,09/13/2014, Minnesota, TCU,7.0,30.0, TCU
+31,2014,09/13/2014, Illinois, Washington,19.0,44.0, Washington
+32,2014,09/13/2014, Army, Stanford,0.0,35.0, Stanford
+33,2014,09/13/2014, Western Michigan, Idaho,45.0,33.0, Western Michigan
+34,2014,09/13/2014, Southern Mississippi, Alabama,12.0,52.0, Alabama
+35,2014,09/13/2014, Eastern Michigan, Old Dominion,3.0,17.0, Old Dominion
+36,2014,09/13/2014, Northern Illinois, UNLV,48.0,34.0, Northern Illinois
+37,2014,09/13/2014, Western Kentucky, Middle Tennessee,47.0,50.0, Middle Tennessee
+38,2014,09/13/2014, UTSA, Oklahoma State,13.0,43.0, Oklahoma State
+39,2014,09/13/2014, Wake Forest, Utah State,24.0,36.0, Utah State
+40,2014,09/13/2014, Tulsa, Florida Atlantic,21.0,50.0, Florida Atlantic
+41,2014,09/13/2014, Louisiana-Monroe, LSU,0.0,31.0, LSU
+42,2014,09/13/2014, Abilene Christian, Troy,38.0,35.0, Abilene Christian
+43,2014,09/13/2014, Kentucky, Florida,30.0,36.0, Florida
+44,2014,09/13/2014, Purdue, Notre Dame,14.0,30.0, Notre Dame
+45,2014,09/13/2014, Penn State, Rutgers,13.0,10.0, Penn State
+46,2014,09/13/2014, New Mexico State, UTEP,24.0,42.0, UTEP
+47,2014,09/13/2014, USC, Boston College,31.0,37.0, Boston College
+48,2014,09/13/2014, Southeastern Louisiana, Tulane,20.0,35.0, Tulane
+49,2014,09/13/2014, Tennessee, Oklahoma,10.0,34.0, Oklahoma
+50,2014,09/13/2014, Navy, Texas State,35.0,21.0, Navy
+51,2014,09/13/2014, Portland State, Washington State,21.0,59.0, Washington State
+52,2014,09/13/2014, UCLA, Texas,20.0,17.0, UCLA
+53,2014,09/13/2014, Rice, Texas A&M,10.0,38.0, Texas A&M
+54,2014,09/13/2014, Arizona State, Colorado,38.0,24.0, Arizona State
+55,2014,09/13/2014, Nebraska, Fresno State,55.0,19.0, Nebraska
+56,2014,09/13/2014, Nevada, Arizona,28.0,35.0, Arizona
+57,2014,09/14/2014, Northern Iowa, Hawai'i,24.0,27.0, Hawai'i
+0,2014,09/18/2014, Auburn, Kansas State,20.0,14.0, Auburn
+1,2014,09/19/2014, Connecticut, South Florida,14.0,17.0, South Florida
+2,2014,09/20/2014, Georgia Tech, Virginia Tech,27.0,24.0, Georgia Tech
+3,2014,09/20/2014, Iowa, Pittsburgh,24.0,20.0, Iowa
+4,2014,09/20/2014, Eastern Michigan, Michigan State,14.0,73.0, Michigan State
+5,2014,09/20/2014, Western Illinois, Northwestern,7.0,24.0, Northwestern
+6,2014,09/20/2014, Southern Illinois, Purdue,13.0,35.0, Purdue
+7,2014,09/20/2014, Bowling Green, Wisconsin,17.0,68.0, Wisconsin
+8,2014,09/20/2014, Old Dominion, Rice,45.0,42.0, Old Dominion
+9,2014,09/20/2014, Troy, Georgia,0.0,66.0, Georgia
+10,2014,09/20/2014, Maryland, Syracuse,34.0,20.0, Maryland
+11,2014,09/20/2014, Tulane, Duke,13.0,47.0, Duke
+12,2014,09/20/2014, Maine, Boston College,10.0,40.0, Boston College
+13,2014,09/20/2014, Delaware State, Temple,0.0,59.0, Temple
+14,2014,09/20/2014, Marshall, Akron,48.0,17.0, Marshall
+15,2014,09/20/2014, Hawai'i, Colorado,12.0,21.0, Colorado
+16,2014,09/20/2014, Nicholls State, North Texas,3.0,77.0, North Texas
+17,2014,09/20/2014, Norfolk State, Buffalo,7.0,36.0, Buffalo
+18,2014,09/20/2014, Florida, Alabama,21.0,42.0, Alabama
+19,2014,09/20/2014, Texas A&M, SMU,58.0,6.0, Texas A&M
+20,2014,09/20/2014, North Carolina, East Carolina,41.0,70.0, East Carolina
+21,2014,09/20/2014, Virginia, BYU,33.0,41.0, BYU
+22,2014,09/20/2014, Army, Wake Forest,21.0,24.0, Wake Forest
+23,2014,09/20/2014, Louisville, Florida International,34.0,3.0, Louisville
+24,2014,09/20/2014, Central Michigan, Kansas,10.0,24.0, Kansas
+25,2014,09/20/2014, Rutgers, Navy,31.0,24.0, Rutgers
+26,2014,09/20/2014, Utah, Michigan,26.0,10.0, Utah
+27,2014,09/20/2014, Texas State, Illinois,35.0,42.0, Illinois
+28,2014,09/20/2014, Indiana, Missouri,31.0,27.0, Indiana
+29,2014,09/20/2014, Massachusetts, Penn State,7.0,48.0, Penn State
+30,2014,09/20/2014, San Jose State, Minnesota,7.0,24.0, Minnesota
+31,2014,09/20/2014, Florida Atlantic, Wyoming,19.0,20.0, Wyoming
+32,2014,09/20/2014, Presbyterian, North Carolina State,0.0,42.0, North Carolina State
+33,2014,09/20/2014, Bethune-Cookman, UCF,7.0,41.0, UCF
+34,2014,09/20/2014, Georgia State, Washington,14.0,45.0, Washington
+35,2014,09/20/2014, Mississippi State, LSU,34.0,29.0, Mississippi State
+36,2014,09/20/2014, Northern Illinois, Arkansas,14.0,52.0, Arkansas
+37,2014,09/20/2014, Utah State, Arkansas State,14.0,21.0, Arkansas State
+38,2014,09/20/2014, Miami (Ohio), Cincinnati,24.0,31.0, Cincinnati
+39,2014,09/20/2014, Middle Tennessee, Memphis,17.0,36.0, Memphis
+40,2014,09/20/2014, Northwestern State, Louisiana Tech,30.0,27.0, Northwestern State
+41,2014,09/20/2014, Appalachian State, Southern Mississippi,20.0,21.0, Southern Mississippi
+42,2014,09/20/2014, Ball State, Toledo,23.0,34.0, Toledo
+43,2014,09/20/2014, Idaho, Ohio,24.0,36.0, Ohio
+44,2014,09/20/2014, Murray State, Western Michigan,14.0,45.0, Western Michigan
+45,2014,09/20/2014, Oklahoma, West Virginia,45.0,33.0, Oklahoma
+46,2014,09/20/2014, South Carolina, Vanderbilt,48.0,34.0, South Carolina
+47,2014,09/20/2014, Georgia Southern, South Alabama,28.0,6.0, Georgia Southern
+48,2014,09/20/2014, UNLV, Houston,14.0,47.0, Houston
+49,2014,09/20/2014, New Mexico, New Mexico State,38.0,35.0, New Mexico
+50,2014,09/20/2014, Miami (Florida), Nebraska,31.0,41.0, Nebraska
+51,2014,09/20/2014, Clemson, Florida State,17.0,23.0, Florida State
+52,2014,09/20/2014, California, Arizona,45.0,49.0, Arizona
+53,2014,09/20/2014, Southern Utah, Fresno State,16.0,56.0, Fresno State
+54,2014,09/20/2014, Oregon, Washington State,38.0,31.0, Oregon
+55,2014,09/20/2014, San Diego State, Oregon State,7.0,28.0, Oregon State
+56,2014,09/20/2014, Louisiana-Lafayette, Boise State,9.0,34.0, Boise State
+0,2014,09/25/2014, Texas Tech, Oklahoma State,35.0,45.0, Oklahoma State
+1,2014,09/25/2014, Appalachian State, Georgia Southern,14.0,34.0, Georgia Southern
+2,2014,09/25/2014, UCLA, Arizona State,62.0,27.0, UCLA
+3,2014,09/26/2014, Fresno State, New Mexico,35.0,24.0, Fresno State
+4,2014,09/26/2014, Middle Tennessee, Old Dominion,41.0,28.0, Middle Tennessee
+5,2014,09/27/2014, Iowa, Purdue,24.0,10.0, Iowa
+6,2014,09/27/2014, UTEP, Kansas State,28.0,58.0, Kansas State
+7,2014,09/27/2014, Wyoming, Michigan State,14.0,56.0, Michigan State
+8,2014,09/27/2014, Northwestern, Penn State,29.0,6.0, Northwestern
+9,2014,09/27/2014, TCU, SMU,56.0,0.0, TCU
+10,2014,09/27/2014, South Florida, Wisconsin,10.0,27.0, Wisconsin
+11,2014,09/27/2014, Tulane, Rutgers,6.0,31.0, Rutgers
+12,2014,09/27/2014, Tennessee, Georgia,32.0,35.0, Georgia
+13,2014,09/27/2014, Vanderbilt, Kentucky,7.0,17.0, Kentucky
+14,2014,09/27/2014, Colorado State, Boston College,24.0,21.0, Colorado State
+15,2014,09/27/2014, Western Michigan, Virginia Tech,17.0,35.0, Virginia Tech
+16,2014,09/27/2014, Army, Yale,43.0,49.0, Yale
+17,2014,09/27/2014, Akron, Pittsburgh,21.0,10.0, Akron
+18,2014,09/27/2014, Maryland, Indiana,37.0,15.0, Maryland
+19,2014,09/27/2014, Eastern Illinois, Ohio,19.0,34.0, Ohio
+20,2014,09/27/2014, Bowling Green, Massachusetts,47.0,42.0, Bowling Green
+21,2014,09/27/2014, Western Kentucky, Navy,36.0,27.0, Western Kentucky
+22,2014,09/27/2014, Minnesota, Michigan,30.0,14.0, Minnesota
+23,2014,09/27/2014, Kent State, Virginia,13.0,45.0, Virginia
+24,2014,09/27/2014, Florida International, UAB,34.0,20.0, Florida International
+25,2014,09/27/2014, Florida State, North Carolina State,56.0,41.0, Florida State
+26,2014,09/27/2014, Wake Forest, Louisville,10.0,20.0, Louisville
+27,2014,09/27/2014, Miami (Ohio), Buffalo,27.0,35.0, Buffalo
+28,2014,09/27/2014, Arkansas, Texas A&M,28.0,35.0, Texas A&M
+29,2014,09/27/2014, Colorado, California,56.0,59.0, California
+30,2014,09/27/2014, Temple, Connecticut,36.0,10.0, Temple
+31,2014,09/27/2014, Louisiana Tech, Auburn,17.0,45.0, Auburn
+32,2014,09/27/2014, Texas, Kansas,23.0,0.0, Texas
+33,2014,09/27/2014, Stanford, Washington,20.0,13.0, Stanford
+34,2014,09/27/2014, South Alabama, Idaho,34.0,10.0, South Alabama
+35,2014,09/27/2014, UTSA, Florida Atlantic,37.0,41.0, Florida Atlantic
+36,2014,09/27/2014, Cincinnati, Ohio State,28.0,50.0, Ohio State
+37,2014,09/27/2014, North Carolina, Clemson,35.0,50.0, Clemson
+38,2014,09/27/2014, Central Michigan, Toledo,28.0,42.0, Toledo
+39,2014,09/27/2014, Rice, Southern Mississippi,41.0,23.0, Rice
+40,2014,09/27/2014, Troy, Louisiana-Monroe,20.0,22.0, Louisiana-Monroe
+41,2014,09/27/2014, Missouri, South Carolina,21.0,20.0, Missouri
+42,2014,09/27/2014, Boise State, Air Force,14.0,28.0, Air Force
+43,2014,09/27/2014, New Mexico State, LSU,7.0,63.0, LSU
+44,2014,09/27/2014, Duke, Miami (Florida),10.0,22.0, Miami (Florida)
+45,2014,09/27/2014, Memphis, Mississippi,3.0,24.0, Mississippi
+46,2014,09/27/2014, Texas State, Tulsa,37.0,34.0, Texas State
+47,2014,09/27/2014, Notre Dame, Syracuse,31.0,15.0, Notre Dame
+48,2014,09/27/2014, UNLV, San Diego State,17.0,34.0, San Diego State
+49,2014,09/27/2014, Washington State, Utah,28.0,27.0, Washington State
+50,2014,09/27/2014, Baylor, Iowa State,49.0,28.0, Baylor
+51,2014,09/27/2014, Illinois, Nebraska,14.0,45.0, Nebraska
+52,2014,09/27/2014, Oregon State, USC,10.0,35.0, USC
+53,2014,09/27/2014, Nevada, San Jose State,21.0,10.0, Nevada
+0,2014,10/02/2014, UCF, Houston,17.0,12.0, UCF
+1,2014,10/02/2014, Florida Atlantic, Florida International,10.0,38.0, Florida International
+2,2014,10/02/2014, Arizona, Oregon,31.0,24.0, Arizona
+3,2014,10/03/2014, Louisville, Syracuse,28.0,6.0, Louisville
+4,2014,10/03/2014, San Diego State, Fresno State,13.0,24.0, Fresno State
+5,2014,10/03/2014, Utah State, BYU,35.0,20.0, Utah State
+6,2014,10/04/2014, Florida, Tennessee,10.0,9.0, Florida
+7,2014,10/04/2014, Texas A&M, Mississippi State,31.0,48.0, Mississippi State
+8,2014,10/04/2014, SMU, East Carolina,24.0,45.0, East Carolina
+9,2014,10/04/2014, Iowa State, Oklahoma State,20.0,37.0, Oklahoma State
+10,2014,10/04/2014, Purdue, Illinois,38.0,27.0, Purdue
+11,2014,10/04/2014, Marshall, Old Dominion,56.0,14.0, Marshall
+12,2014,10/04/2014, Southern Mississippi, Middle Tennessee,31.0,37.0, Middle Tennessee
+13,2014,10/04/2014, Ohio State, Maryland,52.0,24.0, Ohio State
+14,2014,10/04/2014, Ball State, Army,24.0,33.0, Army
+15,2014,10/04/2014, Virginia Tech, North Carolina,34.0,17.0, Virginia Tech
+16,2014,10/04/2014, Eastern Michigan, Akron,6.0,31.0, Akron
+17,2014,10/04/2014, North Texas, Indiana,24.0,49.0, Indiana
+18,2014,10/04/2014, Massachusetts, Miami (Ohio),41.0,42.0, Miami (Ohio)
+19,2014,10/04/2014, Tulsa, Colorado State,17.0,42.0, Colorado State
+20,2014,10/04/2014, North Carolina State, Clemson,0.0,41.0, Clemson
+21,2014,10/04/2014, Wake Forest, Florida State,3.0,43.0, Florida State
+22,2014,10/04/2014, Baylor, Texas,28.0,7.0, Baylor
+23,2014,10/04/2014, Ohio, Central Michigan,10.0,28.0, Central Michigan
+24,2014,10/04/2014, Buffalo, Bowling Green,35.0,36.0, Bowling Green
+25,2014,10/04/2014, Oklahoma, TCU,33.0,37.0, TCU
+26,2014,10/04/2014, New Mexico, UTSA,21.0,9.0, New Mexico
+27,2014,10/04/2014, Wisconsin, Northwestern,14.0,20.0, Northwestern
+28,2014,10/04/2014, Stanford, Notre Dame,14.0,17.0, Notre Dame
+29,2014,10/04/2014, Alabama, Mississippi,17.0,23.0, Mississippi
+30,2014,10/04/2014, Navy, Air Force,21.0,30.0, Air Force
+31,2014,10/04/2014, Oregon State, Colorado,36.0,31.0, Oregon State
+32,2014,10/04/2014, Vanderbilt, Georgia,17.0,44.0, Georgia
+33,2014,10/04/2014, Kansas, West Virginia,14.0,33.0, West Virginia
+34,2014,10/04/2014, Kent State, Northern Illinois,14.0,17.0, Northern Illinois
+35,2014,10/04/2014, South Alabama, Appalachian State,47.0,21.0, South Alabama
+36,2014,10/04/2014, Louisiana-Monroe, Arkansas State,14.0,28.0, Arkansas State
+37,2014,10/04/2014, Georgia State, Louisiana-Lafayette,31.0,34.0, Louisiana-Lafayette
+38,2014,10/04/2014, LSU, Auburn,7.0,41.0, Auburn
+39,2014,10/04/2014, Hawai'i, Rice,14.0,28.0, Rice
+40,2014,10/04/2014, Idaho, Texas State,30.0,35.0, Texas State
+41,2014,10/04/2014, Toledo, Western Michigan,20.0,19.0, Toledo
+42,2014,10/04/2014, Michigan, Rutgers,24.0,26.0, Rutgers
+43,2014,10/04/2014, UAB, Western Kentucky,42.0,39.0, UAB
+44,2014,10/04/2014, UTEP, Louisiana Tech,3.0,55.0, Louisiana Tech
+45,2014,10/04/2014, Texas Tech, Kansas State,13.0,45.0, Kansas State
+46,2014,10/04/2014, Memphis, Cincinnati,41.0,14.0, Memphis
+47,2014,10/04/2014, Miami (Florida), Georgia Tech,17.0,28.0, Georgia Tech
+48,2014,10/04/2014, Pittsburgh, Virginia,19.0,24.0, Virginia
+49,2014,10/04/2014, Arizona State, USC,38.0,34.0, Arizona State
+50,2014,10/04/2014, South Carolina, Kentucky,38.0,45.0, Kentucky
+51,2014,10/04/2014, Georgia Southern, New Mexico State,36.0,28.0, Georgia Southern
+52,2014,10/04/2014, UNLV, San Jose State,10.0,33.0, San Jose State
+53,2014,10/04/2014, Nebraska, Michigan State,22.0,27.0, Michigan State
+54,2014,10/04/2014, Boise State, Nevada,51.0,46.0, Boise State
+55,2014,10/04/2014, Utah, UCLA,30.0,28.0, Utah
+56,2014,10/04/2014, California, Washington State,60.0,59.0, California
+0,2014,10/09/2014, BYU, UCF,24.0,31.0, UCF
+1,2014,10/10/2014, Washington State, Stanford,17.0,34.0, Stanford
+2,2014,10/10/2014, San Diego State, New Mexico,24.0,14.0, San Diego State
+3,2014,10/10/2014, Fresno State, UNLV,27.0,30.0, UNLV
+4,2014,10/11/2014, Middle Tennessee, Marshall,24.0,49.0, Marshall
+5,2014,10/11/2014, Rice, Army,41.0,21.0, Rice
+6,2014,10/11/2014, Cincinnati, Miami (Florida),34.0,55.0, Miami (Florida)
+7,2014,10/11/2014, Tulsa, Temple,24.0,35.0, Temple
+8,2014,10/11/2014, Florida State, Syracuse,38.0,20.0, Florida State
+9,2014,10/11/2014, West Virginia, Texas Tech,37.0,34.0, West Virginia
+10,2014,10/11/2014, Texas, Oklahoma,26.0,31.0, Oklahoma
+11,2014,10/11/2014, Illinois, Wisconsin,28.0,38.0, Wisconsin
+12,2014,10/11/2014, Indiana, Iowa,29.0,45.0, Iowa
+13,2014,10/11/2014, Northwestern, Minnesota,17.0,24.0, Minnesota
+14,2014,10/11/2014, Louisiana-Monroe, Kentucky,14.0,48.0, Kentucky
+15,2014,10/11/2014, Georgia, Missouri,34.0,0.0, Georgia
+16,2014,10/11/2014, Duke, Georgia Tech,31.0,25.0, Duke
+17,2014,10/11/2014, Buffalo, Eastern Michigan,27.0,37.0, Eastern Michigan
+18,2014,10/11/2014, Bowling Green, Ohio,31.0,13.0, Bowling Green
+19,2014,10/11/2014, Miami (Ohio), Akron,19.0,29.0, Akron
+20,2014,10/11/2014, Massachusetts, Kent State,40.0,17.0, Massachusetts
+21,2014,10/11/2014, Arkansas State, Georgia State,52.0,10.0, Arkansas State
+22,2014,10/11/2014, New Mexico State, Troy,24.0,41.0, Troy
+23,2014,10/11/2014, Western Michigan, Ball State,42.0,38.0, Western Michigan
+24,2014,10/11/2014, North Texas, UAB,21.0,56.0, UAB
+25,2014,10/11/2014, Michigan State, Purdue,45.0,31.0, Michigan State
+26,2014,10/11/2014, Toledo, Iowa State,30.0,37.0, Iowa State
+27,2014,10/11/2014, North Carolina, Notre Dame,43.0,50.0, Notre Dame
+28,2014,10/11/2014, TCU, Baylor,58.0,61.0, Baylor
+29,2014,10/11/2014, Boston College, North Carolina State,30.0,14.0, Boston College
+30,2014,10/11/2014, Louisville, Clemson,17.0,23.0, Clemson
+31,2014,10/11/2014, Virginia Military, Navy,14.0,51.0, Navy
+32,2014,10/11/2014, Auburn, Mississippi State,23.0,38.0, Mississippi State
+33,2014,10/11/2014, Liberty, Appalachian State,55.0,48.0, Liberty
+34,2014,10/11/2014, Oregon, UCLA,42.0,30.0, Oregon
+35,2014,10/11/2014, Chattanooga, Tennessee,10.0,45.0, Tennessee
+36,2014,10/11/2014, Oklahoma State, Kansas,27.0,20.0, Oklahoma State
+37,2014,10/11/2014, Central Michigan, Northern Illinois,34.0,17.0, Central Michigan
+38,2014,10/11/2014, Washington, California,31.0,7.0, Washington
+39,2014,10/11/2014, Alabama, Arkansas,14.0,13.0, Alabama
+40,2014,10/11/2014, Idaho, Georgia Southern,24.0,47.0, Georgia Southern
+41,2014,10/11/2014, Florida International, UTSA,13.0,16.0, UTSA
+42,2014,10/11/2014, Penn State, Michigan,13.0,18.0, Michigan
+43,2014,10/11/2014, East Carolina, South Florida,28.0,17.0, East Carolina
+44,2014,10/11/2014, Houston, Memphis,28.0,24.0, Houston
+45,2014,10/11/2014, LSU, Florida,30.0,27.0, LSU
+46,2014,10/11/2014, Charleston So., Vanderbilt,20.0,21.0, Vanderbilt
+47,2014,10/11/2014, Connecticut, Tulane,3.0,12.0, Tulane
+48,2014,10/11/2014, Old Dominion, UTEP,35.0,42.0, UTEP
+49,2014,10/11/2014, Mississippi, Texas A&M,35.0,20.0, Mississippi
+50,2014,10/11/2014, Air Force, Utah State,16.0,34.0, Utah State
+51,2014,10/11/2014, Colorado State, Nevada,31.0,24.0, Colorado State
+52,2014,10/11/2014, USC, Arizona,28.0,26.0, USC
+53,2014,10/12/2014, Wyoming, Hawai'i,28.0,38.0, Hawai'i
+0,2014,10/14/2014, Louisiana-Lafayette, Texas State,34.0,10.0, Louisiana-Lafayette
+1,2014,10/16/2014, Virginia Tech, Pittsburgh,16.0,21.0, Pittsburgh
+2,2014,10/16/2014, Utah, Oregon State,29.0,23.0, Utah
+3,2014,10/17/2014, Fresno State, Boise State,27.0,37.0, Boise State
+4,2014,10/17/2014, Temple, Houston,10.0,31.0, Houston
+5,2014,10/18/2014, South Florida, Tulsa,38.0,30.0, South Florida
+6,2014,10/18/2014, Tulane, UCF,13.0,20.0, UCF
+7,2014,10/18/2014, Syracuse, Wake Forest,30.0,7.0, Syracuse
+8,2014,10/18/2014, Baylor, West Virginia,27.0,41.0, West Virginia
+9,2014,10/18/2014, Kansas State, Oklahoma,31.0,30.0, Kansas State
+10,2014,10/18/2014, Iowa, Maryland,31.0,38.0, Maryland
+11,2014,10/18/2014, Purdue, Minnesota,38.0,39.0, Minnesota
+12,2014,10/18/2014, Western Kentucky, Florida Atlantic,38.0,45.0, Florida Atlantic
+13,2014,10/18/2014, UTSA, Louisiana Tech,20.0,27.0, Louisiana Tech
+14,2014,10/18/2014, Furman, South Carolina,10.0,41.0, South Carolina
+15,2014,10/18/2014, Virginia, Duke,13.0,20.0, Duke
+16,2014,10/18/2014, Akron, Ohio,20.0,23.0, Ohio
+17,2014,10/18/2014, Western Michigan, Bowling Green,26.0,14.0, Western Michigan
+18,2014,10/18/2014, Eastern Michigan, Massachusetts,14.0,36.0, Massachusetts
+19,2014,10/18/2014, Appalachian State, Troy,53.0,14.0, Appalachian State
+20,2014,10/18/2014, Texas A&M, Alabama,0.0,59.0, Alabama
+21,2014,10/18/2014, UCLA, California,36.0,34.0, UCLA
+22,2014,10/18/2014, New Mexico, Air Force,31.0,35.0, Air Force
+23,2014,10/18/2014, Army, Kent State,17.0,39.0, Kent State
+24,2014,10/18/2014, Ball State, Central Michigan,32.0,29.0, Ball State
+25,2014,10/18/2014, Rutgers, Ohio State,17.0,56.0, Ohio State
+26,2014,10/18/2014, UAB, Middle Tennessee,22.0,34.0, Middle Tennessee
+27,2014,10/18/2014, North Carolina State, Louisville,18.0,30.0, Louisville
+28,2014,10/18/2014, Cincinnati, SMU,41.0,3.0, Cincinnati
+29,2014,10/18/2014, Clemson, Boston College,17.0,13.0, Clemson
+30,2014,10/18/2014, Michigan State, Indiana,56.0,17.0, Michigan State
+31,2014,10/18/2014, Kansas, Texas Tech,21.0,34.0, Texas Tech
+32,2014,10/18/2014, Oklahoma State, TCU,9.0,42.0, TCU
+33,2014,10/18/2014, Georgia, Arkansas,45.0,32.0, Georgia
+34,2014,10/18/2014, San Jose State, Wyoming,27.0,20.0, San Jose State
+35,2014,10/18/2014, New Mexico State, Idaho,17.0,29.0, Idaho
+36,2014,10/18/2014, Miami (Ohio), Northern Illinois,41.0,51.0, Northern Illinois
+37,2014,10/18/2014, Marshall, Florida International,45.0,13.0, Marshall
+38,2014,10/18/2014, Colorado, USC,28.0,56.0, USC
+39,2014,10/18/2014, Tennessee, Mississippi,3.0,34.0, Mississippi
+40,2014,10/18/2014, Missouri, Florida,42.0,13.0, Missouri
+41,2014,10/18/2014, Southern Mississippi, North Texas,30.0,20.0, Southern Mississippi
+42,2014,10/18/2014, Utah State, Colorado State,13.0,16.0, Colorado State
+43,2014,10/18/2014, Georgia Tech, North Carolina,43.0,48.0, North Carolina
+44,2014,10/18/2014, Nebraska, Northwestern,38.0,17.0, Nebraska
+45,2014,10/18/2014, Georgia State, South Alabama,27.0,30.0, South Alabama
+46,2014,10/18/2014, Kentucky, LSU,3.0,41.0, LSU
+47,2014,10/18/2014, Washington, Oregon,20.0,45.0, Oregon
+48,2014,10/18/2014, Iowa State, Texas,45.0,48.0, Texas
+49,2014,10/18/2014, Notre Dame, Florida State,27.0,31.0, Florida State
+50,2014,10/18/2014, Nevada, BYU,42.0,35.0, Nevada
+51,2014,10/18/2014, Hawai'i, San Diego State,10.0,20.0, San Diego State
+52,2014,10/18/2014, Stanford, Arizona State,10.0,26.0, Arizona State
+0,2014,10/21/2014, Arkansas State, Louisiana-Lafayette,40.0,55.0, Louisiana-Lafayette
+1,2014,10/23/2014, Connecticut, East Carolina,21.0,31.0, East Carolina
+2,2014,10/23/2014, Miami (Florida), Virginia Tech,30.0,6.0, Miami (Florida)
+3,2014,10/24/2014, South Florida, Cincinnati,17.0,34.0, Cincinnati
+4,2014,10/24/2014, Troy, South Alabama,13.0,27.0, South Alabama
+5,2014,10/24/2014, BYU, Boise State,30.0,55.0, Boise State
+6,2014,10/24/2014, Oregon, California,59.0,41.0, Oregon
+7,2014,10/25/2014, UAB, Arkansas,17.0,45.0, Arkansas
+8,2014,10/25/2014, Memphis, SMU,48.0,10.0, Memphis
+9,2014,10/25/2014, Texas, Kansas State,0.0,23.0, Kansas State
+10,2014,10/25/2014, Minnesota, Illinois,24.0,28.0, Illinois
+11,2014,10/25/2014, Maryland, Wisconsin,7.0,52.0, Wisconsin
+12,2014,10/25/2014, Rutgers, Nebraska,24.0,42.0, Nebraska
+13,2014,10/25/2014, North Texas, Rice,21.0,41.0, Rice
+14,2014,10/25/2014, North Carolina, Virginia,28.0,27.0, North Carolina
+15,2014,10/25/2014, Northern Illinois, Eastern Michigan,28.0,17.0, Northern Illinois
+16,2014,10/25/2014, San Jose State, Navy,31.0,41.0, Navy
+17,2014,10/25/2014, Ohio, Western Michigan,21.0,42.0, Western Michigan
+18,2014,10/25/2014, Massachusetts, Toledo,35.0,42.0, Toledo
+19,2014,10/25/2014, Akron, Ball State,21.0,35.0, Ball State
+20,2014,10/25/2014, Georgia Southern, Georgia State,69.0,31.0, Georgia Southern
+21,2014,10/25/2014, UCLA, Colorado,40.0,37.0, UCLA
+22,2014,10/25/2014, Kent State, Miami (Ohio),3.0,10.0, Miami (Ohio)
+23,2014,10/25/2014, Georgia Tech, Pittsburgh,56.0,28.0, Georgia Tech
+24,2014,10/25/2014, Central Michigan, Buffalo,20.0,14.0, Central Michigan
+25,2014,10/25/2014, Oregon State, Stanford,14.0,38.0, Stanford
+26,2014,10/25/2014, West Virginia, Oklahoma State,34.0,10.0, West Virginia
+27,2014,10/25/2014, Texas Tech, TCU,27.0,82.0, TCU
+28,2014,10/25/2014, Boston College, Wake Forest,23.0,17.0, Boston College
+29,2014,10/25/2014, Florida Atlantic, Marshall,16.0,35.0, Marshall
+30,2014,10/25/2014, Louisiana Tech, Southern Mississippi,31.0,20.0, Louisiana Tech
+31,2014,10/25/2014, Michigan, Michigan State,11.0,35.0, Michigan State
+32,2014,10/25/2014, Mississippi State, Kentucky,45.0,31.0, Mississippi State
+33,2014,10/25/2014, Vanderbilt, Missouri,14.0,24.0, Missouri
+34,2014,10/25/2014, Old Dominion, Western Kentucky,51.0,66.0, Western Kentucky
+35,2014,10/25/2014, UNLV, Utah State,20.0,34.0, Utah State
+36,2014,10/25/2014, Temple, UCF,14.0,34.0, UCF
+37,2014,10/25/2014, Arizona, Washington State,59.0,37.0, Arizona
+38,2014,10/25/2014, Wyoming, Colorado State,31.0,45.0, Colorado State
+39,2014,10/25/2014, UTEP, UTSA,34.0,0.0, UTEP
+40,2014,10/25/2014, Syracuse, Clemson,6.0,16.0, Clemson
+41,2014,10/25/2014, Texas State, Louisiana-Monroe,22.0,18.0, Texas State
+42,2014,10/25/2014, Mississippi, LSU,7.0,10.0, LSU
+43,2014,10/25/2014, South Carolina, Auburn,35.0,42.0, Auburn
+44,2014,10/25/2014, Alabama, Tennessee,34.0,20.0, Alabama
+45,2014,10/25/2014, Ohio State, Penn State,31.0,24.0, Ohio State
+46,2014,10/25/2014, USC, Utah,21.0,24.0, Utah
+47,2014,10/25/2014, Arizona State, Washington,24.0,10.0, Arizona State
+48,2014,10/26/2014, Nevada, Hawai'i,26.0,18.0, Nevada

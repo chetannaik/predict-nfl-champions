@@ -1,0 +1,767 @@
+Date,Visitor,Visitor Score,Home Team,Home Score,Line
+08/30/2007,Miami-Ohio,14,Ball State,13,4.0
+08/30/2007,Buffalo,3,Rutgers,38,32.0
+08/30/2007,Louisiana State,45,Mississippi State,0,-20.0
+08/30/2007,Kent State,23,Iowa State,14,3.5
+08/30/2007,Nevada-Las Vegas,23,Utah State,16,-6.5
+08/30/2007,Utah,7,Oregon State,24,6.0
+08/30/2007,Tulsa,35,UL-Monroe,17,-3.5
+08/30/2007,S E Missouri St,3,Cincinnati,59, 
+08/30/2007,Murray State,10,Louisville,73, 
+08/30/2007,S E Louisiana,14,New Mexico State,35, 
+08/30/2007,Weber State,7,Boise State,56, 
+08/31/2007,Navy,30,Temple,19,-21.0
+08/31/2007,Washington,42,Syracuse,12,-3.0
+09/01/2007,Western Michigan,24,West Virginia,62,24.0
+09/01/2007,East Carolina,7,Virginia Tech,17,28.0
+09/01/2007,Marshall,3,Miami-Florida,31,18.0
+09/01/2007,U-A-B,18,Michigan State,55,24.0
+09/01/2007,Connecticut,45,Duke,14,-4.5
+09/01/2007,Virginia,3,Wyoming,23,-3.0
+09/01/2007,Nevada-Reno,10,Nebraska,52,21.0
+09/01/2007,Mississippi,23,Memphis,21,-2.5
+09/01/2007,Iowa,16,Northern Illinois,3,-12.5
+09/01/2007,Houston,27,Oregon,48,17.0
+09/01/2007,Washington State,21,Wisconsin,42,14.5
+09/01/2007,Georgia Tech,33,Notre Dame,3,1.0
+09/01/2007,Missouri,40,Illinois,34,-5.5
+09/01/2007,U.C.L.A.,45,Stanford,17,-16.5
+09/01/2007,Wake Forest,28,Boston College,38,5.5
+09/01/2007,Arizona,7,Brigham Young,20,3.5
+09/01/2007,Army,14,Akron,22,6.0
+09/01/2007,U-C-F,25,No Carolina State,23,8.0
+09/01/2007,Baylor,0,Texas Christian,27,21.0
+09/01/2007,Oklahoma State,14,Georgia,35,6.5
+09/01/2007,Central Michigan,7,Kansas,52,7.5
+09/01/2007,Colorado State,28,Colorado,31,2.5
+09/01/2007,Eastern Michigan,3,Pittsburgh,27,20.5
+09/01/2007,Purdue,52,Toledo,24,-6.0
+09/01/2007,Kansas State,13,Auburn,23,13.0
+09/01/2007,Bowling Green,32,Minnesota,31,14.5
+09/01/2007,Tennessee,31,California,45,7.0
+09/01/2007,New Mexico,6,UTEP,10,-3.5
+09/01/2007,San Jose State,3,Arizona State,45,16.5
+09/01/2007,Idaho,10,Southern Cal,38,46.5
+09/01/2007,Florida Intl,0,Penn State,59,36.5
+09/01/2007,Arkansas State,13,Texas,21,39.5
+09/01/2007,North Texas,10,Oklahoma,79,40.0
+09/01/2007,UL-Lafayette,14,South Carolina,28,29.0
+09/01/2007,Troy,26,Arkansas,46,23.5
+09/01/2007,Middle Tennessee,14,Florida Atlantic,27,2.5
+09/01/2007,Appalachian State,34,Michigan,32, 
+09/01/2007,Northeastern,0,Northwestern,27, 
+09/01/2007,Youngstown State,6,Ohio State,38, 
+09/01/2007,So Carolina State,3,Air Force,34, 
+09/01/2007,Eastern Kentucky,10,Kentucky,50, 
+09/01/2007,James Madison,14,North Carolina,37, 
+09/01/2007,Villanova,14,Maryland,31, 
+09/01/2007,Western Kentucky,3,Florida,49, 
+09/01/2007,Central Arkansas,7,Louisiana Tech,28, 
+09/01/2007,Gardner-Webb,14,Ohio,36, 
+09/01/2007,Montana State,7,Texas A+M,38, 
+09/01/2007,Richmond,17,Vanderbilt,41, 
+09/01/2007,Tennessee-Martin,13,Southern Miss,35, 
+09/01/2007,Indiana State,7,Indiana,55, 
+09/01/2007,Nicholls State,16,Rice,14, 
+09/01/2007,Sacramento State,3,Fresno State,24, 
+09/01/2007,Elon,13,South Florida,28, 
+09/01/2007,Western Carolina,6,Alabama,52, 
+09/01/2007,Northern Colorado,6,Hawaii,63, 
+09/03/2007,Texas Tech,49,S-M-U,9,-9.0
+09/03/2007,Florida State,18,Clemson,24,-3.5
+09/06/2007,Oregon State,3,Cincinnati,34,-3.0
+09/06/2007,Middle Tennessee,42,Louisville,58,41.0
+09/07/2007,Navy,24,Rutgers,41,16.5
+09/08/2007,West Virginia,48,Marshall,23,-25.5
+09/08/2007,Nevada-Reno,31,Northwestern,36,11.0
+09/08/2007,Nebraska,20,Wake Forest,17,-9.0
+09/08/2007,Miami-Florida,13,Oklahoma,51,11.0
+09/08/2007,Miami-Ohio,35,Minnesota,41,8.5
+09/08/2007,Buffalo,42,Temple,7,3.5
+09/08/2007,Akron,2,Ohio State,20,28.0
+09/08/2007,Duke,13,Virginia,24,18.0
+09/08/2007,Alabama,24,Vanderbilt,10,-4.0
+09/08/2007,Toledo,31,Central Michigan,52,3.0
+09/08/2007,Bowling Green,17,Michigan State,28,18.0
+09/08/2007,Rice,17,Baylor,42,7.5
+09/08/2007,Utah State,18,Wyoming,32,25.0
+09/08/2007,San Jose State,14,Kansas State,34,20.0
+09/08/2007,California,34,Colorado State,28,-14.0
+09/08/2007,Missouri,38,Mississippi,25,-6.0
+09/08/2007,No Carolina State,17,Boston College,37,14.0
+09/08/2007,Ball State,38,Eastern Michigan,16,-3.5
+09/08/2007,Oregon,39,Michigan,7,7.5
+09/08/2007,Boise State,10,Washington,24,-3.0
+09/08/2007,Fresno State,45,Texas A+M,47,17.5
+09/08/2007,U-A-B,24,Florida State,34,37.0
+09/08/2007,South Carolina,16,Georgia,12,3.5
+09/08/2007,Notre Dame,10,Penn State,31,18.0
+09/08/2007,Air Force,20,Utah,12,7.5
+09/08/2007,North Carolina,31,East Carolina,34,5.5
+09/08/2007,Brigham Young,17,U.C.L.A.,27,8.5
+09/08/2007,Southern Miss,19,Tennessee,39,11.5
+09/08/2007,Texas Christian,13,Texas,34,7.5
+09/08/2007,Mississippi State,38,Tulane,17,-6.0
+09/08/2007,Kent State,20,Kentucky,56,14.0
+09/08/2007,UTEP,31,Texas Tech,45,24.5
+09/08/2007,San Diego State,17,Washington State,45,13.5
+09/08/2007,Hawaii,45,Louisiana Tech,44,-28.0
+09/08/2007,Syracuse,0,Iowa,35,24.0
+09/08/2007,Indiana,37,Western Michigan,27,1.5
+09/08/2007,South Florida,26,Auburn,23,6.5
+09/08/2007,Virginia Tech,7,Louisiana State,48,11.5
+09/08/2007,New Mexico State,34,New Mexico,44,7.0
+09/08/2007,Wisconsin,20,Nevada-Las Vegas,13,-25.0
+09/08/2007,Colorado,14,Arizona State,33,16.0
+09/08/2007,UL-Monroe,26,Clemson,49,25.0
+09/08/2007,Troy,31,Florida,59,26.0
+09/08/2007,Florida Atlantic,6,Oklahoma State,42,24.0
+09/08/2007,Ohio,31,UL-Lafayette,23,-1.0
+09/08/2007,Maryland,26,Florida Intl,10,-23.5
+09/08/2007,North Texas,31,S-M-U,45,18.5
+09/08/2007,Eastern Illinois,6,Purdue,52, 
+09/08/2007,Grambling,10,Pittsburgh,34, 
+09/08/2007,Rhode Island,7,Army,14, 
+09/08/2007,Samford,14,Georgia Tech,69, 
+09/08/2007,Cal-San Luis Obispo,13,Idaho,20, 
+09/08/2007,West Virginia Tech,0,Western Kentucky,87, 
+09/08/2007,Northern Iowa,24,Iowa State,13, 
+09/08/2007,S E Louisiana,0,Kansas,62, 
+09/08/2007,Western Illinois,0,Illinois,21, 
+09/08/2007,Maine,0,Connecticut,38, 
+09/08/2007,Southern Illinois,34,Northern Illinois,31, 
+09/08/2007,Northern Arizona,24,Arizona,45, 
+09/13/2007,West Virginia,31,Maryland,14,-16.0
+09/13/2007,Texas Christian,17,Air Force,20,-8.5
+09/14/2007,Oklahoma State,23,Troy,41,-10.0
+09/15/2007,Illinois,41,Syracuse,20,-11.0
+09/15/2007,Temple,17,Connecticut,22,31.5
+09/15/2007,Virginia,22,North Carolina,20,3.0
+09/15/2007,Buffalo,24,Penn State,45,33.0
+09/15/2007,Mississippi,17,Vanderbilt,31,7.0
+09/15/2007,Mississippi State,19,Auburn,14,12.5
+09/15/2007,Central Michigan,22,Purdue,45,21.5
+09/15/2007,Cincinnati,47,Miami-Ohio,10,-7.0
+09/15/2007,Ohio,7,Virginia Tech,28,22.5
+09/15/2007,Iowa,13,Iowa State,15,-17.5
+09/15/2007,Toledo,13,Kansas,45,27.0
+09/15/2007,Eastern Michigan,21,Northern Illinois,19,12.5
+09/15/2007,Army,10,Wake Forest,21,19.5
+09/15/2007,Tennessee,20,Florida,59,7.0
+09/15/2007,Notre Dame,0,Michigan,38,9.5
+09/15/2007,Utah State,3,Oklahoma,54,47.0
+09/15/2007,Fresno State,21,Oregon,52,16.5
+09/15/2007,Pittsburgh,13,Michigan State,17,11.5
+09/15/2007,Ohio State,33,Washington,14,-3.0
+09/15/2007,Texas,35,U-C-F,32,-16.5
+09/15/2007,Louisiana Tech,12,California,42,33.5
+09/15/2007,U.C.L.A.,6,Utah,44,-15.5
+09/15/2007,Ball State,34,Navy,31,7.0
+09/15/2007,Akron,24,Indiana,41,13.5
+09/15/2007,Southern Miss,28,East Carolina,21,-2.0
+09/15/2007,Western Michigan,24,Missouri,52,20.0
+09/15/2007,Idaho,28,Washington State,45,24.5
+09/15/2007,Houston,34,Tulane,10,-14.5
+09/15/2007,Louisville,34,Kentucky,40,-5.0
+09/15/2007,Arkansas,38,Alabama,41,3.0
+09/15/2007,Boston College,24,Georgia Tech,10,7.0
+09/15/2007,Duke,20,Northwestern,14,16.5
+09/15/2007,Texas Tech,59,Rice,24,-28.0
+09/15/2007,Southern Cal,49,Nebraska,31,-9.5
+09/15/2007,UTEP,24,New Mexico State,29,5.0
+09/15/2007,Wyoming,14,Boise State,24,12.0
+09/15/2007,Brigham Young,47,Tulsa,55,-7.0
+09/15/2007,Hawaii,49,Nevada-Las Vegas,14,-17.0
+09/15/2007,Florida State,16,Colorado,6,-4.5
+09/15/2007,San Diego State,13,Arizona State,34,29.0
+09/15/2007,New Mexico,29,Arizona,27,9.5
+09/15/2007,San Jose State,0,Stanford,37,7.0
+09/15/2007,Florida Intl,9,Miami-Florida,23,32.5
+09/15/2007,UL-Monroe,14,Texas A+M,54,22.0
+09/15/2007,S-M-U,28,Arkansas State,45,3.5
+09/15/2007,Minnesota,39,Florida Atlantic,42,-6.5
+09/15/2007,Middle Tennessee,0,Louisiana State,44,41.0
+09/15/2007,The Citadel,31,Wisconsin,45, 
+09/15/2007,Eastern Kentucky,6,Western Kentucky,26, 
+09/15/2007,Jacksonville St,14,Memphis,35, 
+09/15/2007,New Hampshire,48,Marshall,35, 
+09/15/2007,Norfolk State,0,Rutgers,59, 
+09/15/2007,So Carolina State,3,South Carolina,38, 
+09/15/2007,Western Carolina,16,Georgia,45, 
+09/15/2007,Furman,10,Clemson,38, 
+09/15/2007,Delaware State,7,Kent State,38, 
+09/15/2007,McNeese State,38,UL-Lafayette,17, 
+09/15/2007,Wofford,17,No Carolina State,38, 
+09/15/2007,Idaho State,10,Oregon State,61, 
+09/15/2007,Alcorn State,0,U-A-B,22, 
+09/15/2007,Texas State,27,Baylor,34, 
+09/15/2007,Missouri State,10,Kansas State,61, 
+09/15/2007,Nicholls State,17,Nevada-Reno,52, 
+09/20/2007,Texas A+M,17,Miami-Florida,34,1.5
+09/20/2007,Western Kentucky,20,Middle Tennessee,17, 
+09/21/2007,Oklahoma,62,Tulsa,21,-23.5
+09/22/2007,Syracuse,38,Louisville,35,37.5
+09/22/2007,Illinois,27,Indiana,14,-1.5
+09/22/2007,Duke,43,Navy,46,14.0
+09/22/2007,Baylor,34,Buffalo,21,-2.5
+09/22/2007,Kent State,20,Akron,27,-2.5
+09/22/2007,Army,17,Boston College,37,27.0
+09/22/2007,Miami-Ohio,0,Colorado,42,13.0
+09/22/2007,Ball State,40,Nebraska,41,24.0
+09/22/2007,Air Force,6,Brigham Young,31,14.5
+09/22/2007,Washington,31,U.C.L.A.,44,6.0
+09/22/2007,Georgia,26,Alabama,23,3.5
+09/22/2007,Florida,30,Mississippi,24,-24.5
+09/22/2007,Northwestern,7,Ohio State,58,23.5
+09/22/2007,Penn State,9,Michigan,14,-3.0
+09/22/2007,Texas Tech,45,Oklahoma State,49,-5.5
+09/22/2007,Michigan State,31,Notre Dame,14,-10.5
+09/22/2007,Memphis,20,U-C-F,56,7.0
+09/22/2007,Georgia Tech,23,Virginia,28,-3.5
+09/22/2007,Colorado State,27,Houston,38,7.0
+09/22/2007,Arizona,27,California,45,14.0
+09/22/2007,Northern Illinois,42,Idaho,35,2.5
+09/22/2007,Temple,35,Bowling Green,48,21.5
+09/22/2007,East Carolina,7,West Virginia,48,24.0
+09/22/2007,Iowa State,35,Toledo,36,-3.0
+09/22/2007,North Carolina,10,South Florida,37,13.0
+09/22/2007,Maryland,24,Wake Forest,31,4.0
+09/22/2007,Clemson,42,No Carolina State,20,-7.0
+09/22/2007,Marshall,14,Cincinnati,40,24.0
+09/22/2007,Kentucky,42,Arkansas,29,7.5
+09/22/2007,New Mexico State,20,Auburn,55,16.0
+09/22/2007,Connecticut,34,Pittsburgh,14,8.5
+09/22/2007,Wyoming,34,Ohio,33,-4.0
+09/22/2007,Rice,14,Texas,58,38.5
+09/22/2007,Washington State,14,Southern Cal,47,25.0
+09/22/2007,South Carolina,16,Louisiana State,28,17.5
+09/22/2007,Iowa,13,Wisconsin,17,7.5
+09/22/2007,San Jose State,23,Utah State,20,2.5
+09/22/2007,S-M-U,7,Texas Christian,21,23.5
+09/22/2007,Purdue,45,Minnesota,31,-14.0
+09/22/2007,Utah,0,Nevada-Las Vegas,27,-8.0
+09/22/2007,Oregon,55,Stanford,31,-18.5
+09/22/2007,Oregon State,32,Arizona State,44,11.0
+09/22/2007,Florida Intl,3,Kansas,55,36.0
+09/22/2007,Troy,48,UL-Lafayette,31,-9.0
+09/22/2007,Florida Atlantic,30,North Texas,20,-7.0
+09/22/2007,Arkansas State,27,Tennessee,48,19.5
+09/22/2007,Gardner-Webb,15,Mississippi State,31, 
+09/22/2007,North Dakota St,44,Central Michigan,14, 
+09/22/2007,Texas Southern,12,UTEP,52, 
+09/22/2007,William + Mary,3,Virginia Tech,44, 
+09/22/2007,Illinois State,17,Missouri,38, 
+09/22/2007,Howard,15,Eastern Michigan,38, 
+09/22/2007,S E Louisiana,27,Tulane,35, 
+09/22/2007,Portland State,17,San Diego State,52, 
+09/22/2007,Central Conn State,14,Western Michigan,51, 
+09/22/2007,Sacramento State,0,New Mexico,58, 
+09/22/2007,Charleston Southern,10,Hawaii,66, 
+09/27/2007,Southern Miss,16,Boise State,38,10.5
+09/27/2007,Memphis,31,Arkansas State,35,6.0
+09/28/2007,West Virginia,13,South Florida,21,-7.0
+09/29/2007,Duke,14,Miami-Florida,24,24.0
+09/29/2007,North Carolina,10,Virginia Tech,17,19.5
+09/29/2007,Akron,10,Connecticut,44,15.5
+09/29/2007,Indiana,38,Iowa,20,10.0
+09/29/2007,Mississippi State,21,South Carolina,38,14.0
+09/29/2007,Temple,21,Army,37,6.5
+09/29/2007,Air Force,20,Navy,31,2.5
+09/29/2007,Buffalo,14,Ball State,49,13.5
+09/29/2007,Northern Illinois,10,Central Michigan,35,3.5
+09/29/2007,Michigan,28,Northwestern,16,-16.5
+09/29/2007,Syracuse,14,Miami-Ohio,17,-2.0
+09/29/2007,Utah State,18,Utah,34,21.5
+09/29/2007,California,31,Oregon,24,7.0
+09/29/2007,Alabama,14,Florida State,21,2.5
+09/29/2007,Mississippi,17,Georgia,45,14.5
+09/29/2007,Auburn,20,Florida,17,18.0
+09/29/2007,U.C.L.A.,40,Oregon State,14,3.0
+09/29/2007,Penn State,20,Illinois,27,-3.0
+09/29/2007,Michigan State,34,Wisconsin,37,7.0
+09/29/2007,Iowa State,17,Nebraska,35,21.5
+09/29/2007,Kansas State,41,Texas,21,15.0
+09/29/2007,Nevada-Las Vegas,20,Nevada-Reno,27,4.0
+09/29/2007,UTEP,48,S-M-U,45,1.5
+09/29/2007,Hawaii,48,Idaho,20,-24.5
+09/29/2007,Louisiana State,34,Tulane,9,-41.5
+09/29/2007,Colorado State,12,Texas Christian,24,9.5
+09/29/2007,Eastern Michigan,7,Vanderbilt,30,22.0
+09/29/2007,Western Michigan,42,Toledo,28,1.0
+09/29/2007,Kent State,33,Ohio,25,-2.0
+09/29/2007,Oklahoma,24,Colorado,27,-23.5
+09/29/2007,Baylor,10,Texas A+M,34,16.5
+09/29/2007,Pittsburgh,14,Virginia,44,7.0
+09/29/2007,East Carolina,37,Houston,35,13.5
+09/29/2007,U-A-B,30,Tulsa,38,24.5
+09/29/2007,Louisville,29,No Carolina State,10,-9.0
+09/29/2007,Clemson,3,Georgia Tech,13,-3.0
+09/29/2007,Maryland,34,Rutgers,24,17.5
+09/29/2007,Ohio State,30,Minnesota,7,-24.5
+09/29/2007,Southern Cal,27,Washington,24,-19.0
+09/29/2007,Notre Dame,19,Purdue,33,21.5
+09/29/2007,Brigham Young,31,New Mexico,24,-3.5
+09/29/2007,Washington State,20,Arizona,48,3.0
+09/29/2007,Arizona State,41,Stanford,3,-14.0
+09/29/2007,Louisiana Tech,6,Fresno State,17,12.0
+09/29/2007,Cincinnati,52,San Diego State,23,-14.0
+09/29/2007,UL-Lafayette,19,U-C-F,37,22.5
+09/29/2007,Florida Intl,6,Middle Tennessee,47,9.5
+09/29/2007,Florida Atlantic,17,Kentucky,45,24.5
+09/29/2007,North Texas,7,Arkansas,66,35.0
+09/29/2007,UL-Monroe,7,Troy,24,11.5
+09/29/2007,Arkansas-Pine Bluff,17,New Mexico State,20, 
+09/29/2007,Massachusetts,14,Boston College,24, 
+09/29/2007,UC-Davis,14,San Jose State,34, 
+09/29/2007,Western Kentucky,21,Bowling Green,41, 
+09/29/2007,Northwestern St(LA),7,Texas Tech,75, 
+09/29/2007,Sam Houston State,3,Oklahoma State,39, 
+10/02/2007,Marshall,21,Memphis,24,3.0
+10/03/2007,Rice,31,Southern Miss,29,20.5
+10/04/2007,Kentucky,23,South Carolina,38,3.5
+10/05/2007,Utah,44,Louisville,35,14.5
+10/06/2007,Northern Illinois,15,Temple,16,-3.5
+10/06/2007,West Virginia,55,Syracuse,14,-27.0
+10/06/2007,Cincinnati,28,Rutgers,23,3.0
+10/06/2007,Wisconsin,26,Illinois,31,3.0
+10/06/2007,Minnesota,20,Indiana,40,13.5
+10/06/2007,Northwestern,48,Michigan State,41,15.5
+10/06/2007,Miami-Florida,27,North Carolina,33,-7.5
+10/06/2007,Wake Forest,41,Duke,36,-7.5
+10/06/2007,Central Michigan,58,Ball State,38,13.0
+10/06/2007,Vanderbilt,7,Auburn,35,7.0
+10/06/2007,Bowling Green,24,Boston College,55,19.0
+10/06/2007,Ohio,10,Buffalo,31,-4.0
+10/06/2007,Tulane,17,Army,20,5.5
+10/06/2007,Eastern Michigan,22,Michigan,33,29.0
+10/06/2007,Texas Christian,21,Wyoming,24,3.0
+10/06/2007,Oklahoma State,23,Texas A+M,24,7.0
+10/06/2007,U-A-B,13,Mississippi State,30,17.5
+10/06/2007,Miami-Ohio,20,Kent State,13,8.0
+10/06/2007,Kansas,30,Kansas State,24,4.0
+10/06/2007,Louisiana Tech,0,Mississippi,24,13.0
+10/06/2007,Colorado,43,Baylor,23,-8.5
+10/06/2007,Virginia Tech,41,Clemson,23,6.0
+10/06/2007,Oklahoma,28,Texas,21,-12.5
+10/06/2007,Nebraska,6,Missouri,41,6.5
+10/06/2007,Iowa,7,Penn State,27,9.5
+10/06/2007,No Carolina State,10,Florida State,27,18.0
+10/06/2007,Georgia,14,Tennessee,35,-1.5
+10/06/2007,Fresno State,49,Nevada-Reno,41,3.0
+10/06/2007,Houston,24,Alabama,30,11.0
+10/06/2007,Idaho,20,San Jose State,28,7.0
+10/06/2007,San Diego State,24,Colorado State,20,13.0
+10/06/2007,Arizona,16,Oregon State,31,3.0
+10/06/2007,Stanford,24,Southern Cal,23,39.0
+10/06/2007,Akron,39,Western Michigan,38,9.5
+10/06/2007,Georgia Tech,26,Maryland,28,-3.0
+10/06/2007,Iowa State,17,Texas Tech,42,24.5
+10/06/2007,U-C-F,38,East Carolina,52,-3.5
+10/06/2007,Florida,24,Louisiana State,28,8.0
+10/06/2007,Ohio State,23,Purdue,7,-7.0
+10/06/2007,Notre Dame,20,U.C.L.A.,6,21.0
+10/06/2007,Nevada-Las Vegas,14,Air Force,31,5.5
+10/06/2007,Tulsa,47,UTEP,48,-3.0
+10/06/2007,Arizona State,23,Washington State,20,-9.5
+10/06/2007,Utah State,37,Hawaii,52,40.5
+10/06/2007,South Florida,35,Florida Atlantic,23,-17.5
+10/06/2007,Arkansas State,13,UL-Monroe,30,-2.5
+10/06/2007,North Texas,29,UL-Lafayette,38,9.5
+10/06/2007,Troy,34,Florida Intl,16,-19.0
+10/06/2007,Virginia,23,Middle Tennessee,21,-10.0
+10/06/2007,Chattanooga,15,Arkansas,34, 
+10/06/2007,Liberty,34,Toledo,35, 
+10/07/2007,New Mexico State,0,Boise State,58,24.5
+10/10/2007,Navy,48,Pittsburgh,45,3.5
+10/11/2007,Florida State,21,Wake Forest,24,-5.0
+10/12/2007,Hawaii,42,San Jose State,35,-17.0
+10/13/2007,Purdue,21,Michigan,48,5.0
+10/13/2007,Rutgers,38,Syracuse,14,-17.0
+10/13/2007,Eastern Michigan,42,Ohio,48,4.0
+10/13/2007,Minnesota,48,Northwestern,49,6.5
+10/13/2007,Kent State,3,Ohio State,48,30.5
+10/13/2007,South Carolina,21,North Carolina,15,-7.5
+10/13/2007,Georgia Tech,17,Miami-Florida,14,3.0
+10/13/2007,Virginia Tech,43,Duke,14,-14.5
+10/13/2007,Louisville,28,Cincinnati,24,8.0
+10/13/2007,Alabama,27,Mississippi,24,-6.5
+10/13/2007,Georgia,20,Vanderbilt,17,-7.0
+10/13/2007,Toledo,33,Buffalo,43,3.5
+10/13/2007,Baylor,10,Kansas,48,26.0
+10/13/2007,New Mexico,20,Wyoming,3,3.5
+10/13/2007,Tennessee,33,Mississippi State,21,-7.0
+10/13/2007,Bowling Green,14,Miami-Ohio,47,-1.0
+10/13/2007,San Diego State,7,Utah,23,14.0
+10/13/2007,Army,23,Central Michigan,47,14.0
+10/13/2007,Rice,48,Houston,56,22.5
+10/13/2007,Washington State,7,Oregon,53,20.0
+10/13/2007,Wisconsin,7,Penn State,38,7.0
+10/13/2007,Oklahoma State,45,Nebraska,14,4.0
+10/13/2007,Texas,56,Iowa State,3,-17.0
+10/13/2007,Illinois,6,Iowa,10,-4.0
+10/13/2007,Boston College,27,Notre Dame,14,-14.0
+10/13/2007,Western Michigan,17,Northern Illinois,13,-4.5
+10/13/2007,Texas Christian,38,Stanford,36,-6.0
+10/13/2007,Oregon State,31,California,28,14.0
+10/13/2007,Fresno State,37,Idaho,24,-9.5
+10/13/2007,Air Force,45,Colorado State,21,3.5
+10/13/2007,Temple,24,Akron,20,12.0
+10/13/2007,Louisiana State,37,Kentucky,43,-9.5
+10/13/2007,Auburn,9,Arkansas,7,3.5
+10/13/2007,Tulane,21,U-A-B,26,2.5
+10/13/2007,Connecticut,16,Virginia,17,3.5
+10/13/2007,New Mexico State,21,Louisiana Tech,22,7.5
+10/13/2007,Marshall,31,Tulsa,38,14.0
+10/13/2007,Indiana,27,Michigan State,52,3.5
+10/13/2007,Texas A+M,7,Texas Tech,35,10.0
+10/13/2007,Missouri,31,Oklahoma,41,13.5
+10/13/2007,Colorado,20,Kansas State,47,4.0
+10/13/2007,S-M-U,7,Southern Miss,28,9.0
+10/13/2007,U-C-F,12,South Florida,64,10.0
+10/13/2007,East Carolina,45,UTEP,42,3.0
+10/13/2007,Brigham Young,24,Nevada-Las Vegas,14,-12.0
+10/13/2007,Washington,20,Arizona State,44,11.0
+10/13/2007,Arizona,13,Southern Cal,20,21.0
+10/13/2007,UL-Lafayette,21,Arkansas State,52,10.5
+10/13/2007,UL-Monroe,21,North Texas,31,-7.5
+10/13/2007,Middle Tennessee,21,Memphis,7,3.0
+10/13/2007,Western Kentucky,12,Ball State,35, 
+10/14/2007,Nevada-Reno,67,Boise State,69,25.0
+10/18/2007,South Florida,27,Rutgers,30,-2.5
+10/18/2007,Utah,27,Texas Christian,20,3.5
+10/19/2007,Northwestern,26,Eastern Michigan,14,-10.0
+10/19/2007,Louisville,17,Connecticut,21,-3.0
+10/20/2007,Buffalo,12,Syracuse,20,4.0
+10/20/2007,Miami-Ohio,17,Temple,24,-6.0
+10/20/2007,Mississippi State,13,West Virginia,38,25.5
+10/20/2007,Penn State,36,Indiana,31,-7.0
+10/20/2007,Central Michigan,14,Clemson,70,17.0
+10/20/2007,Northern Illinois,3,Wisconsin,44,23.0
+10/20/2007,Arkansas,44,Mississippi,8,-4.5
+10/20/2007,Vanderbilt,17,South Carolina,16,13.0
+10/20/2007,Wake Forest,44,Navy,24,-3.0
+10/20/2007,Army,10,Georgia Tech,34,24.0
+10/20/2007,Wyoming,12,Air Force,20,2.5
+10/20/2007,Ball State,27,Western Michigan,23,1.0
+10/20/2007,Kansas,19,Colorado,14,-3.0
+10/20/2007,Memphis,38,Rice,35,0.0
+10/20/2007,Tulane,41,S-M-U,34,5.5
+10/20/2007,Nevada-Reno,31,Utah State,28,-7.0
+10/20/2007,Tennessee,17,Alabama,41,-1.5
+10/20/2007,Texas A+M,36,Nebraska,14,1.0
+10/20/2007,Oklahoma,17,Iowa State,7,-30.5
+10/20/2007,Texas Tech,10,Missouri,41,3.5
+10/20/2007,California,21,U.C.L.A.,30,-3.0
+10/20/2007,Southern Cal,38,Notre Dame,0,-17.0
+10/20/2007,Miami-Florida,37,Florida State,29,6.0
+10/20/2007,Oregon,55,Washington,34,-12.5
+10/20/2007,Michigan State,17,Ohio State,24,17.0
+10/20/2007,Virginia,18,Maryland,17,4.5
+10/20/2007,Bowling Green,31,Kent State,20,5.5
+10/20/2007,Tulsa,23,U-C-F,44,3.0
+10/20/2007,No Carolina State,34,East Carolina,20,5.5
+10/20/2007,Stanford,21,Arizona,20,13.5
+10/20/2007,San Jose State,0,Fresno State,30,12.5
+10/20/2007,Houston,49,U-A-B,10,-13.0
+10/20/2007,Florida,45,Kentucky,37,-7.0
+10/20/2007,Boise State,45,Louisiana Tech,31,-16.5
+10/20/2007,Iowa,6,Purdue,31,7.0
+10/20/2007,Ohio,40,Toledo,43,1.0
+10/20/2007,Texas,31,Baylor,10,-26.5
+10/20/2007,Kansas State,39,Oklahoma State,41,3.0
+10/20/2007,Cincinnati,17,Pittsburgh,24,-10.0
+10/20/2007,Michigan,27,Illinois,17,-2.0
+10/20/2007,Idaho,31,New Mexico State,45,8.0
+10/20/2007,Auburn,24,Louisiana State,30,11.0
+10/20/2007,New Mexico,20,San Diego State,17,-9.0
+10/20/2007,Colorado State,48,Nevada-Las Vegas,23,2.5
+10/20/2007,North Texas,7,Troy,45,23.5
+10/20/2007,Arkansas State,7,Middle Tennessee,24,2.5
+10/20/2007,Florida Atlantic,39,UL-Lafayette,32,-5.5
+10/20/2007,Florida Intl,14,UL-Monroe,23,13.0
+10/20/2007,Western Kentucky,56,Indiana State,7, 
+10/20/2007,North Dakota St,27,Minnesota,21, 
+10/20/2007,Eastern Washington,7,Brigham Young,42, 
+10/21/2007,Southern Miss,33,Marshall,24,-4.0
+10/25/2007,Boston College,14,Virginia Tech,10,3.0
+10/25/2007,Air Force,31,New Mexico,34,6.5
+10/26/2007,Boise State,34,Fresno State,21,-2.5
+10/27/2007,South Florida,15,Connecticut,22,-4.5
+10/27/2007,Indiana,3,Wisconsin,33,9.0
+10/27/2007,Northwestern,17,Purdue,35,13.5
+10/27/2007,North Carolina,10,Wake Forest,37,6.0
+10/27/2007,Pittsburgh,17,Louisville,24,10.5
+10/27/2007,Ball State,17,Illinois,28,13.5
+10/27/2007,Duke,6,Florida State,25,17.5
+10/27/2007,Minnesota,10,Michigan,34,21.5
+10/27/2007,Iowa State,3,Missouri,17,17.5
+10/27/2007,Mississippi,28,Auburn,42,28.0
+10/27/2007,Miami-Ohio,13,Vanderbilt,24,13.5
+10/27/2007,Akron,10,Buffalo,26,0.0
+10/27/2007,Central Michigan,41,Kent State,32,-3.5
+10/27/2007,Baylor,13,Kansas State,51,26.5
+10/27/2007,Kansas,19,Texas A+M,11,-2.5
+10/27/2007,Colorado,31,Texas Tech,26,13.0
+10/27/2007,Nevada-Las Vegas,24,Wyoming,29,10.0
+10/27/2007,S-M-U,23,Tulsa,29,14.5
+10/27/2007,Memphis,28,Tulane,27,1.5
+10/27/2007,Southern Cal,17,Oregon,24,3.0
+10/27/2007,Louisiana Tech,31,Utah State,21,-2.5
+10/27/2007,Arizona,48,Washington,41,4.0
+10/27/2007,Western Michigan,2,Eastern Michigan,19,-5.5
+10/27/2007,U-A-B,6,East Carolina,41,14.0
+10/27/2007,Georgia,42,Florida,30,7.5
+10/27/2007,Michigan State,27,Iowa,34,-3.0
+10/27/2007,Clemson,30,Maryland,17,-3.5
+10/27/2007,Virginia,24,No Carolina State,29,-3.5
+10/27/2007,Nebraska,25,Texas,28,20.5
+10/27/2007,Idaho,21,Nevada-Reno,37,18.0
+10/27/2007,Rice,21,Marshall,34,9.0
+10/27/2007,Utah,27,Colorado State,3,-5.0
+10/27/2007,Ohio,38,Bowling Green,27,7.5
+10/27/2007,Stanford,6,Oregon State,23,14.0
+10/27/2007,U.C.L.A.,7,Washington State,27,-6.0
+10/27/2007,South Carolina,24,Tennessee,27,3.0
+10/27/2007,Northern Illinois,21,Toledo,70,3.5
+10/27/2007,Mississippi State,31,Kentucky,14,13.5
+10/27/2007,West Virginia,31,Rutgers,3,-6.0
+10/27/2007,Ohio State,37,Penn State,17,-3.5
+10/27/2007,Houston,34,UTEP,31,-6.0
+10/27/2007,California,20,Arizona State,31,3.0
+10/27/2007,New Mexico State,13,Hawaii,50,30.5
+10/27/2007,Florida Intl,10,Arkansas,58,41.0
+10/27/2007,UL-Monroe,33,Florida Atlantic,30,6.5
+10/27/2007,Troy,27,Arkansas State,0,-5.0
+10/27/2007,Middle Tennessee,48,North Texas,28,-13.0
+10/27/2007,No Carolina Central,14,Western Kentucky,50, 
+10/27/2007,Delaware,59,Navy,52, 
+10/28/2007,U-C-F,34,Southern Miss,17,3.0
+11/01/2007,Virginia Tech,27,Georgia Tech,3,2.5
+11/02/2007,Temple,7,Ohio,23,9.5
+11/02/2007,Akron,20,Bowling Green,44,7.0
+11/02/2007,Nevada-Reno,40,New Mexico State,38,-7.0
+11/03/2007,Ball State,20,Indiana,38,7.0
+11/03/2007,Rutgers,19,Connecticut,38,0.0
+11/03/2007,Cincinnati,38,South Florida,33,5.0
+11/03/2007,Iowa,28,Northwestern,17,2.0
+11/03/2007,Maryland,13,North Carolina,16,2.0
+11/03/2007,No Carolina State,19,Miami-Florida,16,10.0
+11/03/2007,Clemson,47,Duke,10,-17.5
+11/03/2007,Vanderbilt,22,Florida,49,14.5
+11/03/2007,South Carolina,36,Arkansas,48,5.5
+11/03/2007,Colorado State,16,Brigham Young,35,21.0
+11/03/2007,Kansas State,20,Iowa State,31,-14.5
+11/03/2007,Nebraska,39,Kansas,76,18.5
+11/03/2007,East Carolina,56,Memphis,40,-5.0
+11/03/2007,Purdue,19,Penn State,26,8.0
+11/03/2007,Navy,46,Notre Dame,44,3.5
+11/03/2007,San Jose State,7,Boise State,42,25.5
+11/03/2007,UTEP,48,Rice,56,-7.5
+11/03/2007,Louisiana State,41,Alabama,34,-6.5
+11/03/2007,U.C.L.A.,27,Arizona,34,0.0
+11/03/2007,Arizona State,23,Oregon,35,9.0
+11/03/2007,Buffalo,28,Miami-Ohio,31,6.0
+11/03/2007,Army,10,Air Force,30,17.0
+11/03/2007,Marshall,13,U-C-F,47,13.5
+11/03/2007,Michigan,28,Michigan State,24,-4.0
+11/03/2007,Texas A+M,14,Oklahoma,42,21.0
+11/03/2007,Wisconsin,17,Ohio State,38,16.0
+11/03/2007,Utah State,27,Fresno State,38,20.5
+11/03/2007,Louisiana Tech,28,Idaho,16,-3.5
+11/03/2007,New Mexico,0,Texas Christian,37,3.5
+11/03/2007,Washington,27,Stanford,9,-3.0
+11/03/2007,Eastern Michigan,28,Toledo,52,8.0
+11/03/2007,Texas Tech,38,Baylor,7,-21.0
+11/03/2007,Texas,38,Oklahoma State,35,-1.5
+11/03/2007,Missouri,55,Colorado,10,-3.5
+11/03/2007,Wake Forest,16,Virginia,17,1.5
+11/03/2007,Southern Miss,37,U-A-B,7,-11.0
+11/03/2007,Syracuse,17,Pittsburgh,20,13.0
+11/03/2007,Florida State,27,Boston College,17,6.5
+11/03/2007,Tulsa,49,Tulane,25,-7.0
+11/03/2007,Oregon State,3,Southern Cal,24,17.0
+11/03/2007,Illinois,44,Minnesota,17,-11.5
+11/03/2007,Wyoming,24,San Diego State,27,-4.0
+11/03/2007,Washington State,17,California,20,15.5
+11/03/2007,Florida Intl,24,Arkansas State,27,17.0
+11/03/2007,Troy,34,Georgia,44,14.0
+11/03/2007,UL-Lafayette,7,Tennessee,59,27.5
+11/03/2007,Middle Tennessee,43,UL-Monroe,40,-3.0
+11/03/2007,Tennessee Tech,3,Auburn,35, 
+11/03/2007,Western Kentucky,28,Chattanooga,21, 
+11/03/2007,Northwestern St(LA),31,Mississippi,38, 
+11/04/2007,S-M-U,28,Houston,38,20.5
+11/06/2007,Central Michigan,34,Western Michigan,31,-3.5
+11/07/2007,Ohio,37,Akron,48,-3.0
+11/08/2007,Louisville,31,West Virginia,38,17.0
+11/08/2007,Texas Christian,22,Brigham Young,27,7.0
+11/09/2007,Bowling Green,39,Eastern Michigan,32,-3.5
+11/09/2007,Rutgers,41,Army,6,-20.0
+11/10/2007,Indiana,28,Northwestern,31,-2.0
+11/10/2007,Michigan State,48,Purdue,31,4.0
+11/10/2007,Virginia,48,Miami-Florida,0,3.5
+11/10/2007,Wake Forest,10,Clemson,44,9.0
+11/10/2007,Penn State,31,Temple,0,-25.5
+11/10/2007,Georgia Tech,41,Duke,24,-14.0
+11/10/2007,South Florida,41,Syracuse,10,-19.0
+11/10/2007,Kentucky,27,Vanderbilt,20,-4.0
+11/10/2007,Connecticut,3,Cincinnati,27,7.0
+11/10/2007,Colorado,28,Iowa State,31,-4.0
+11/10/2007,Air Force,41,Notre Dame,24,-3.0
+11/10/2007,Colorado State,23,New Mexico,26,9.0
+11/10/2007,Houston,7,Tulsa,56,0.0
+11/10/2007,Rice,43,S-M-U,42,6.0
+11/10/2007,Boise State,52,Utah State,0,-24.0
+11/10/2007,Wyoming,0,Utah,50,13.5
+11/10/2007,Arizona State,24,U.C.L.A.,20,-7.0
+11/10/2007,Alabama,12,Mississippi State,17,-3.5
+11/10/2007,Arkansas,13,Tennessee,34,-1.5
+11/10/2007,Auburn,20,Georgia,45,2.5
+11/10/2007,Stanford,17,Washington State,33,12.0
+11/10/2007,Kansas State,31,Nebraska,73,-7.5
+11/10/2007,Minnesota,16,Iowa,21,14.5
+11/10/2007,Texas A+M,26,Missouri,40,18.5
+11/10/2007,Michigan,21,Wisconsin,37,-2.5
+11/10/2007,Illinois,28,Ohio State,21,15.0
+11/10/2007,Florida State,21,Virginia Tech,40,7.0
+11/10/2007,New Mexico State,17,San Jose State,51,5.0
+11/10/2007,Kent State,20,Northern Illinois,27,-3.5
+11/10/2007,East Carolina,7,Marshall,26,-7.0
+11/10/2007,Memphis,29,Southern Miss,26,16.5
+11/10/2007,Boston College,35,Maryland,42,-7.0
+11/10/2007,Texas Tech,43,Texas,59,6.5
+11/10/2007,Baylor,21,Oklahoma,52,39.0
+11/10/2007,North Carolina,27,No Carolina State,31,3.5
+11/10/2007,Kansas,43,Oklahoma State,28,-5.0
+11/10/2007,UTEP,19,Tulane,34,-3.5
+11/10/2007,Florida,51,South Carolina,31,-6.5
+11/10/2007,U-C-F,45,U-A-B,31,-20.0
+11/10/2007,Louisiana Tech,10,Louisiana State,58,36.5
+11/10/2007,Southern Cal,24,California,17,-4.5
+11/10/2007,Washington,23,Oregon State,29,3.5
+11/10/2007,San Diego State,38,Nevada-Las Vegas,30,3.0
+11/10/2007,Fresno State,30,Hawaii,37,19.5
+11/10/2007,UL-Lafayette,34,Middle Tennessee,24,13.5
+11/10/2007,Navy,74,North Texas,62,-16.0
+11/10/2007,Arkansas State,31,Florida Atlantic,34,6.5
+11/10/2007,Troy,21,Western Kentucky,17, 
+11/10/2007,Grambling,14,UL-Monroe,28, 
+11/13/2007,Toledo,20,Ball State,41,7.0
+11/14/2007,Akron,0,Miami-Ohio,7,7.5
+11/15/2007,Oregon,24,Arizona,34,-11.0
+11/15/2007,North Texas,27,Arkansas State,31,15.5
+11/16/2007,Eastern Michigan,48,Central Michigan,45,14.0
+11/16/2007,Hawaii,28,Nevada-Reno,26,-5.5
+11/17/2007,Western Michigan,28,Iowa,19,14.0
+11/17/2007,Kent State,14,Temple,24,-1.0
+11/17/2007,North Carolina,25,Georgia Tech,27,11.0
+11/17/2007,Penn State,31,Michigan State,35,-2.5
+11/17/2007,West Virginia,28,Cincinnati,23,-5.5
+11/17/2007,Syracuse,7,Connecticut,30,20.0
+11/17/2007,Purdue,24,Indiana,27,-2.0
+11/17/2007,Vanderbilt,24,Tennessee,25,11.5
+11/17/2007,Bowling Green,31,Buffalo,17,1.5
+11/17/2007,Tulsa,49,Army,39,-15.5
+11/17/2007,Brigham Young,35,Wyoming,10,-10.5
+11/17/2007,San Diego State,23,Air Force,55,12.5
+11/17/2007,Mississippi State,31,Arkansas,45,12.5
+11/17/2007,Utah State,35,New Mexico State,17,6.5
+11/17/2007,Oklahoma State,45,Baylor,14,-14.0
+11/17/2007,Oklahoma,27,Texas Tech,34,-7.5
+11/17/2007,Iowa State,7,Kansas,45,27.5
+11/17/2007,Idaho,14,Boise State,58,33.5
+11/17/2007,Duke,7,Notre Dame,28,7.0
+11/17/2007,U-C-F,49,S-M-U,20,-10.5
+11/17/2007,Tulane,45,Rice,31,2.0
+11/17/2007,Marshall,28,Houston,35,11.5
+11/17/2007,Northern Illinois,24,Navy,35,17.0
+11/17/2007,U-A-B,9,Memphis,25,9.5
+11/17/2007,California,23,Washington,37,-7.0
+11/17/2007,Louisiana State,41,Mississippi,24,-20.0
+11/17/2007,Kentucky,13,Georgia,24,7.5
+11/17/2007,Missouri,49,Kansas State,32,-7.0
+11/17/2007,Ohio State,14,Michigan,3,-4.0
+11/17/2007,Miami-Florida,14,Virginia Tech,44,17.5
+11/17/2007,Boston College,20,Clemson,17,9.0
+11/17/2007,Maryland,16,Florida State,24,7.5
+11/17/2007,New Mexico,10,Utah,28,14.5
+11/17/2007,Oregon State,52,Washington State,17,3.0
+11/17/2007,San Jose State,23,Louisiana Tech,27,6.0
+11/17/2007,No Carolina State,18,Wake Forest,38,6.5
+11/17/2007,Louisville,17,South Florida,55,8.5
+11/17/2007,Wisconsin,41,Minnesota,34,-14.0
+11/17/2007,Nevada-Las Vegas,10,Texas Christian,34,20.0
+11/17/2007,Southern Miss,56,UTEP,30,-3.0
+11/17/2007,Pittsburgh,16,Rutgers,20,12.0
+11/17/2007,Northwestern,22,Illinois,41,13.5
+11/17/2007,UL-Monroe,21,Alabama,14,24.0
+11/17/2007,UL-Lafayette,38,Florida Intl,28,-2.5
+11/17/2007,Florida Atlantic,20,Florida,59,34.0
+11/17/2007,Morehead State,12,Western Kentucky,52, 
+11/17/2007,Georgia Southern,34,Colorado State,42, 
+11/20/2007,Middle Tennessee,7,Troy,45,13.5
+11/22/2007,Southern Cal,44,Arizona State,21,-3.5
+11/23/2007,Central Michigan,35,Akron,32,-3.5
+11/23/2007,Nebraska,51,Colorado,65,3.0
+11/23/2007,Mississippi,14,Mississippi State,17,5.0
+11/23/2007,Wyoming,28,Colorado State,36,3.5
+11/23/2007,Toledo,10,Bowling Green,37,7.0
+11/23/2007,Arkansas,50,Louisiana State,48,13.0
+11/23/2007,Texas,30,Texas A+M,38,-7.0
+11/23/2007,Boise State,27,Hawaii,39,3.0
+11/24/2007,South Florida,48,Pittsburgh,37,-9.0
+11/24/2007,Connecticut,21,West Virginia,66,21.0
+11/24/2007,UTEP,20,U-C-F,36,21.0
+11/24/2007,Missouri,36,Kansas,28,1.0
+11/24/2007,Duke,14,North Carolina,20,14.0
+11/24/2007,Wake Forest,31,Vanderbilt,17,1.0
+11/24/2007,Maryland,37,No Carolina State,0,1.0
+11/24/2007,Cincinnati,52,Syracuse,31,-21.0
+11/24/2007,Clemson,23,South Carolina,21,-3.0
+11/24/2007,Buffalo,30,Kent State,23,1.5
+11/24/2007,Tulane,12,East Carolina,35,12.0
+11/24/2007,Tennessee,52,Kentucky,50,2.5
+11/24/2007,Miami-Ohio,29,Ohio,38,0.0
+11/24/2007,Utah,10,Brigham Young,17,4.0
+11/24/2007,S-M-U,52,Memphis,55,7.5
+11/24/2007,Tulsa,48,Rice,43,-14.0
+11/24/2007,Oregon,0,U.C.L.A.,16,-3.0
+11/24/2007,Alabama,10,Auburn,17,6.0
+11/24/2007,Georgia,31,Georgia Tech,17,-4.0
+11/24/2007,Utah State,24,Idaho,19,2.5
+11/24/2007,Florida State,12,Florida,45,14.5
+11/24/2007,Oklahoma State,17,Oklahoma,49,13.0
+11/24/2007,Nevada-Reno,24,San Jose State,27,-3.5
+11/24/2007,Ball State,27,Northern Illinois,21,-9.0
+11/24/2007,U-A-B,39,Marshall,46,14.5
+11/24/2007,Kansas State,29,Fresno State,45,-1.0
+11/24/2007,Nevada-Las Vegas,6,New Mexico,27,12.0
+11/24/2007,Washington State,42,Washington,35,6.5
+11/24/2007,Temple,3,Western Michigan,16,14.0
+11/24/2007,Miami-Florida,14,Boston College,28,14.5
+11/24/2007,Virginia Tech,33,Virginia,21,-3.5
+11/24/2007,Notre Dame,21,Stanford,14,5.0
+11/24/2007,Texas Christian,45,San Diego State,33,-13.5
+11/24/2007,Arkansas State,10,Southern Miss,16,14.0
+11/24/2007,UL-Monroe,17,UL-Lafayette,11,-4.0
+11/24/2007,Florida Atlantic,55,Florida Intl,23,-10.0
+11/24/2007,Texas Southern,6,Houston,59, 
+11/24/2007,Western Kentucky,26,North Texas,27, 
+11/29/2007,Rutgers,38,Louisville,41,2.5
+11/30/2007,Fresno State,30,New Mexico State,23,-13.5
+12/01/2007,Army,3,Navy,38,14.0
+12/01/2007,Louisiana Tech,10,Nevada-Reno,49,7.0
+12/01/2007,U.C.L.A.,7,Southern Cal,24,19.5
+12/01/2007,Oregon State,38,Oregon,31,1.5
+12/01/2007,California,13,Stanford,20,-13.0
+12/01/2007,Pittsburgh,13,West Virginia,9,28.5
+12/01/2007,Arizona,17,Arizona State,20,6.5
+12/01/2007,Washington,28,Hawaii,35,13.5
+12/01/2007,Florida Atlantic,38,Troy,32,15.5
+12/01/2007,North Texas,19,Florida Intl,38,-2.5
+12/01/2007,Central Michigan,35,Miami-Ohio,10,-3.5
+12/01/2007,Tulsa,25,U-C-F,44,7.5
+12/01/2007,Virginia Tech,30,Boston College,16,-4.5
+12/01/2007,Tennessee,14,Louisiana State,21,7.0
+12/01/2007,Oklahoma,38,Missouri,17,-3.0
+12/01/2007,Brigham Young,48,San Diego State,27,-16.5
