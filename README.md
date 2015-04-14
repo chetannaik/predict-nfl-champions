@@ -1,5 +1,5 @@
-# Predicting-nfl-and-college-champions
-Models to predict superbowl champions
+# Predicting NFL and College Football Champions
+Machine Learning Models to predict Superbowl champions.
 
 Team Members
 
