@@ -44,7 +44,7 @@ You can view the notebooks in the IPython notebook viewer (see links below).
 * Initial Models: [Notebooks](http://nbviewer.ipython.org/github/chetannaik/predict-nfl-champions/tree/master/old_notebook_files/)
 
 #### Team Members:
-- Chetain Naik
+- Chetan Naik
 - Ankit Arun
 - Sindhuri Mamidi
 - Beijie Li
